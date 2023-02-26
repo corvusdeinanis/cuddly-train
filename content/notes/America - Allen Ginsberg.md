@@ -11,7 +11,7 @@ Allen Ginsberg - Beat generation poet;
 America is personified
 
 > [!Poem] America 
-> America I’ve given you all and now I’m nothing. [^1]
+> America I’ve given you all and now I’m nothing. 
 America two dollars and twentyseven cents January 17, 1956.   
 I can’t stand my own mind.
 America when will we end the human war?
@@ -85,7 +85,7 @@ America is this correct?
 I’d better get right down to the job.
 It’s true I don’t want to join the Army or turn lathes in precision parts factories, I’m nearsighted and psychopathic anyway.
 America I’m putting my queer shoulder to the wheel.
-[^1]: sdaads
+
 
 
 --- 
