@@ -2,6 +2,7 @@
 ## Welcome to Astro's Garden! 🌱
 
 ### (Looking for [[notes]]?)
+[[/notes/notes]]
  
 
 A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki.  It's 
