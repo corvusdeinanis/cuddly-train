@@ -1,0 +1,17 @@
+---
+title: "Classical Conditioning"
+tags: ['psychology']
+---
+
+Ivan Pavlov 
+
+Desc
+
+**Principles** 
+	1. Stimulus Generalization
+	2. 
+	3.
+	4.
+	5.
+	
+
