@@ -8,7 +8,7 @@ enabletoc: false
 
 ## Welcome to Astro's Garden! 🌱
 
-### (Looking for [[/notes/notes]]?)
+### (Looking for [[notes]]?)
 
  
 
