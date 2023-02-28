@@ -1,6 +1,7 @@
 ---
 title: "Home"
-toc: disabled
+toc: false
+enabletoc: false
 
 ---
 
