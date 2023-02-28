@@ -9,11 +9,14 @@ physically, emotionally, socially, spiritually
 overall idea we have about who we are
 how we perceive, think, and value ourselves
 
-##### Characteristics of self concept
+### Mirror Test 
+        >add<
+
+### Characteristics of self concept
 multi-dimensional - 
 learned, not inherent
 
-##### What it includes:
+### What it includes:
 How we see ourselves
 our roles (father,son,sister,etc)
 personality traits
@@ -35,7 +38,12 @@ it can change later but is harder
 
 
 ### Types of self 
-
+Academic
+	
+Artistic
+Athletic
+Emotional 
+Moral 
 
 ### Ideal self
 Who we want to be 

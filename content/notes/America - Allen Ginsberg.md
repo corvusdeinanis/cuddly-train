@@ -10,8 +10,7 @@ Allen Ginsberg - Beat generation poet;
 
 America is personified
 
-> [!Poem]- America 
->
+> [!Poem]-
 > America I’ve given you all and now I’m nothing. 
 America two dollars and twentyseven cents January 17, 1956.   
 I can’t stand my own mind.
@@ -95,3 +94,6 @@ see also -
 [[beat generation]]
 [[red scare]]
 [[McCarthyism]]
+
+
+

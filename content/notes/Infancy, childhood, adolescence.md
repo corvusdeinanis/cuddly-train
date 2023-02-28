@@ -1,8 +1,6 @@
 ---
 title: "Infancy, Childhood, and Adolescence"
 tags: ['psychology','lifespan']
-module: ['4']
-
 ---
 
 **Neonate** -> Infant between 0 and 28 days/4 weeks
@@ -59,3 +57,13 @@ Marasmus -
 
 Kwashiorkor - 
 
+## Cry
+Crying is the most important mechanism newborns have to communicate their needs
+### three types of cries :
+1. Basic Crying 
+> rythmic
+>   
+- Anger Cry 
+- Pain Cry 
+
+![[Temperament in Infancy]]

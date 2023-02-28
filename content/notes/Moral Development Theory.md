@@ -21,7 +21,8 @@ LEARNT
 	"tit for tat"
 
 ## Conventional (9-12)
-**stage 3: interpersonal rel**
+**stage 3: interpersonal relationship**
+maintain or win affection and approval 
 **stage 4:law and order**
 
 ## Post conventional (12 - 15)

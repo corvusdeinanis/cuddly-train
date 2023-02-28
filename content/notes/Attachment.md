@@ -3,10 +3,11 @@ title: "Attachment"
 tags: ['psychology']
 ---
 
-definition - strong emotional bond
+# definition 
+strong emotional bond between two people 
 
 
-Factors affecting - 
+# Factors affecting - 
 
 
 During child's development
@@ -20,6 +21,13 @@ During child's development
 [[Bowlby's Theory]] - Monotropy - care is the most important factor - maternal deprivation 
 
 
-## Attachment Styles
+# Attachment Styles
 
+## Secure
+
+## Insecure Ambivalent
+
+## Insecure Avoidant
+
+## Disordered Attachment 
 

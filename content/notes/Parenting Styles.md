@@ -28,10 +28,11 @@ children - low self esteem, can be dependent on others, quick to anger
 
 ### permissive
 high warmth, low control
+
 ### uninvolved
 low warmth, low control
 
-Very important factor for child's development
+**Very important factor for child's development**
 
 [[Attachment]]
 

@@ -5,7 +5,7 @@ tags: ['English','politics','poem','Colonialism']
 author: ['W.H. Auden']
 ---
 
-by [[W.H. Auden]] 
+by **W.H. Auden** 
 
 
 ### **About the Author**
@@ -20,8 +20,7 @@ Cyril Radcliffe was given the hard and impossible task of dividing a country int
 
 ### Text
 ---
-
-```
+``` Poem
 Unbiased at least he was when he arrived on his mission,
 Having never set eyes on this land he was called to partition
 Between two peoples fanatically at odds,

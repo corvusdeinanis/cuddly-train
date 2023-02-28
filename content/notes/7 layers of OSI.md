@@ -12,7 +12,6 @@ tags: ['cloud','stub']
 7. Application
 
 >example of calculator
->
 
 ```mermaid
 flowchart 
