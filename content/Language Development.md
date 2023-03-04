@@ -1,6 +1,6 @@
 ---
 title: "Language Development"
-tags: ['pychology']
+tags: ['psychology']
 ---
 
 ### something

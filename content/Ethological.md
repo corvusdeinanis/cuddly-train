@@ -1,5 +1,5 @@
 ---
-title: "Ethological Theory"
+title: ["Ethological Theory"]
 tags: ['stub','psychology']
 ---
 

@@ -1,15 +1,7 @@
----
-title: "Home"
-toc: false
-enabletoc: false
-
----
-
 
 ## Welcome to Astro's Garden! 🌱
 
 ### (Looking for [[notes]]?)
-
  
 
 A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki.  It's 
@@ -34,3 +26,11 @@ Some things here might not apply to you, might be wrong, or straight up silly. I
 
 [^codex]: A Codex vitae is a 'living document'. Coined by Robin Sloan. Popularized by Buster Benson. https://busterbenson.com/blog/2012/11-28-codex-vitae/ 
 [^digitalgarden]: A great writeup on Digital Gardens https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/. 
+
+
+
+
+
+
+
+

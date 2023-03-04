@@ -30,7 +30,7 @@ Sampling (CVS), Ultrasound. 
 e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Period of
 Fetus
 f) Problems in the prenatal period and their effects on the fetus: Teratogens, Diseases,
-Drugs, Environmental hazards; Age of Viability
+Drugs, Envixronmental hazards; Age of Viability
 ### 2. PERINATAL PERIOD: 
 a) Meaning and definition of Perinatal environment
 b) Birthing process – Stages of birth 
