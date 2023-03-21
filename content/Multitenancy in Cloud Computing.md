@@ -1,5 +1,5 @@
 ---
-title:"Multitenancy in Cloud Computing"
+title: "Multitenancy in Cloud Computing"
 tags:['cloudcomputing']
 date:2023-03-14
 ---
