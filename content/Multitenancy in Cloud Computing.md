@@ -1,7 +1,6 @@
 ---
 title: "Multitenancy in Cloud Computing"
 tags:['cloudcomputing']
-date:"2023-03-14"
 ---
 
 # What is it?
