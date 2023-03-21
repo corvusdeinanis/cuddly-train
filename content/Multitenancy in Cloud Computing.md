@@ -1,6 +1,6 @@
 ---
 title: "Multitenancy in Cloud Computing"
-tags:['cloudcomputing']
+tags: ['cloudcomputing']
 ---
 
 # What is it?
