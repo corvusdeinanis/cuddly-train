@@ -34,6 +34,5 @@ Maugham
 
 ### Module 4 Visual Texts
 
-1. Happy Days-  Samuel Beckett
-   
+1. Schindler's List   
 2. Pygmalion 
