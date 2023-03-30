@@ -7,7 +7,7 @@ tags: ['cloudcomputing']
 ## Unit 1
 
 **2 Marks**
-1. Define Cloud Computing
+1. Define [[Cloud Computing]]
 
 **5 Marks**
 1. Differentiate parallel and distributed computing

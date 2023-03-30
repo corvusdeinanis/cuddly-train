@@ -7,8 +7,7 @@ tags: ['psychology']
 strong emotional bond between two people 
 
 
-# Factors affecting - 
-
+# Factors affecting attachment - 
 
 During child's development
 

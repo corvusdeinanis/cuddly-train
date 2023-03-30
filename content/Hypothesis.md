@@ -9,7 +9,7 @@ to the point, clear
 not vague
 
 
-### Types of Hypotheses
+## Types of Hypotheses
 - Alternative
 - Null
 - Complex
@@ -17,6 +17,8 @@ not vague
 - Statistical
 - Empirical
 
-#### Null Hypothesis
+### Null Hypothesis
 proposes no relationship between two variable
 denoted by H
+
+ 

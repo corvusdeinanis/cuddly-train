@@ -14,6 +14,7 @@ new information==
 
 
 
+
 - "systemized way to gain new information" - 
 - "movement from known to unknown"
 - problem to conclusion
