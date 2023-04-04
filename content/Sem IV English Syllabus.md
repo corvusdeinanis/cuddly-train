@@ -22,15 +22,6 @@ Maugham
 8. [[A Portrait of the Artist as a Young Man]] - James Joyce
 9. [[Nagamandala]] - Girish Karnad
 
-### Module 4 : Visual Texts
-
-<<<<<<< Updated upstream
-
 ### Module 4 Visual Texts
-
-1. Schindler's List   
-2. Pygmalion 
-=======
 1. Schindler's List
 2. [[Pygmalion]] 
->>>>>>> Stashed changes
