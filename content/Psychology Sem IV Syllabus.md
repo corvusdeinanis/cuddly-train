@@ -26,20 +26,18 @@ e) Attachment theory (John Bowlby and Mary Ainsworth) [[Attachment]]
 a) Heredity- Twin studies &amp; Adoption studies 
 b) Conception and growth of Zygote, Germ cells, Sex determination 
 c) An Overview of Common genetic abnormalities [[Genes in relation to lifespan dev]]
-d) Predicting hereditary disorders: Genetic counselling, Amniocentesis, Chorionic Villus
-Sampling (CVS), Ultrasound. 
-e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Period of
-Fetus 
+d) Predicting hereditary disorders: Genetic counselling, Amniocentesis, Chorionic Villus Sampling (CVS), Ultrasound. 
+e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Period of Fetus 
 f) Problems in the prenatal period and their effects on the fetus: Teratogens, Diseases, Drugs, Envixronmental hazards; Age of Viability 
 ### 2. PERINATAL PERIOD: 
 a) Meaning and definition of Perinatal environment
 b) Birthing process – Stages of birth [[Stages Of Birth]]
-c) Assessing a new-born: APGAR scale and NBAS 
+c) Assessing a new-born: APGAR scale and NBAS [[assessing of newbowns]]
 d) Birth complications – Anoxia, Breech birth, premature birth, Low birth weight. [[Birth Complications]]
 e) Types of birth [[Types of Birth]]
 
 ## MODULE IV: INFANCY, CHILDHOOD AND ADOLESCENCE 
-a) Neonate – Meaning and definition 
+a) Neonate – Meaning and definition [[Infancy, childhood, adolescence]]
 b) New-born reflexes – types, milestones, functions
 c) Infant States – Sleep, *Cry*, *Temperament* [[Chess and Thomas' Temperaments in infants]]
 d) Physical development from infancy through childhood 
@@ -59,8 +57,8 @@ b) Physical Development
 c) Cognitive Development
 d) Career Development: Factors related to career choice and growth
 e) Interpersonal Relationships: Love: Sternberg’s Triarchic theory of love; Marriage, Divorce
-f) Mid-life crisis, Empty Nest Syndrome
-g) Defining Aging
-h) Theories of Aging: genetic pre-programming theories of aging, wear-and-tear theories of aging, disengagement theory of aging, activity theory of aging
-i) Grief and bereavement process: Kubler Ross’s theory.
-j) Successful aging & Adjustment in old age
+f) Mid-life crisis, Empty Nest Syndrome[[Midlife Crisis]]  [[Empty Nest Syndrome]]
+g) Defining Aging [[Theories of Aging]]
+h) Theories of Aging: genetic pre-programming theories of aging, wear-and-tear theories of aging, disengagement theory of aging, activity theory of aging [[Theories of Aging]]
+i) Grief and bereavement process: Kubler Ross’s theory. [[Stages of Grief]]
+j) Successful aging & Adjustment in old age 

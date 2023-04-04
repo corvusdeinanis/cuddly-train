@@ -4,17 +4,26 @@ date: '2022-12-05'
 tags: ['psychology']
 ---
 
+```mermaid
+flowchart
+A(Theories of Human Development) -->B(Psychosocial)-->x(Erik Erikson)
+A-->C(Psychosexual)-->y(Freud)
+A-->D(Cognitive)
+D-->E(Piaget)
+D-->F(Vygotsky)
+D-->G(Information Processing Theory)
+```
 
-
-## **Psychosexual** Theory by Freud
+# **Psychosexual** Theory by Freud
 erogenous zones, sexual stages, oedipus complex, electra complex  
 1. Oral 
 2. Anal
-3. Genital
-4. 
+3. Phallic
+4. Latency
+5. Genital
 
 
-## Erikson's **Psychosocial** Theory
+# Erikson's **Psychosocial** Theory
 connection, attribution, love, care
 ### Stages of Erikson's theory
 #### 1. Trust vs Mistrust
@@ -55,9 +64,9 @@ connection, attribution, love, care
 	death??
 
 
-### Cognitive Theories
+# Cognitive Theories
 
-1. Piaget
+## 1. Piaget
    accd to him, **the way they think, not how much they know, decides their cognitive development**
    children actively contruct their understanding of the world 
    four stages of cognitive development
@@ -75,11 +84,11 @@ connection, attribution, love, care
    
    
    
-2. Vygotsky's Sociocultural Cognitive Method
+## 2. Vygotsky's Sociocultural Cognitive Method
    emphasizes on **how culture and social interaction** mould cognitive development
-   
-   
-3. Information processing theory
+   [[Zone of Proximal Development]]
+   [[Scaffolding]]
+## 3. Information processing theory
    No structure or stages; continuous/gradual 
    monitoring, manipulating, strategizing information
    

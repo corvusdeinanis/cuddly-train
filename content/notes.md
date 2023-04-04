@@ -3,7 +3,7 @@ title: "Links to Notes"
 ---
 
 [Psychology](https://corvusdeinanis.github.io/quartzgarden/tags/psychology)
-> [[Psychology Sem IV Modules]]
+> [[Psychology Sem IV Syllabus]]
 
 [English](https://corvusdeinanis.github.io/quartzgarden/tags/english)
 > [[Sem IV English Syllabus]]
