@@ -67,3 +67,12 @@ Writing material
 - used to measure depression in general population 
 - used in clincal setup
 
+---
+
+```mermaid
+flowchart TB
+A(1958 - FIRO B)-->B
+B(1961 -Beck's Depression Inventory / BDI)
+C(1970s - BDI IA )
+D(1996 - BDI II)
+```
