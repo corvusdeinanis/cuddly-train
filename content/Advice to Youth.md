@@ -1,6 +1,6 @@
 ---
 title: "Advice to Youth - Mark Twain"
-tags: ['English']
+tags: ['English','Literature']
 ---
 
 Advice given to youth by [[Mark Twain]], fam
