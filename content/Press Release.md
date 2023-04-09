@@ -1,7 +1,6 @@
 ---
 title: "Press Release"
 tags: ['journalism']
-
 ---
 
 **definition** - a tool used to generate publicity 
