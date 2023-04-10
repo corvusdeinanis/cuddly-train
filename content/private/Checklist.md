@@ -1,15 +1,15 @@
 
 ### Module 1: The Essay
-- [ ] 1.  [[Room of Ones Own|Room of One's Own]]  - [[Virginia Woolf]] 
-- [ ] 2. [[Character of Dogs]] by [[Robert Louis Stevenson]]
-- [ ] 3. [[Advice to Youth]]- [[Mark Twain]]
+- [x] 1.  [[../A Room of Ones Own|Room of One's Own]]  - [[Virginia Woolf]] 
+- [x] 2. [[The Character of Dogs]] by [[Robert Louis Stevenson]]
+- [x] 3. [[Advice to Youth]]- [[Mark Twain]]
 
 ### Module 2 : The Poetry
-- [ ] 1. [[Partition by WH Auden]] 
+- [x] 1. [[Partition by WH Auden]] 
 - [ ] 2.  [[Sailing to Byzantium]] by [[WB Yeats]]
 - [ ] 3. [[Preludes]] by [[TS Eliot]] 
-- [ ] 4. [[Dawn At Puri]] by [[Jayanta Mahapatra]]
-- [ ] 5.  [[America - Allen Ginsberg]] by [[Allen Ginsberg]]
+- [x] 4. [[Dawn At Puri]] by [[Jayanta Mahapatra]]
+- [x] 5.  [[America - Allen Ginsberg]] by [[Allen Ginsberg]]
 - [ ] 6.  [[Imagine - John Lennon]] by John Lennon
 
 ### Module 3 : The Novel & Drama

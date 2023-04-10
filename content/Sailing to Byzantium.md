@@ -17,8 +17,8 @@ monument of unageing intellect
 perne???
 
 ---
-a```poem
-That is no country for old men. The young
+>[!Note]
+>**That is no country for old men**. The young
 In one another's arms, birds in the trees,
 —Those dying generations—at their song,
 The salmon-falls, the mackerel-crowded seas,

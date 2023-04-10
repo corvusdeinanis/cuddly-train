@@ -3,10 +3,11 @@ title: "Imagine by John Lennon"
 tags: ['English','song','faith','poem','stub']
 author: ['John Lennon']
 ---
-
+by [[John Lennon]]
 no countries, no religion, no possessions, no division
 no hunger
 anti-war 
+pacifist 
 
 John Lennon asks us to imagine a world, a dream world where humanity is free of conflicts and barriers. Of peace and brotherhood.
 
@@ -26,7 +27,6 @@ Nothing to kill or die for
 And no religion, too
 Imagine all the people
 Livin' life in peace
-You
 You may say I'm a dreamer
 But I'm not the only one
 I hope someday you'll join us
@@ -37,7 +37,6 @@ No need for greed or hunger
 A brotherhood of man
 Imagine all the people
 Sharing all the world
-You
 You may say I'm a dreamer
 But I'm not the only one
 I hope someday you'll join us

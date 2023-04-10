@@ -4,7 +4,7 @@ tags: ['psychology','person','psychologist']
 date: 2023-04-04
 ---
 
-![[images/Aaron T Beck.jpg]]
+![[images/Aaron T Beck.jpg|100]]
 
 **Aaron T Beck** (July 18, 1921 – November 1, 2021) - influential psychiatrist who is regarded as the **father of cognitive therapy** and **cognitive behavioural therapy**.
 

@@ -15,7 +15,7 @@ by **W.H. Auden**
 about the India - Pakistan partition in 1947
 angry about partition, directed towards Radcliffe
 
-Cyril Radcliffe was given the hard and impossible task of dividing a country into two. The partition caused **largest mass migration** in history and caused the death of ____ people. 
+**Cyril Radcliffe** was given the hard and impossible task of dividing a country into two. The partition caused **largest mass migration** in history and caused the death of ____ people. 
 
 
 ### Text
@@ -52,3 +52,22 @@ The case, as a good lawyer must. Return he would not,
 Afraid, as he told his Club, that he might get shot.
 ```
 ---
+
+condemns colonialism, a system in which people from _outside_ of a given culture make decisions without any understanding
+
+outsider not suited to make decisions makes decisions 
+
+he maps at his disposal were out of date
+And the Census Returns almost certainly incorrect,
+
+For mutual reconciliation or rational debate:
+The only solution now lies in separation.
+
+never seen the land before, and causes a "A continent for better or worse divided."
+
+in **7 weeks**
+
+Radcliffe Line - the partition line 
+
+fifteen million people had been uprooted 
+1 - 2 million people had died 

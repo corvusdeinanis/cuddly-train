@@ -13,8 +13,8 @@ in **1912**
 ![[Victorian Era]]
 
 ### Title is based on Greek mythology
-Pygamlion - a sculptor; makes an ivory statue representing ideal womanhood; falls in love w his own creation,
-names her Galatea; prays and gets the statue brought to life 
+**Pygamlion** - a sculptor; makes an ivory statue representing ideal womanhood; falls in love w his own creation,
+names her **Galatea**; prays and gets the statue brought to life 
 
 ## Characters
 
@@ -80,14 +80,7 @@ makes sure Eliza is cared for properly while in house
 ## Synopsis
 Professor Higgins sees flower girl Eliza; mocks her accent
 
-## Important Questions 
-- Short note on life of [[George Bernard Shaw]]
-- Greek Myth 
-- Important themes of Schindler's list
-- Portrayal of Victorian Society in Pygamlion 
-- Plight of Jews during WWII and how it is portrayed in Schindler's List
-- Comment on the ending on the movie [[Pygmalion]] and suggest one open ending according to you
- 
+
 
 > ***"If I can't have kindness, I'll have independence"***
 

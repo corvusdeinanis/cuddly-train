@@ -4,8 +4,8 @@ tags: ['English','college','syllabus']
 ---
 
 ### Module 1: The Essay
-1.  [[Room of Ones Own|Room of One's Own]]  - [[Virginia Woolf]] 
-2. [[Character of Dogs]] by [[Robert Louis Stevenson]]
+1.  [[A Room of Ones Own|Room of One's Own]]  - [[Virginia Woolf]] 
+2. [[The Character of Dogs]] by [[Robert Louis Stevenson]]
 3. [[Advice to Youth]]- [[Mark Twain]]
 
 ### Module 2 : The Poetry
