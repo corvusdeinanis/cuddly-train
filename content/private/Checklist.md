@@ -15,7 +15,7 @@
 ### Module 3 : The Novel & Drama
 - [ ] 7. The Moon and Six Pence- William Somerset
 Maugham [[The Moon and Six Pence]]
-- [ ] 8. [[A Portrait of the Artist as a Young Man]] - James Joyce
+- [x] 8. [[A Portrait of the Artist as a Young Man]] - James Joyce
 - [ ] 9. [[Nagamandala]] - Girish Karnad
 
 ### Module 4 Visual Texts
