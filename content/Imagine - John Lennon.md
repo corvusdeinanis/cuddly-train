@@ -13,6 +13,10 @@ John Lennon asks us to imagine a world, a dream world where humanity is free of 
 
 *we are all one country, one world, one people*
 
+
+"anti-religious, anti-nationalistic, anti-conventional, anti-capitalistic… but because it is sugar-coated, it is accepted."
+
+
 >[!NOTE]- Poem
 Imagine there's no heaven
 It's easy if you try

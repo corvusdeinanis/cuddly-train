@@ -6,11 +6,11 @@
 
 ### Module 2 : The Poetry
 - [x] 1. [[Partition by WH Auden]] 
-- [ ] 2.  [[Sailing to Byzantium]] by [[WB Yeats]]
+- [x] 2.  [[Sailing to Byzantium]] by [[WB Yeats]]
 - [ ] 3. [[Preludes]] by [[TS Eliot]] 
 - [x] 4. [[Dawn At Puri]] by [[Jayanta Mahapatra]]
 - [x] 5.  [[America - Allen Ginsberg]] by [[Allen Ginsberg]]
-- [ ] 6.  [[Imagine - John Lennon]] by John Lennon
+- [x] 6.  [[Imagine - John Lennon]] by John Lennon
 
 ### Module 3 : The Novel & Drama
 - [ ] 7. The Moon and Six Pence- William Somerset
