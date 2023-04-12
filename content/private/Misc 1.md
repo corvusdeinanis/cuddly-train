@@ -4,7 +4,7 @@ tags: ['misc','meta']
 ---
 
 # To do 
-complete [[Organization]]  
+complete [[../unprocessed/Organization]]  
 add people tag and related tags (poet, etc etc)
 incorporate old notes 
 	- old notes 

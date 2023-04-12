@@ -13,7 +13,7 @@ During child's development
 
 [[Freud]] - said only oral is important
 
-[[Harlows Contact Comfort]] - experiment 
+[[unprocessed/Harlows Contact Comfort]] - experiment 
 
 [[Erik Erikson's Psychosocial Stages]] - Trust vs Mistrust (first stage)
 

@@ -7,7 +7,7 @@ date: 2023-03-29
 
 # Theories of [[Senescence|Aging]]
 ## Genetic Preprogramming theory of aging 
-**[[Telomere]]** length reduces every time a cell divides
+**[[inbox/Telomere]]** length reduces every time a cell divides
 Telomere length = good marker of biological age
 **built in time limit for reproduction of cells**
 

@@ -52,7 +52,7 @@ A cluster is obtained by first dividing the population into randomly chosen sub-
 a random **assortment of clusters** = **the sample** 
 in stratified - there is no common characteristic needed
 ### Systematic Sampling 
-Every k ^th element 
+Every k <sup>th</sup> element 
 
-^th   
+
  
