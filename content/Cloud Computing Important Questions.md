@@ -1,6 +1,7 @@
 ---
 title: "Cloud Computing Important Questions"
-tags: ['cloudcomputing']
+tags: ['cloudcomputing','cloud']
+
 ---
 # Unit 1
 
