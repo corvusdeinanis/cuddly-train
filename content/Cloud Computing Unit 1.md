@@ -4,7 +4,6 @@ tags: ['cloudcomputing']
 ---
 
 [[Cloud Computing Important Questions]]
-
 [[Parallel vs Distributed Computing]]
 [[Eras of Computing]]
 
