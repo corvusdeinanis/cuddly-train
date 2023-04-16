@@ -7,3 +7,7 @@ assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
 content/.smart-connections
+.content/stversions
+content/.app
+content/.stignore
+content/.trash
