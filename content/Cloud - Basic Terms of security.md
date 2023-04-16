@@ -3,7 +3,7 @@ title: "Basic Terms of Security - Cloud Comp"
 tags: ['cloudcomputing']
 ---
 
-#### Information Security 
+### Information Security 
 
 **Confidentiality** - only accessible to authorized parties
 restricting access

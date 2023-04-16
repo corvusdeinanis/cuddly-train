@@ -2,7 +2,7 @@
 title: "<% tp.file.title %>"
 tags: ['']
 date: <% tp.date.now("YYYY-MM-DD") %>
----
+
 
 <%* 
 var yaml = '';
@@ -18,3 +18,4 @@ if (tStr.length) {
 yaml = '---\ntags: [' + tStr + ']\n---\n';
 }
 %><%* tR += yaml %>
+---
