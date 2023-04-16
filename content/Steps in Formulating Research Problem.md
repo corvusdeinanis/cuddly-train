@@ -7,7 +7,7 @@ tags: ['research','researchmethodology']
 Identify broad field -> Dissect the subareas -> selected interested sub-area -> raise research questions -> formulate objective -> Assess Objective -> Double Check
 
 ```mermaid
-flowchart 
+graph
 A--> B-->C-->D-->E-->F-->G
 A("Identify Broad Field")
 B("Dissect subareas")
@@ -16,7 +16,6 @@ D("Raise Research Questions")
 E("Formulate Objective")
 F("Assess Objective")
 G("Double Check")
-
 ```
 
 
