@@ -1,12 +1,10 @@
 ---
 title: "Web Technology"
-tags: ['cloudcomputing']
+tags: ['cloudcomputing','cloud']
 date: 2023-03-21
 ---
 
-
 interface between web and data
-
 implementation, medium, and management interface 
 
 ## Basic Components of Web Technology 

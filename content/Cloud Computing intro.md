@@ -1,6 +1,6 @@
 ---
 title: "Cloud Computing Intro"
-tags: ['internet','web','cloudcomputing']
+tags: ['internet','web','cloudcomputing','todelete']
 ---
 
 # Types of Cloud Computing

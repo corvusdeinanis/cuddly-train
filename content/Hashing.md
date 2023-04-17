@@ -1,8 +1,8 @@
 ---
 title: "Hashing"
-tags: ['cloud']
+tags: ['cloud','cloudcomputing']
 ---
-
+[[Cloud Comp Unit 3]]
 
 **Key value pair**
 
@@ -25,7 +25,6 @@ to produce a digest
 the hash values are stored and are compared instead of plaintext passwords
 this is more secure in case of leaks           
 
-																																																																																																																																																																																																																																																																																													                                                                   
 ---
 
 >[!QUESTION]

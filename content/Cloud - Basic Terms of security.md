@@ -1,9 +1,9 @@
 ---
 title: "Basic Terms of Security - Cloud Comp"
-tags: ['cloudcomputing']
+tags: ['cloudcomputing','cloud']
 ---
 
-### Information Security 
+# Information Security 
 
 **Confidentiality** - only accessible to authorized parties
 restricting access
@@ -37,7 +37,7 @@ steps and measures taken to prevent or respond to security threats / reduce avoi
 ## 
 
 ---
-see also : [[Hashing]] , salting, cryptography, 2fa, security by obscurity, pgp key, brute force, dictionary attack, privacy, DRM, social engineering, DDoS, SSL, 
+see also : [[Hashing]] , salting, cryptography, 2fa, security by obscurity, pgp key, brute force, dictionary attack, privacy, DRM, social engineering, DDoS, SSL, [[Encryption]]
 
 
 example (?? check)
