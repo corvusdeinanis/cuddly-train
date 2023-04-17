@@ -17,7 +17,7 @@ tags: ['cloudcomputing','cloud']
 # Unit 2 [[Cloud Computing Unit 2]]
 
 12M 
-- [x] Explain roles and boundaries 
+- [x] Explain roles and boundaries [[Cloud - Roles and Boundaries]]
 
 5M / 9M 
 - [x] Explain cloud characteristics 
@@ -27,7 +27,7 @@ tags: ['cloudcomputing','cloud']
 # Unit 3 [[Cloud - Basic Terms of security]] 
 
 9M
-- [ ] Explain basic terms and concepts in cloud security
+- [ ] Explain basic terms and concepts in cloud security [[Cloud - Basic Terms of security]]
 - [ ] Identify the needs of [[Public Key Infrastructure]], identity and access management 
 - [ ] Explain the process of [[Encryption]]  and [[Hashing]]
 

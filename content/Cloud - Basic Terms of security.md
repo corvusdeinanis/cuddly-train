@@ -17,7 +17,7 @@ non-repudiation - inability to deny or challenge acce
 
 **Availability** - Accessible and usable; 
 
-**Threat** - potential security violation; 
+**Threat** - **potential security violation**; 
 can cause a breach, 
 vulnerabilities - exploit 
 if carried out, it is **an attack**
@@ -31,9 +31,9 @@ threat level and number of vulnerabilities
 ## Security Controls
 steps and measures taken to prevent or respond to security threats / reduce avoid or risk 
 ## Security Mechanisms
-
+Countermeasures are typically described in terms of security mechanisms, which are components comprising a defensive framework that protects IT resources, information, and services
 ## Security Policies
-
+establishes a set of security rules and regulations
 ## 
 
 ---

@@ -5,10 +5,10 @@ tags: ['web','cloudcomputing','cloud']
 # How to trust a cloud? 
 
 Each and every security process, layer or software must implement and cover the CIA triad 
-
+[[Cloud - Basic Terms of security]]
 ## CIA
 **C**onfiditentiality - between two parties 
-**I**ntegrity - content is not changed, not tampered 
+**I**ntegrity - content is not changed, not tampered; not altered 
 **A**vailabilty - systems available 
 
 ## More parameters

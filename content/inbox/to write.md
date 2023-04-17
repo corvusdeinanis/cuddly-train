@@ -25,18 +25,19 @@ Hick's law
 Hitchens's razor
 https://en.wikipedia.org/wiki/George_Armitage_Miller
 
-```
+```before_sunrise
 Have you ever heard that  
 as couples get older, they lose  
 their ability to hear each other?  
   
 Jesse: No.  
-    
+
 Céline: Well, supposedly, men lose the  
 ability to hear higher-pitched sounds,  
 and women eventually lose hearing in  
 the low end. I guess they sort of  
 nullify each other, or something.
+
 ```
 Muphry's law
 Newton's flaming laser sword
@@ -56,3 +57,8 @@ Streisand Effect
 Sturgeon's law
 Law of conservation of complexity
 Wiio's laws - humorous laws on how humans communicate
+
+---
+
+2023-04-18 
+Argument map 
