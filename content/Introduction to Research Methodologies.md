@@ -47,7 +47,7 @@ and at last carefully testing the conclusions
  ![[Types of Research]] 
 
 ```mermaid
-flowchart TB
+flowchart LR
 A(Types of Research)
 A-->B(descriptive)
 A-->C(analytical)
@@ -58,7 +58,7 @@ A-->G(qualitative)
 
 B---BI(accurate portrayal of situation/people, <br> no control over variables <br> what, not why <br> )
 
-C----CI(uses facts, reasoning, and critical thinking to <br> derive causal relationships)
+C---CI(uses facts, reasoning, and critical thinking to <br> derive causal relationships)
 
 D---DI(scientific study to solve practical problems<br>to find a solution<br>any problem faced by society or a business<br>action oriented)
 
