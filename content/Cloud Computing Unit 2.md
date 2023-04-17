@@ -4,11 +4,11 @@ date: 2023-04-17
 tags: ['cloud', 'cloudcomputing']
 ---
 
-![[Cloud - Roles and Boundaries]]
+[[Cloud - Roles and Boundaries]]
 
-![[What is cloud computing#Characteristics|Characteristics of Cloud]]
+[[What is cloud computing#Characteristics|Characteristics of Cloud]]
 
-![[Cloud Delivery Models]]
+[[Cloud Delivery Models]]
 
-![[Cloud Deployment Models]]
+[[Cloud Deployment Models]]
 

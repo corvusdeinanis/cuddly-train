@@ -51,7 +51,8 @@ not a physical boundary but a boundary that represents organizational set of IT 
 ## Trust
 A trust boundary is a logical perimeter that typically spans beyond physical boundaries to represent the extent to which IT resources are trusted. 
 
-![[images/boundaries cc.svg]]
+[[images/boundaries cc 1.svg]]
+
 
 
 [[Cloud Computing Unit 2]]
