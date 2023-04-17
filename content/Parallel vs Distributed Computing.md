@@ -53,10 +53,10 @@ depending on the theory that large problems can often be divided into smaller on
 
 [^1]: Frequency scaling or ramping was the dominant force in  processor performance increases from the mid-1980s until roughly the end of 2004. Frequency Scaling = increasing the frequency of the processor / clock, thereby reducing runtime. 
 
-![[images/parallel computing(2).svg]]
+![[images/parallel computing(2).png]]
 
 A problem is broken down in into smaller parts each of which is processed simultaneously by multiple cores / processors
-![[images/parallel computing(1).svg]]
+![[images/parallel computing(1).png]]
 (two cores sharing the same shared storage)
 
 ### Elements of Parallel Computing 
@@ -98,8 +98,8 @@ each with their own local memory (no shared memory)
 communicate via **message passing** 
 scalable  
 
-### Elements (???check)
-(most of these just to be a direct paste from IBM documentation for one of their server models??)
+### Elements  of Distributed 
+(???check most of these just to be a direct paste from IBM documentation for one of their server models??)
 
 **user interface client** 
 	provides info 
@@ -123,7 +123,7 @@ which acts as a broker of information between the frontends and the solvers
 	allows multiple users to access same info simultaneously 
 	shared database helps synchronization
 
-### Advantages
+### Advantages of Distributed  
 - larger storage and memory, faster compute, and higher bandwidth than a single machine
 - might be more cost efficient (compared to a single big powerful computer)
 - no single point of failure
