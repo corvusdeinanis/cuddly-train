@@ -1,5 +1,5 @@
 ---
-title: "Research Methodology 3"
+title: "Sample, Universe, Population"
 tags: ['research','researchmethodology','statistics']
 ---
 

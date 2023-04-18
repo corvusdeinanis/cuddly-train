@@ -1,6 +1,7 @@
 ---
 title: "Theories of Aging"
 date: 2023-03-29
+tags: ['psychology']
 ---
 
 [[Midlife Crisis| <- midlife crisis]]

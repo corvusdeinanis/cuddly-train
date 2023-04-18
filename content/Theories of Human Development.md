@@ -6,12 +6,12 @@ tags: ['psychology']
 
 ```mermaid
 flowchart
-A(Theories of Human Development) -->B(Psychosocial)-->x(Erik Erikson)
-A-->C(Psychosexual)-->y(Freud)
-A-->D(Cognitive)
-D-->E(Piaget)
-D-->F(Vygotsky)
-D-->G(Information Processing Theory)
+A(Theories of Human Development)---B(Psychosocial)---X(Erik Erikson)
+A---C(Psychosexual)---y(Freud)
+A---D(Cognitive)
+D---E(Piaget)
+D---F(Vygotsky)
+D---G(Information Processing Theory)
 ```
 
 # **Psychosexual** Theory by Freud

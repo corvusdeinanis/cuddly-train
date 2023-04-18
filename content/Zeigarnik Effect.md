@@ -1,6 +1,6 @@
 ---
 title: "Zeigarnik Effect"
-tags: ['psychology']
+tags: ['psychology','stub']
 ---
 
 "An individual remembers the task until it is done"

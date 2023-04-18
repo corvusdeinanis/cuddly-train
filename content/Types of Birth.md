@@ -44,4 +44,4 @@ uterine fibroid
 - hormones
 - medication
 ---
-read also: [[anti-natalism]]
+

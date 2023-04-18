@@ -7,4 +7,4 @@ tags: ['psychology']
 
 
 
-![[images/1200px-Zone_of_proximal_development.svg 1.png]]
+![[images/1200px-Zone_of_proximal_development svg.png]]

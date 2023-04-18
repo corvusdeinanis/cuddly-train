@@ -1,5 +1,6 @@
 ---
-title: "RM 160323"
+title: "Measurement and Types of Measurement and Important Questions"
+date: 2023-04-18
 tags: ['researchmethodology','statistics']
 ---
 

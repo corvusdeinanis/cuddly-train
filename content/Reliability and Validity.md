@@ -11,4 +11,4 @@ standardization - making norms
 
 
 --- 
-read also - accuracy vs 
+read also - accuracy vs precision 

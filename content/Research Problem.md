@@ -4,7 +4,6 @@ date: 2023-04-18
 tags: ['research','researchmethodology']
 ---
 
-
 # What is a research problem?
 
 A research problem is a question that the research hopes to answer 

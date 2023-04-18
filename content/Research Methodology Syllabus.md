@@ -23,7 +23,7 @@ Identifying Variables- Meaning; Types- Independent, dependent, extraneous, predi
 Constructing hypothesis- Meaning & types
  
 ## Module 3: Research Process II: Sampling Techniques 
-[[Research Methodology - Module III]]
+[[Sample, Universe, Population]]
 
 
 Meaning of sample, aims in Criteria of good sample

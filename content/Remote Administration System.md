@@ -7,7 +7,6 @@ date: 2023-03-14
 # What is it? 
 tools and mechanisms and GUI for 
 
-
 # Two kinds of portals
 Usage and Administration - 
 Self-Service Portal - 
