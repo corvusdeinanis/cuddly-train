@@ -4,7 +4,7 @@ tags: ['xkcd','journalism','internet']
 ---
 # Comic
 
-![[images/citogenesis.png]]
+![[images/xkcd citogenesis.png]]
 
 [xkcd 978](https://xkcd.com/978) by Randall Munroe,  CC BY-NC 2.5
 

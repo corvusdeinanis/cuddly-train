@@ -6,7 +6,7 @@ date: 2023-04-10
 
 # Mark Twain 
 
-![[images/Pasted image 20230410035635.png|100]]
+![Mark Twain Portrait|100](images/marktwain.png)
 
 born Samuel Langhorne Clemens 
 
