@@ -5,18 +5,18 @@ tags: ['research','researchmethodology']
 ---
 
 Ethical considerations are principles that guide research 
-code of conduct 
+code of conduct
 
-Why? 
+## Why? 
 to protect rights of research participants
 enhance research validity 
 maintain academic integrity
 
-### Institutional Review Board
+## Institutional Review Board
 reviews a research proposal and approves it only if it is ethical, and does not harm people 
 any modification requires resubmitting proposal with modifications 
 
-### Ethical Issues 
+## Ethical Issues 
 
 Voluntary participation (not coerced, can leave at any point)
 
@@ -33,5 +33,6 @@ Potential for harm
 	4. Legal 
 
 Results communication (good communication, transparent)
+
 No plagiarism, even self-plagiarism 
 

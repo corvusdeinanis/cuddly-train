@@ -7,21 +7,53 @@ tags: ['research','researchmethodology']
 ## Module 1: Introduction 
 
 [[Introduction to Research Methodologies]]
+What is Research
+	Characteristics
+	Objectives
+	Motivation
+	Types of Research
+		analytical, descriptive; applied, fundamental; quant, qual;
+		other - lab vs field, clinical, exploratory vs formalized; one time vs longitudinal; 
+	Types of Groups
+		1. Between
+		2. Within
+		3. Repeated Measures 
+		4. Blocking
+
 
 [[Ethical Considerations in Research]]
+Why
+IRB
+Ethical Issues
 
 [[Introduction to Research Methodologies#Types of Research|Types of research]]
+Analytical
+Descriptive
+Fundamental
+Applied
+Quantitative 
+Qualitative
+
+other - lab vs field; clinical/diagnostic, exploratory vs formalized, one time vs longitudinal
 
 ## Module 2: Research Process
 
-Formulating research question- Meaning of research problem, Sources of research problem; [[Research Problem]]
+[[Research Problem]]
+What 
+Why
+Characteristics
+[[Steps in Formulating Research Problem]]
+Sources of Research Problems 
 
-Literature Review - summary of existing literature that is related to your topic 
+[[Literature Review]] 
+Definition
+Why
 
-Identifying Variables- Meaning; Types- Independent, dependent, extraneous, predictive
+
+Identifying Variables- Meaning; Types- Independent, dependent, extraneous, predictive 
 
 Constructing hypothesis- Meaning & types
- 
+[[Hypothesis]]
 ## Module 3: Research Process II: Sampling Techniques 
 [[Sample, Universe, Population]]
 

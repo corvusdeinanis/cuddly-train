@@ -26,6 +26,15 @@ According to Clifford Woody,
 - rational
 - based on facts, rooted in reality 
 
+- Generalized
+- Controlled
+- Rigorous
+- Empirical 
+- Systematic
+- [[Reliability and Validity]]
+- Credible
+- Critical 
+
 ## Objectives of Research 
 - discover answers using scietific procedures 
 - to gain **familiarity** with a phenomenon (exploratory/formulatory)
@@ -82,7 +91,7 @@ field setting vs laboratory setting (control over variables)
 
 clinical / diagnostic method (case study, indepth)
 historical 
-exploratory vs formalized 
+exploratory vs formalized (exploratory - a topic/phenomenon that hasn't been explored much; formalized - trying to replicate an experiment, if successful, can be applied to a larger group or universe)
 
 ## Types of groups
 
