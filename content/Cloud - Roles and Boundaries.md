@@ -57,5 +57,7 @@ A trust boundary is a logical perimeter that typically spans beyond physical bou
 <object type="image/svg+xml" data="images/boundariescc.svg">
 </object>
 
+images/boundariescc.svg
+
 
 [[Cloud Computing Unit 2]]
