@@ -5,10 +5,10 @@ tags: ["journalism"]
 
 
 ## Editor / Chief Editor / Editor-in-Chief
-heads a newspaper organization
+heads a newspaper
 supervises and controls all newsrooms
 designation depends on size and structure of newsroom
-editorial policy
+responsible for the **editorial policy**
 looks after its execution (in consultation with Resident and Executive Editors)
 plans growth
 responsible for everything, **especially the editorial page** (aka voice of the paper)
