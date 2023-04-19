@@ -6,6 +6,7 @@ tags: ['journalism']
 
 
 **5Ws and 1H** 
+
 **Cause and effect**; after effect
 **Impact** - the effect of the news on people
 **Context** - Background information about an issue

@@ -30,7 +30,7 @@ d(task d)
 
 ## Silly drawing I made to understand parallel computing better
 
-![[images/Pasted image 20230417024946.png]]
+![A silly comic illustrating how parallel computing came about. By comparing it to the management of a lemonade stand. 100% accurate](images/parallelcomputingcomic.svg)
 
 ## Parallel Computing 
 **many instructions** are carried out **simultaneously** 

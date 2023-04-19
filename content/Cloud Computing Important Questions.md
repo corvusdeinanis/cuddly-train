@@ -3,7 +3,7 @@ title: "Cloud Computing Important Questions"
 tags: ['cloudcomputing','cloud']
 
 ---
-# Unit 1 [[Cloud Computing Unit 1]] 
+#  [[Cloud Computing Unit 1]] 
 
 5M
 - [x] Differentiate bw parallel and distributed computing 

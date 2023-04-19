@@ -1,5 +1,6 @@
 ---
 title: "Links to Notes"
+tags: ['meta']
 ---
 
 [Psychology](https://corvusdeinanis.github.io/cuddly-train/tags/psychology)
