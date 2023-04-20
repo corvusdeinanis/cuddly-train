@@ -1,9 +1,33 @@
 ---
 title: "Editorial Structure of Newspaper"
 tags: ["journalism"]
+date: 2023-04-20
 ---
 
+# Structure of Newsrooms 
+[[Newsroom|Newsrooms]] can have various wings depending on the size of the newspaper. They can be divided into editing, reporting, and mechanical wing.
 
+```mermaid
+flowchart TB
+
+X(Chief Editor <br> Executive Editor <br> Resident Editor)
+X-->A(Newsroom)
+
+subgraph 1
+direction TB
+B(Central Editing Desk)-->D(Assistant Editor,<br>News Editor, <br>Chief Copy Editor,<br>Senior Copy Editor,<br>Copy Editors)
+end
+
+subgraph 2
+C(News Bureau)-->E(Bureau Chief,<br>Special Correspondents,<br>Reporters: Chief, Senior, City, Beat<br>Stringers<br>Feature Writers<br>Columnists)
+
+end
+
+A-->|editing wing|B
+A-->|reporting wing|C
+
+```
+# Roles (News Desk/Central Editing Desk)
 ## Editor / Chief Editor / Editor-in-Chief
 heads a newspaper
 supervises and controls all newsrooms
@@ -47,6 +71,32 @@ supervises colleagues
 co-ordinates 
 knows policies and implents them under the guidance of editor
 
-smaller newsrooms might not have a news editor; in that case, 
+smaller newsrooms might not have a news editor; in that case, chief sub fills the role 
+
+## Chief Sub Editor / Chief Copy Editor
+Distributes news items to sub editors 
+coordinates with news and reporting wing for better  
+coverage and also consults with the advertisement and circulation wing
+In absence of News Editor, play the role 
 
 
+
+# Roles (News Bureau)
+Bureau Chief - 
+Special Correspondents (cover national and international news)
+[[Reporters]]
+[[beat]] reporters 
+[[stringers]]
+[[Columnist]]
+# Other elements
+ They may also have - 
+```mermaid
+flowchart TD
+a(Newsroom)-->b(Editorial)
+a-->c(Advertisment)
+a-->d(Admininstrative)
+a-->e(Printing)
+a-->f(Store)
+a-->g(IT Department)
+a-->h(Circulation)
+```

@@ -14,7 +14,7 @@ Different professionals all come together
 
 aka City Room 
 
-Selection of news, editing of news, desktop publishing, designing, all take place here. 
+**Selection of news, editing of news, desktop publishing, designing, all take place here.** 
 
 # Structure / Elements of a Newsroom
 Newsrooms have many wings or departments. 
@@ -36,14 +36,9 @@ Each department has its own function but they work in tandem.
 
 A place for all the professionals to come together and work. Work as a team. Everything has to go hand in hand, because everything has to fit neatly into the newspaper. The length of articles, the number of articles, the advertisments, everything. Also accomodates last minute changes
 
-**Desktop publishing** 
-  layout  
-  themes during festivals
-  gutter space
-
 **News gathering**
 - **Reporters** go out and look for news; their specific [[beat]]
-- **Correspondents** giving news from other places    [[stringers]] 
+- **Correspondents** giving news from other places    and [[stringers]] 
 - Journalists have sources. Hence the "according to reliable sources"
 - many beats; crime, sports, entertainment, etc
 - expertise in their specific fields
@@ -52,6 +47,8 @@ A place for all the professionals to come together and work. Work as a team. Eve
 
 **Selection of news**
   - For example, on business page, if the newshouse has 50 articles, they can't publish all of it.  -> NSE and BSE (stocks) gets the most importance - So selection of news, **prioritizing**
+  - **Gatekeepers** select news. Reporters get multiple news, gatekeepers select news articles based on their "newsworthiness"
+  - Select or reject news 
 
 **Editing**
 - Word count / article length   
@@ -63,12 +60,18 @@ A place for all the professionals to come together and work. Work as a team. Eve
 - arrange accd to inverted pyramid
 - determine news value (importance)
 - aren't answerable to reporters
-- gatekeeping - filtering news story
+- gatekeeping continues - filtering news story, removing stories that they feel is unimportant
 
-**Designing**
+**Page Designing**
   - alignment
   - should be able to distinguish bw parts 
   - no overlap 
+  - Desktop publishing 
+  - layout  
+  - themes during festivals
+  - gutter space
+  - images, logos
+  - ads, typography
 
 **Advertisment**
 deals with advertisments
@@ -87,3 +90,5 @@ types of ads:
 - installation and maintenance of machines
 - compiling data -> newspaper format -> paper
 - printing plate prep, printing cutting folding
+
+![[Editorial Structure of Newsroom and Roles]]

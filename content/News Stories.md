@@ -4,6 +4,13 @@ tags: ['journalism']
 ---
 
 
+Contains: 
+-   Headline – tells what the story is about.
+-   Byline – shows who wrote the story.
+-   Lead – tells the most important facts (5 W's)
+-   Body – contains more information and details.
+-   Ending – gives something to think about.
+
 
 **5Ws and 1H** 
 

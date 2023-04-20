@@ -6,7 +6,7 @@ tags: ['journalism']
 
 # Unit 1 : Newsroom Structure and Function
 
-[[Editorial Structure of Newsroom]] 
+[[Editorial Structure of Newsroom and Roles]] 
 [[Newspaper Roles]]
 [[Qualities and Functions of a Reporter]]
 [[Reporters]]
@@ -15,13 +15,12 @@ tags: ['journalism']
 [[Sub Editor]]
 
 # Unit 2 : News Writing
-[[News Stories]], grammar, elements
+[[News Stories]], grammar, [[Newsworthiness|Elements of a News Story]], [[Soft News vs Hard News]]
 styles of news writing - inverted, kaboob, martini glass, hourglass, interpretative, narrative, chronological
 leads, attribution, sources
 news vs opinion, public vs personal 
 
 # Unit 3 : Reporting Hard News 
-[[Soft News vs Hard News]]
 [[Bites vs Interview]]
 
 # Unit 4 : Reporting Soft News 
@@ -35,6 +34,6 @@ news vs opinion, public vs personal
 [[Editing]]
 [[Editing a Copy]]
 [[Sub Editor]]
-[[Editorial Structure of Newsroom]]
+[[Editorial Structure of Newsroom and Roles]]
 [[Glossary of Newspaper Terms]]
 [[Glossary of Newspaper Design]]

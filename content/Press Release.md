@@ -9,7 +9,7 @@ tags: ['journalism']
 #### 1. General News
 This is the most common type
 traditional coverage
-to generate in online and offline
+to generate interest online and offline
 definition of "newsworthiness" can be stretched 
 example - awards 
 
