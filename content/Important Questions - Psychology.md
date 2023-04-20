@@ -1,6 +1,6 @@
 ---
 title: "Important Questions - Psychology"
-tags: ['psychology']
+tags: ['psychology','lifespan','study']
 ---
 
 1. Define neonate and outline the patterns of development 

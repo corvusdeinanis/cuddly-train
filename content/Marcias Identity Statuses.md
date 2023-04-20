@@ -1,6 +1,6 @@
 ---
 title: "Marcia's Identity Statuses"
-tags: ['psychology']
+tags: ['psychology','lifespan']
 ---
 
 ## Identity Diffusion

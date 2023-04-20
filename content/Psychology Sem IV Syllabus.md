@@ -5,15 +5,13 @@ tags: ['psychology','college','syllabus']
 
 From John Santrock's Lifespan Development  
 ## MODULE I: INTRODUCTION TO LIFE-SPAN DEVELOPMENT
-a) Concept of human development and Life-span perspective [[Introduction to Life Span Development]]
+a)  [[Introduction to Life Span Development]]
 
-b) Patterns of change and development: Normative and Idiographic 
-[[Normative vs Idiographic]]
+b) Patterns of change and development: [[Normative vs Idiographic]]
 
-c)Characteristics and Principles of Development
+c)  [[Introduction to Life Span Development#Lifespan Perspective / Assumptions / Characteristics / - on Development|Characteristics and Principles of Development]]
 
-d) Key issues in life-span perspective: Nature v/s Nurture, Continuity v/s  Discontinuity,
-Activity v/s Passivity, Specificity v/s Generality 
+d) [[Introduction to Life Span Development#Perspectives / Key issues in Lifespan Development|Key Issues]] in life-span perspective: Nature v/s Nurture, Continuity v/s  Discontinuity, Activity v/s Passivity, Specificity v/s Generality 
 
 e) Types of developmental research designs: Cross-sectional design, Longitudinal design, Sequential design, , Case Study method,  Ethnography, Cohort Design 
 [[Developmental Research - Types and Ethical Issues]]
@@ -27,15 +25,15 @@ Erikson)
 b) Cognitive development theory (Jean Piaget), 
 Social-Cognitive theory (Lev Vygotsky), Information Processing Theory  
 
-c) Ethological theory: Imprinting (Konrad Lorenz) [[Ethological]]
+c) Ethological theory: Imprinting (Konrad Lorenz) 
 
-d) Ecological systems theory (Urie Bronfenbrenner) [[Ecological Theory]]
+d) Ecological systems theory (Urie Bronfenbrenner) 
 
-e) Attachment theory (John Bowlby and Mary Ainsworth) [[Attachment]]
+e) Attachment theory (John Bowlby and Mary Ainsworth) [[Theories of Human Development#Bowlby's Attachment Theory|Bowlby's]]
 
 ## MODULE III: PRENATAL AND PERINATAL DEVELOPMENT
 ### 1. PRENATAL PERIOD:  
-a) Heredity- Twin studies &amp; Adoption studies 
+a) Heredity- Twin studies &; Adoption studies [[Heredity]]
 
 b) Conception and growth of Zygote, Germ cells, Sex determination 
 

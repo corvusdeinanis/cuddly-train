@@ -5,7 +5,7 @@ tags: ['psychology']
 
 **5M**
 1. Discuss the characteristics of development
-2. Identify any four issues in lifespn development 
+2. Identify any four issues in lifespan development 
 3. Outline normative and ideographic patterns of development 
 4. Identify any 4 ethical considerations in developmental research. 
 5. Identify the factors that influence development 
@@ -13,7 +13,7 @@ tags: ['psychology']
 7. Write the difference between longitudinal and cross-sectional methods of study (any 4)
 8. Outline the stages of lifespan development 
 9. Outline the three dimensions of development 
-10. Identiy any 4 differences between case study and survey method of research 
+10. Identify any 4 differences between case study and survey method of research 
 
 **9M**
 1. Define development and discuss the characteristics of development 

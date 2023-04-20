@@ -1,9 +1,9 @@
 ---
 title: "Moral Development Theory"
-tags: ['psychology']
+tags: ['psychology','lifespan']
 ---
 
-by Lawrece Kohlberg
+by Lawrence Kohlberg
 
 [[Heinz Dilemma]]
 

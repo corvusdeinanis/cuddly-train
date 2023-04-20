@@ -1,6 +1,6 @@
 ---
 title: "Kagan's Behavioural Inhibition"
-tags: ['psychology']    
+tags: ['psychology','lifespan']    
 date: 2023-02-27
 ---
 
