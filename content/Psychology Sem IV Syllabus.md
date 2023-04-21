@@ -46,7 +46,7 @@ e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Perio
 f) Problems in the prenatal period and their effects on the fetus: Teratogens, Diseases, Drugs, Envixronmental hazards; Age of Viability 
 
 ### 2. PERINATAL PERIOD: 
-a) Meaning and definition of Perinatal environment
+a) Meaning and definition of Perinatal environment [[Perinatal Period]]
 
 b) Birthing process – Stages of birth [[Stages Of Birth]]
 
@@ -65,8 +65,7 @@ c) Infant States – Sleep, *Cry*, *Temperament* [[Chess and Thomas' Temperament
 
 d) Physical development from infancy through childhood 
 
-e) Sensory and 
-Perceptual development 
+e) Sensory and Perceptual development 
 
 f) Social development: Parenting styles [[Parenting Styles]]
 
