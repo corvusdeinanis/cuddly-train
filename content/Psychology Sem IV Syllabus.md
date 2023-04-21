@@ -41,7 +41,7 @@ c) An Overview of Common genetic abnormalities [[Genes in relation to lifespan d
 
 d) Predicting hereditary disorders: Genetic counselling, Amniocentesis, Chorionic Villus Sampling (CVS), Ultrasound. 
 
-e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Period of Fetus 
+e) Phases of prenatal development: Period of Zygote, Period of Embryo, and Period of Fetus [[phases of prenatal development]]
 
 f) Problems in the prenatal period and their effects on the fetus: Teratogens, Diseases, Drugs, Envixronmental hazards; Age of Viability 
 
@@ -59,7 +59,7 @@ e) Types of birth [[Types of Birth]]
 ## MODULE IV: INFANCY, CHILDHOOD AND ADOLESCENCE 
 a) Neonate – Meaning and definition [[Infancy, childhood, adolescence]]
 
-b) New-born reflexes – types, milestones, functions
+b) New-born reflexes – types, milestones, functions 
 
 c) Infant States – Sleep, *Cry*, *Temperament* [[Chess and Thomas' Temperaments in infants]]
 
@@ -85,14 +85,10 @@ m) Puberty and Maturation – Adolescent growth spurt, Sexual maturation, Adoles
 
 ## MODULE V: ADULTHOOD: YOUNG, MIDDLE AND OLD 
 a) Emerging adulthood: Meaning and Characteristics [[Emerging Adulthood]]
-
-b) Physical Development
-
+b) Physical Development 
 c) Cognitive Development
-
-d) Career Development: Factors related to career choice and growth
-
-e) Interpersonal Relationships: Love: Sternberg’s Triarchic theory of love; Marriage, Divorce
+d) Career Development: Factors related to career choice and growth 
+e) Interpersonal Relationships: Love: Sternberg’s Triarchic theory of love; Marriage, Divorce 
 f) Mid-life crisis, Empty Nest Syndrome[[Midlife Crisis]]  [[Empty Nest Syndrome]]
 g) Defining Aging [[Theories of Aging]]
 h) Theories of Aging: genetic pre-programming theories of aging, wear-and-tear theories of aging, disengagement theory of aging, activity theory of aging [[Theories of Aging]]

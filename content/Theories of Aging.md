@@ -1,14 +1,14 @@
 ---
 title: "Theories of Aging"
 date: 2023-03-29
-tags: ['psychology']
+tags: ['psychology','lifespan','biology']
 ---
 
 [[Midlife Crisis| <- midlife crisis]]
 
 # Theories of [[Senescence|Aging]]
 ## Genetic Preprogramming theory of aging 
-**[[inbox/Telomere]]** length reduces every time a cell divides
+**[[Telomere]]** length reduces every time a cell divides
 Telomere length = good marker of biological age
 **built in time limit for reproduction of cells**
 
