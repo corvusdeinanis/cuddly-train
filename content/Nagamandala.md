@@ -10,7 +10,7 @@ based on the two stories Karnad heard from his mentor, Prof Ramanujan
 based on folklore
 
 4 interwoven stories; stories within each other
-satire; 
+satire;
 talks about social stigma, 
 relations between humans, 
 hypocrisy and misogyny 
