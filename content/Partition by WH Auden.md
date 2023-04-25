@@ -19,8 +19,7 @@ angry about partition, directed towards Radcliffe
 
 
 ### Text
----
-``` Poem
+
 Unbiased at least he was when he arrived on his mission,
 Having never set eyes on this land he was called to partition
 Between two peoples fanatically at odds,
@@ -50,8 +49,9 @@ A continent for better or worse divided.
 The next day he sailed for England, where he quickly forgot
 The case, as a good lawyer must. Return he would not,
 Afraid, as he told his Club, that he might get shot.
-```
+
 ---
+#  
 
 condemns colonialism, a system in which people from _outside_ of a given culture make decisions without any understanding
 
@@ -69,5 +69,5 @@ in **7 weeks**
 
 Radcliffe Line - the partition line 
 
-fifteen million people had been uprooted 
-1 - 2 million people had died 
+**fifteen million people had been uprooted 
+1 - 2 million people had died** 

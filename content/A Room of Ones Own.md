@@ -6,9 +6,7 @@ date: '2022-12-01'
 # A Room of Ones Own 
 by [[Virginia Woolf]]
 
-
-
-## About
+# About
 Essay -> 6 chapters
 **Published in 1929**
 
@@ -18,53 +16,61 @@ Essay -> 6 chapters
 
 Tells us how women need to be free from interruptions, need financial and intellectual independence. How women have been historically excluded from things men easily have access to. 
 
-## Characters
-### Mary Beton - 
+# Characters
+## Mary Beton 
 Narrator
-### Mary Seton - 
+## Mary Seton 
 Mrs Beton's friend
-### Judith Shakespeare - 
+## Judith Shakespeare 
 Fictional sister of Shakespeare
-### Mary Carmichael
- fictional writer whose book is found in the library
+## Mary Carmichael
+fictional writer whose book is found in the library; narrator finds many faults in the book 
+
+## Real people referenced 
+William Shakespeare
+**Jane Austen**, **George Eliot**, and the **Brontë sisters**
+**Lady Winchilsea**
+Margaret Cavendish
+**Aphra Behn**
 
 
----
+# Summary 
 
 Intellectual freedom depends on material things
 Poetry depends upon intellectual freedom
 And woman always have been poor, not for 200 years but from the beginning of time. ***Women have not had a dog's chance of writing poetry. This is why I am laid so much focus on money and a room of one's own***. 
 
----
-
-
-## Summary 
-
 ### Chapter 1 - Oxbridge and interruptions
-The narrator, a fictionalized version of Woolf, 
+The narrator, a fictionalized version of Woolf: 
 visits **Oxbridge College**  
 Narrator had to present on "Women and Fiction"
-reflects on the different opportunities and privileges that men and women have in education and society, is walking on grass when she is interrupted by a Beadle who says she is not allowed there; reserved only for fellows and scholars
+reflects on the different opportunities and privileges that men and women have in education and society, is walking on grass when she is interrupted by a Beadle [^1] 
+who says she is not allowed there; reserved only for fellows and scholars
+
 ***Fish metaphor*** - She says that ideas are like fishes, she drops her thoughts (fishing line) to catch a fish but is **interrupted**, losing her thought
- > just as the narrator seems to be on the verge of an insight, her thinking is cut off—usually by an authority figure trying to keep her in her place
+
+just as she seems to be on the verge of an insight, her thinking is cut off—usually by an authority figure trying to keep her in her place
 
 Dejected, goes to library. Not let in unless accompanied by a male. 
 Ate at cafeteria, food was amazeballs unlike the one at Fernham. Compares both. 
 
-says ideas are not like how we think of them, the sudden glow of a bulb, but a result of "rational intercourse"––intellectual exchange––that takes place in settings such as the college 
- 
+says **ideas** are not like how we think of them, the sudden glow of a light bulb, but **a result of "rational intercourse"––intellectual exchange––that takes place in settings such as the college. Where women are either not allowed or restricted**
+
+[^1]: a university security guard
 
 ---
 
 ### Chapter 2:  London, library
 The narrator goes to London and visits the British Library. She finds many books written by men about women, but none by women themselves. 
 No books about their daily lives. 
-She wonders what women’s lives were like in history and invents the story of Judith Shakespeare, a talented sister of William Shakespeare who is oppressed by her family and society and commits suicide. She shows how women’s genius has been wasted and silenced
+She wonders what women’s lives were like in history and **invents** the story of **Judith Shakespeare**, a talented sister of William Shakespeare who is oppressed by her family and society and dies by suicide. She shows how women’s genius has been wasted and silenced
 
 ---
 
 ### Chapter 3: Examining past writers
 The narrator examines the works of women writers in the nineteenth century, such as **Jane Austen**, **George Eliot**, and the **Brontë sisters**. She praises their achievements despite the difficulties they faced. She analyzes how their gender and social class influenced their style and perspective. She argues that women need to have a room of their own, both literally and figuratively, to write fiction 
+
+---
 
 ### Chapter 4: Winchilsea, Cavendish, and Behn
 The narrator continues to explore the legacy of women writers and their relation to tradition. 
@@ -122,3 +128,16 @@ Consequently she was never able to achieve in the way Austen  achieved
 ## Metaphors and Stuff
 (1) Fish metaphor 
 (2) 
+
+## Quotes
+1. All I could do was to offer you an opinion upon one minor
+   point—a woman must have money and a room of her own if she
+   is to write fiction; and that, as you will see, leaves the great
+   problem of the true nature of woman and the true nature of
+   fiction unsolved
+2. Of the two—the vote and the money—the money, I own, seemed infinitely the more important 
+3. All women together ought to let flowers fall upon the tomb 
+   of **Aphra Behn**,  for it was she who earned them the
+   right to speak their minds. It is she—shady and amorous as she
+   was—who makes it not quite fantastic for me to say to you tonight: Earn five hundred a year by your wit
+

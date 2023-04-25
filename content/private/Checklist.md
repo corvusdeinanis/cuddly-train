@@ -7,16 +7,16 @@
 ### Module 2 : The Poetry
 - [x] 1. [[Partition by WH Auden]] 
 - [x] 2.  [[Sailing to Byzantium]] by [[WB Yeats]]
-- [ ] 3. [[Preludes]] by [[TS Eliot]] 
+- [x] 3. [[Preludes]] by [[TS Eliot]] 
 - [x] 4. [[Dawn At Puri]] by [[Jayanta Mahapatra]]
 - [x] 5.  [[America - Allen Ginsberg]] by [[Allen Ginsberg]]
 - [x] 6.  [[Imagine - John Lennon]] by John Lennon
 
 ### Module 3 : The Novel & Drama
-- [ ] 7. The Moon and Six Pence- William Somerset
-Maugham [[The Moon and Six Pence]]
-- [x] 8. [[A Portrait of the Artist as a Young Man]] - James Joyce
-- [ ] 9. [[Nagamandala]] - Girish Karnad
+- [x] 7. The Moon and Six Pence- William Somerset
+Maugham [[../The Moon and Sixpence]]
+- [ ] 8. [[A Portrait of the Artist as a Young Man]] - James Joyce
+- [x] 9. [[Nagamandala]] - Girish Karnad
 
 ### Module 4 Visual Texts
 - [ ] 1. [[Schindler's List]] 

@@ -17,7 +17,7 @@ Discuss Virginia Woolf's experience of visiting the University of Oxbridge
 Write a detailed note on four imaginary characters in A room of one's own  
 Identify the intention of writing of the essay A room of one's own
 
-Discuss tne importance of money, power, writing, for women as mentioned in A [[A Room of Ones Own]] 
+Discuss tne importance of money, power, writing, for women as mentioned in  [[A Room of Ones Own]] 
 
 
 # Module 4  

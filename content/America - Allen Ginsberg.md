@@ -9,11 +9,12 @@ America by
 
 [[Stream of Consciousness]] - ramblings - raw - grotesque - unrefined
 
+hoped to get out not narrative or beauty but spontaneity, human expression, and reaction
 
 America is personified
 
-> [!Poem] America 
-> America I’ve given you all and now I’m nothing. [^1]America two dollars and twentyseven cents January 17, 1956.   
+>[!Poem]- America 
+> America I’ve given you all and now I’m nothing. America two dollars and twenty seven cents January 17, 1956.   
 > I can’t stand my own mind.
 > America when will we end the human war?
 > Go fuck yourself with your atom bomb.
@@ -77,7 +78,7 @@ America is personified
 > Them Russians them Russians and them Chinamen. And them Russians.   
 > The Russia wants to eat us alive. The Russia’s power mad. She wants to take our cars from out our garages.
 > Her wants to grab Chicago. Her needs a Red Reader’s Digest. Her wants our auto plants in Siberia. Him big bureaucracy running our fillingstations.
-> That no good. Ugh. Him make Indians learn read. Him need big black niggers. Hah. Her make us all work sixteen hours a day. Help.   
+> That no good. Ugh. Him make Indians learn read. Him need big black ni**ers. Hah. Her make us all work sixteen hours a day. Help.   
 > America this is quite serious.
 > America this is the impression I get from looking in the television set.   
 > America is this correct?
@@ -91,7 +92,7 @@ America is personified
 
 Sentences often run on without punctuation and the poem skips from subject to subject with little relation to each other 
 
-non-sequitur
+non-sequitur; run-off sentences
 
 America -  an ex lover -> discovering that much of himself is America -> and finally moving towards ridiculing and taunting this personified America for its militaristic culture, its vapid media, and its paranoid politics
 

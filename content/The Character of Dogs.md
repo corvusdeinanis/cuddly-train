@@ -7,6 +7,9 @@ date: 2023-04-09
 # Character of Dogs
 By [[Robert Louis Stevenson]]
 
+published in Memories and Portraits a collection of essays by Stevenson
+first published in **1887**
+
 # Full Text
 **THE CHARACTER OF DOGS**
 The civilisation, the manners, and the morals [^1] of dog-kind  are to a great extent subordinated to those of his ancestral master, man. This animal, in many ways so superior, has accepted a position of inferiority, shares the domestic life, and humours the caprices of the tyrant. But the potentate[^potentate], like the British in India, pays small regard to the character of his willing client, judges him with listless glances, and condemns him in a byword. Listless have been the looks of his admirers, who have exhausted idle terms of praise, and buried the poor soul below exaggerations. And yet more idle and, if possible, more unintelligent has been the attitude of his express detractors; those who are very fond of dogs "but in their proper place"; who say "poo' fellow, poo' fellow," and are themselves far poorer; who whet the knife of the vivisectionist or heat his oven;[^2] who are not ashamed to admire "the creature's instinct"; and flying far beyond folly, have dared to resuscitate the theory of animal machines. The "dog's instinct" and the "automaton-dog," in this age of psychology and science, sound like strange anachronisms. An automaton he certainly is; a machine working independently of his control, the heart like the mill-wheel, keeping all in motion, and the consciousness, like a person shut in the mill garret, enjoying the view out of the window and shaken by the thunder of the stones; an automaton in one corner of which a living spirit is confined: an automaton like man. Instinct again he certainly possesses. Inherited aptitudes are his, inherited frailties. Some things he at once views and understands, as though he were awakened from a sleep, as though he came "trailing clouds of glory."[^3] But with him, as with man, the field of instinct is limited; its utterances are obscure and occasional; and about the far larger part of life both the dog and his master must conduct their steps by deduction and observation.
@@ -35,7 +38,7 @@ To the human observer, he is decidedly well-looking; but to the ladies of his ra
 
 "But while the lamp holds on to burn," says the paraphrase, "the greatest sinner may return."[^17] I have been cheered to see symptoms of effectual penitence in my sweet ruffian; and by the handling that he accepted uncomplainingly the other day from an indignant fair one, I begin to hope the period of Sturm und Drang[^18] is closed.
 
-All these little gentlemen are subtle casuists. The duty to the female dog is plain; but where competing duties rise, down they will sit and study them out like Jesuit confessors.[^19] I knew another little Skye, somewhat plain in manner and appearance, but a creature compact of amiability and solid wisdom. His family going abroad for a winter, he was received for that period by an uncle in the same city. The winter over, his own family home again, and his own house (of which he was very proud) reopened, he found himself in a dilemma between two conflicting duties of loyalty and gratitude. His old friends were not to be neglected, but it seemed hardly decent to desert the new. This was how he solved the problem. Every morning, as soon as the door was opened, off posted Coolin to his uncle's, visited the children in the nursery, saluted the whole family, and was back at home in time for breakfast and his bit of fish. 
+All these little gentlemen are subtle casuists.[^casuist] The duty to the female dog is plain; but where competing duties rise, down they will sit and study them out like Jesuit confessors.[^19] I knew another little Skye, somewhat plain in manner and appearance, but a creature compact of amiability and solid wisdom. His family going abroad for a winter, he was received for that period by an uncle in the same city. The winter over, his own family home again, and his own house (of which he was very proud) reopened, he found himself in a dilemma between two conflicting duties of loyalty and gratitude. His old friends were not to be neglected, but it seemed hardly decent to desert the new. This was how he solved the problem. Every morning, as soon as the door was opened, off posted Coolin to his uncle's, visited the children in the nursery, saluted the whole family, and was back at home in time for breakfast and his bit of fish. 
 
 Nor was this done without a sacrifice on his part, sharply felt; for he had to forego the particular honour and jewel of his day—his morning's walk with my father. And perhaps, from this cause, he gradually wearied of and relaxed the practice, and at length returned entirely to his ancient habits. But the same decision served him in another and more distressing case of divided duty, which happened not long after. He was not at all a kitchen dog, but the cook had nursed him with unusual kindness during the distemper; and though he did not adore her as he adored my father—although (born snob) he was critically conscious of her position as "only a servant"—he still cherished for her a special gratitude. Well, the cook left, and retired some streets away to lodgings of her own; and there was Coolin in precisely the same situation with any young gentleman who has had the inestimable benefit of a faithful nurse. 
 
@@ -94,6 +97,7 @@ The astonishing fidelity and devotion of the dog to his master have certainly be
 [^23]: "Stammering Professors." A "professor" here means simply a professing Christian. Stevenson alludes to the fact that dogs howl fearfully if some one in the house is dying.]
 [^24]: "Carneying." This means coaxing, wheedling.]
 [^25]: Louis Quatorze. Louis XIV of France, who died in 1715, after a reign of 72 years, the longest reign of any monarch in history. His absolutism and complete disregard of the people unconsciously prepared the way for the French Revolution in 1789.]
+
 [^potentate]: a monarch or ruler, especially an autocratic one. 
 
 # Summary
@@ -109,11 +113,12 @@ The leading distinction between dog and man, after and perhaps before the differ
 
 The absence of the power of speech confines the dog in the development of his intellect. It hinders him from many speculations, for words are the beginning of metaphysic. 
 **saves them from superstitions** 
+and their silence has earned more praise for their virtues than justified
 
-"fauilts of dogs" - 
+"faults of dogs" - 
 **He is vainer than man, singularly greedy of notice, singularly intolerant of ridicule, suspicious like the deaf, jealous to the degree of frenzy, and radically devoid of truth**
 
-Many of the signs which form his dialect have come to bear an arbitrary meaning, clearly understood both by his master and himself; yet when a new want arises he must either invent a new vehicle of meaning or wrest an old one to a different purpose; and this necessity frequently recurring must tend to lessen his idea of the sanctity of symbols.
+Many of the signs which form his dialect have come to bear an arbitrary meaning, clearly understood both by his master and himself; yet when a new want arises he must either invent a new vehicle of meaning or rest an old one to a different purpose; and **this necessity frequently recurring must tend to lessen his idea of the sanctity of symbols.**
 
 It is amazing how the use of language blunts the faculties of man—-that because vainglory finds no vent in words, creatures supplied with eyes have been unable to detect a fault so gross and obvious. 
 
@@ -143,7 +148,7 @@ And it is more pathetic and perhaps more instructive to consider the small dog i
 
 All these little gentlemen are subtle casuists. The duty to the female dog is plain; but where competing duties rise, down they will sit and study them out like Jesuit confessors
 
-casuist - person who uses clever but unsound reasoning
+[^casuist]: - person who uses clever but unsound reasoning
 
 *Stevenson calls dogs casuists in this essay because they are **subtle reasoners** who try to justify their actions and **resolve moral dilemmas**. He gives examples of how dogs balance their loyalty and gratitude to different human friends, or how they distinguish between formal and essential truth when they lie or deceive. **He implies that dogs have a conscience and a sense of honor, but also a flexible morality that adapts to circumstances.** 
 
@@ -153,7 +158,7 @@ And that in the most snobbish manner; for the poor man's dog is not offended by 
 
 *He suggests that dogs are influenced by human society and culture, and that they adopt its values and prejudices.*
 
-[^explanation1]: Stevenson means that humans are often blind to the vanity and selfishness of dogs, because dogs cannot express their thoughts and feelings in words. He thinks that if dogs could talk, they would reveal their true nature, which is full of pride, envy, and lies. He imagines that a spoiled dog who could talk would annoy and bore his human friends with his endless chatter about himself, and that they would soon lose their affection for him. He implies that dogs are better off being silent, because their silence makes them more lovable and respectable.
+[^explanation1]: Stevenson means that humans are often blind to the vanity and selfishness of dogs, because dogs cannot express their thoughts and feelings in words. **He thinks that if dogs could talk, they would reveal their true nature, which is full of pride, envy, and lies**. He imagines that a spoiled dog who could talk would annoy and bore his human friends with his endless chatter about himself, and that they would soon lose their affection for him. He implies that dogs are better off being silent, because their silence makes them more lovable and respectable.
 
 [^overall]: - I partially agree with Stevenson’s view of dogs. I think he is right that dogs have complex personalities and emotions, and that they are not mere instinctive machines. I also think he is right that dogs are influenced by human society and culture, and that they have adapted to human civilization and manners. However, I think he is too harsh and cynical in his judgment of dogs’ faults. I think he exaggerates the vanity, jealousy, and dishonesty of dogs, and overlooks their virtues. I think he fails to appreciate the diversity and individuality of dogs, and generalizes too much from his own experience. I think he is biased by his own human perspective, and does not try to understand dogs on their own terms. I think dogs are more than silent companions or spoiled children; they are intelligent and loyal partners who can enrich our lives with their love and joy.
 
@@ -171,12 +176,14 @@ And that in the most snobbish manner; for the poor man's dog is not offended by 
 [^women]:He is talking about how humans have interfered with the natural balance of the dog population by killing many female dogs for various reasons. He says that this has made the female dogs very rare and valuable in the dog society, where they are treated like queens by the male dogs. He compares this situation to the human society, where women have been oppressed and exploited by men for a long time. He also mentions a literary reference to Shakespeare’s play “As You Like It”, where Corin is a simple shepherd who does not understand the sophisticated manners of Touchstone, a court jester. He implies that humans are like Touchstone, who mocks and criticizes Corin for his ignorance and simplicity. He says that humans have a worse and more dangerous role than Corin, because they have harmed and corrupted the dog’s nature. He also gives an example of a rare case of a dog who abused his female partner, but he says that there was some justification for his behavior because of his past history.
 
 
-Canine wife-beater?
 He is a little black Skye terrier who was once kidnapped and tortured by some boys. He managed to escape and return to his owners, but he became very nervous and irritable. He would often snap at his female partner, a gentle and beautiful Skye terrier, and sometimes even bite her. Stevenson says that he was somewhat excused by the circumstances of his story, but he also says that he was ashamed of his behavior and would try to make up for it by being more affectionate and attentive to his partner.
 
 Woggs 
 Woggs, who was very polite and chivalrous to female dogs. He says that Woggs was a gentleman who wore a feather and a ribbon on his collar, and he had a high sense of honour and respect for women. He says that Woggs would endure any abuse or injury from female dogs without fighting back or complaining. He gives an example of how Woggs was once attacked by a female dog who bit his ear and made him bleed. But when a human woman tried to whip the female dog for her bad behavior, Woggs defended her and attacked the woman instead. He says that this is the story of a **soul’s tragedy**, meaning that Woggs was a noble and loyal dog who suffered because of his love and devotion to female dogs
 
-## dogs he mentions 
-Woggs 
-Skye terrier that was a gentleman 
+# dogs he mentions 
+1) Woggs 
+   Stevenson's blue skye terrier; even mentioned in *The Life of Robert Louis Stevenson by Sir Graham Balfour*
+   canine wife-beater
+2) Coolin 
+3) Arab dog that rose to "upper dog class" but was ignored by fellow upper class dogs (??) this left him lonely. we celebrate self made men but what about dogs? 

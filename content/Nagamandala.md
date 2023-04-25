@@ -4,6 +4,8 @@ tags: ['English']
 author: 'Girish Karnad'
 ---
 
+by [[Girish Karnad]]
+
 [[Story Theatre]]
 Story within a story
 based on the two stories Karnad heard from his mentor, Prof Ramanujan
@@ -61,10 +63,16 @@ layer 4 - Rani
 On the **first narrative level**, the frame story is about the playwright who has to stay awake for the whole night in the temple, to let the curse pass. The night of that theatrical performance was his last chance to see that the audience stay awake the entire night while watching his play. We hear author-narrator‟s repeated laments,  
 “I may be dead within the next few hours.”  
 
-Mythical elements can be seen in the second and the third narrative level. The author-narrator meets the host of the giggling flames, each one carrying her own story becomes the second story. These personified flames go to the same ruined  
-temple where the author-narrator is bewailing his plight.  On the third level, we find a tale by a flame, who wants to be forgiven for arriving late to the hosting place. 
+**Mythical elements** can be seen in the second and the third narrative level. 
 
-The tale is about an old woman who knew an interesting story but refused to share it with others.  The story slipped out of the old woman's mouth as she snored and it transformed into a beautiful young lady and the song that accompanies it turns into a beautiful sari.
+The author-narrator meeting the giggling flames (who each one carry their own story) becomes the second story. These personified flames go to the same ruined  
+temple where the author is.  
 
-Thus, the fourth narrative level is the story of Rani, the lady who born out of the story from the old hag's mouth. Rani becomes the main character of the play Nagamandala. As the main story begins, the complex turn in the structure of the  
-story can be observed
+On the third level, we find a tale by a flame, who wants to be forgiven for arriving late to the hosting place. The tale is about an old woman who knew an interesting story but refused to share it with others.  The story slipped out of the old woman's mouth as she snored and it transformed into a beautiful young lady and the song that accompanies it turns into a beautiful sari.
+
+The fourth narrative level is the story of Rani, the lady who born out of the story from the old hag's mouth. Rani becomes the main character of the play Nagamandala. 
+
+--- 
+
+village elders suggest that Rani would have to pass through an ordeal to prove her innocence 
+

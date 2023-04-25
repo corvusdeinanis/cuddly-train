@@ -19,8 +19,9 @@ perne???
 ABABABCC
 
 ---
->[!Note]
->**That is no country for old men**. The young
+# Full Text
+
+**That is no country for old men**. The young
 In one another's arms, birds in the trees,
 —Those dying generations—at their song,
 The salmon-falls, the mackerel-crowded seas,
@@ -54,6 +55,8 @@ To lords and ladies of Byzantium
 Of what is past, or passing, or to come.
 
 ---
+# 
+
 **Byzantium** - Existed in classical time
 Present day Istanbul
 
@@ -62,9 +65,15 @@ Wants to move back (in time) to Byzantium
 
 The speaker describes a world where the old are not welcome. It is a world full of young lovers, birds, and fish, who **enjoy life without thinking about death or anything beyond their physical existence**. 
 
-The old man in this world feels like a ragged scarecrow, unless he can keep his soul alive and singing in his decaying body. He has to learn how to do this by himself, since no one can teach him. That is why he has traveled across the sea to the ancient sacred city of Byzantium. **There, he appeals to the wise men and saints who have died and become part of God’s glorious fire, which resembles the golden mosaics of Byzantine churches**. **He asks them to come out of the fire, spinning like a spool, and teach his soul to sing.** He wants them to destroy his mortal heart, which is bound to his dying body and cannot understand or accept its own mortality, and take him to their eternal world of art. 
+The old man in this world feels like a **ragged scarecrow**, unless he can keep his soul alive and singing in his decaying body. He has to learn how to do this by himself, since no one can teach him. **("no singing school")** 
 
-When he leaves his body behind, he says he will not take another mortal form. **Instead, he will become a beautiful golden artwork, like something made by ancient Greek metal workers for an emperor’s bedroom. Or he will be a golden bird on a golden tree, where he can teach people his everlasting and otherworldly wisdom-his transcendent knowledge of the past, present, and future.**
+That is why he has traveled across the sea to the ancient sacred city of Byzantium. **There, he appeals to the wise men and saints who have died and become part of God’s glorious fire, which resembles the golden mosaics of Byzantine churches**. **He asks them to come out of the fire, spinning like a spool, and teach his soul to sing.** He wants them to destroy his mortal heart, which is bound to his dying body and cannot understand or accept its own mortality, and take him to their eternal world of art. 
+
+When he leaves his body behind, he says he will not take another mortal form.
+
+Instead, he will become a 
+**beautiful golden artwork**, like something made by **ancient Greek metal workers for an emperor’s bedroom**
+Or **a golden bird on a golden tree**, where he can teach people his everlasting and otherworldly wisdom - his transcendent knowledge of the past, present, and future.
 
 ---
 
@@ -81,7 +90,9 @@ golden Byzantine mosaics
 ---
 
 # Themes 
-1. Old Age and Mortality 
-2. Power of Art
+1. Old Age and Mortality; 
+	   leaving the tattered body behind
+2. Power of Art and Immortality through art
+
 
 ---
