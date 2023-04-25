@@ -34,12 +34,19 @@ in the actual ending of the fourth layer (Rani's story), the snake falls out of 
 
 **Playwright** who has to stay awake for the whole night in the  
 temple
+
 **Giggling Flames** in the village (personified )
+
 Rani - Protagonist
+
 Appanna - Rani's unfaithful husband
+
 Kurudavva - old lady who gives Rani the magical root
+
 Kappanna - Kurudavva's son
+
 Naga - falls in love with Rani, takes Appanna's form every night
+
 The village elders
 
 ---
@@ -51,27 +58,14 @@ layer 2 - giggling flames
 layer 3 - flame who arrives late
 layer 4 - Rani 
 
-On the first narrative level, the frame story is about the  
-playwright who has to stay awake for the whole night in the  
-temple, to let the curse pass. The night of that theatrical  
-performance was his last chance to see that the audience stay  
-awake the entire night while watching his play. We hear  
-author-narrator‟s repeated laments,  
+On the **first narrative level**, the frame story is about the playwright who has to stay awake for the whole night in the temple, to let the curse pass. The night of that theatrical performance was his last chance to see that the audience stay awake the entire night while watching his play. We hear author-narrator‟s repeated laments,  
 “I may be dead within the next few hours.”  
-Mythical elements can be seen in the second and the third  
-narrative level. The author-narrator meets the host of the  
-giggling flames, each one carrying her own story becomes the  
-second story. These personified flames go to the same ruined  
-temple where the author-narrator is bewailing his plight.  
-On the third level, we find a tale by a flame, who wants to be  
-forgiven for arriving late to the hosting place. The tale is about  
-an old woman who knew an interesting story but refused to  
-share it with others. Ironically, that story slipped out of the  
-snoring old hag‟s mouth and is transformed into a beautiful  
-young lady and the song that accompanies it, turns into a  
-beautiful sari.
-Thus, the fourth narrative level is the story of Rani, the lady  
-who born out of the story from the old hag‟s mouth. Rani  
-becomes the main character of the play Nagamandala. As the  
-main story begins, the complex turn in the structure of the  
+
+Mythical elements can be seen in the second and the third narrative level. The author-narrator meets the host of the giggling flames, each one carrying her own story becomes the second story. These personified flames go to the same ruined  
+temple where the author-narrator is bewailing his plight.  On the third level, we find a tale by a flame, who wants to be forgiven for arriving late to the hosting place. 
+
+The tale is about an old woman who knew an interesting story but refused to  
+share it with others. Ironically, that story slipped out of the snoring old hag‟s mouth and is transformed into a beautiful young lady and the song that accompanies it, turns into a beautiful sari.
+
+Thus, the fourth narrative level is the story of Rani, the lady who born out of the story from the old hag‟s mouth. Rani becomes the main character of the play Nagamandala. As the main story begins, the complex turn in the structure of the  
 story can be observed
