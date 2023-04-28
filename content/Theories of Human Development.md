@@ -58,10 +58,10 @@ focuses on the influence of unconscious
 symbolism
 early experiences with parents extensively shape development
 
-## **Psychosexual** Theory by Freud
+## Psychosexual Theory by Freud
 Freud, through analysis of his patients, began to believe that their problems were the result of early experiences in their life. According to him, our adult personality is determined  by the way we **resolve conflicts between sources of pleasure at each stage** and the  **demands of reality**.
 
-erogenous zones, sexual stages, oedipus complex, electra complex  
+erogenous zones, sexual stages, Oedipus complex, Electra complex  
 1. Oral 
 2. Anal
 3. Phallic
@@ -83,46 +83,53 @@ erogenous zones, sexual stages, oedipus complex, electra complex
 like Freud's theory, focuses on unconscious. But instead of sexual, focuses on social aspects 
 connection, attribution, love, care
 ### Stages of Erikson's theory
+
 #### 1. Trust vs Mistrust
-    shapes worldview 
-	age - 0-1 
-	negative outlook or positive outlook wrt the world around them
+shapes worldview 
+age - 0-1 
+negative outlook or positive outlook wrt the world around them
+
 #### 2. Autonomy vs Shame
-	1 year - 3 year
-	sense of self, independence
+1 year - 3 year
+sense of self, independence
+
 #### 3. Initiative vs Guilt
-	 age - 3-5 
-	 either takes initiative and makes friends, or feeels guilty 
+age - 3-5 
+either takes initiative and makes friends, or feels guilty 
+
 #### 4. Industry vs Inferiority 
-	mastering of knowledge, intellectual skills 
-	negative outcome = sense of inferiority; incompetent; 
-	unproductive
+mastering of knowledge, intellectual skills 
+negative outcome = sense of inferiority; incompetent; 
+unproductive
+
 #### 5. Identity vs Identity Confusion (or identity diffusion)
-	10 - 20 / adolescence
-	finding your self identity
-	who they are, where they're going in life, their values etc
+10 - 20 / adolescence
+finding your self identity
+who they are, where they're going in life, their values etc
 	failure to answer these - they are confused, negatively affects
 	esteem
+	
 #### 6. Intimacy vs Isolation
-	Early adulthood, 20s - 30s
-	Developing intimate relationships
-	Forming healthy friendships
-	failure - social isolation
+Early adulthood, 20s - 30s
+Developing intimate relationships
+Forming healthy friendships
+failure - social isolation
+
 #### 7. Generativity vs Stagnation
-	40s - 50s, middle adulthood 
-	Generativity = want to help younger generation
-	Stagnation = having done nothing to help the younger gen
+40s - 50s, middle adulthood 
+Generativity = want to help younger generation
+Stagnation = having done nothing to help the younger gen
 #### 8. Integrity vs Despair
-	60+, late adulthood
-	reflects on past; retrospective
-	was life spent well? satisfaction
-	doubt vs gloom, despair 
-	sad about and unsatisfied about the kind of life they lived 
-	??? close to death, how they react to aging and concept of
-	death??
+60+, late adulthood
+reflects on past; retrospective
+was life spent well? satisfaction
+doubt vs gloom, despair 
+sad about and unsatisfied about the kind of life they lived 
+close to death, how they react to aging and concept of
+death???
 
 
-### Mnemonic for Erikson's Psychosocial Staages
+### Mnemonic for Erikson's Psychosocial Stages
 [[Peg Word Mnemonic]]
 One is a bun,
 Two is a shoe,
@@ -132,16 +139,22 @@ Five is a hive,
 Six is sticks,
 Seven is heaven,
 Eight is bait
+![peg word mnemonic for erikson's theory](images/eriksontheory-min.jpg)
 
-**He Will Probably Come Fast, Literally Can't Weight!**
+mnemonic for the goals of each stage: 
+**He Will Probably Come Fast, Literally Can't Wait!** 💦
 
-![mnemonic](images/mnemonicerikson.png)
+
+visual aid for mnemonic -> 
+Rusted Bun (tRust)
+Shoe run over by Shane in his car (Sha(n)me vs autonomy)
+
 
 # Cognitive Theories
 
 ## 1. Piaget
    accd to him, **the way they think, not how much they know, decides their cognitive development**
-   children actively contruct their understanding of the world 
+   children actively construct their understanding of the world 
    four stages of cognitive development
    two processes that the cognitive construction of the world
    - Organization
@@ -192,7 +205,7 @@ if attachment = positive and secure, individual develops positively in childhood
 If attachment = negative and insecure,  not optimal development 
 
 says caregiver and infant are predisposed to form attachments
-baby clings, coos, cries. immediate result is to keep the primary caregiver near by and thelong-term effect is to increase the infant’s chances of survival
+baby clings, coos, cries. immediate result is to keep the primary caregiver near by and the long-term effect is to increase the infant’s chances of survival
 
 ### Phases of Attachment
 

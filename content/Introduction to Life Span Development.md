@@ -6,14 +6,14 @@ date: ['2022-11-30']
 
 # Life Span Development
 
-dev from conception to death
+development from **conception** to **death**
 lifelong
 progressive
 orderly
 
-what is development?
-Development is the pattern of progressive, orderly
-and predictable changes that begin at conception
+**what is development?**
+Development is the **pattern** of **progressive**, **orderly**
+and **predictable** changes that begin at conception
 and continue throughout life.
 
 # 3 dimensions 
@@ -35,17 +35,17 @@ Development is :
 	historical, economic, social, and cultural factors
 -inter-disciplinary
 -depends on historical conditions
--depends on how indvl responds and acts on context
+-depends on how individual responds and acts to context
 
 # Periods of development
-1) Prenatal 
-2) Infancy
-3) Early Childhood
+1) Prenatal [[Phases of Prenatal Development]]
+2) Infancy [[Infancy, childhood, adolescence]]
+3) Early Childhood 
 4) Middle and Late Childhood 
 5) Adolescence
-6) Early Adulthood
-7) Middle Adulthood
-8) Late Adulthood 
+6) Early Adulthood [[Emerging Adulthood]]
+7) Middle Adulthood [[Middle Adulthood]]
+8) Late Adulthood [[Late Adulthood]]
 
 # Perspectives / Key issues in Lifespan Development
 
@@ -60,40 +60,10 @@ gradual or abrupt?
 ## Activity vs Passivity
 (involvement in their own development)
 
-## Specifity vs Generality
-(are they universal or are they dependent on culture, country, community)
+## Specificity vs Generality
+(is it universal or is it dependent on culture, country, community)
 
 
+# Types of Developmental Research and Ethical Values
 
-## Types of development research design
-
-- Observation
-  - Natural vs laboratory
-  - participant vs non participant
-
-- Survey and Interview
-
-- Questionnaire
-
-- Case Study
-  (first by Sigmund Freud)
-
-- Cross sectional designs
-- Longitudinal
-  lifelong
-  
-- Sequential
-  elements of both longitudinal and sequential 
-  
-- Ethnograph
-
-### Ethical Issues
-Protection
-Right to Withdrawal
-Confidentiality
-Informed Consent
-Debriefing
-No Deception
-  
-
- 
+![[Developmental Research - Types and Ethical Issues]]
