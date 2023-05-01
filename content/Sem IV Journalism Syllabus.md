@@ -21,7 +21,7 @@ Unit 2
 [[Elements of a News Story]]
 [[News Writing and Styles]]
 [[News Stories]]
-[[Newsworthiness]]
+[[News Values or Elements]]
 [[Lead]]
 [[Difference between opinion and news]]
 
@@ -42,7 +42,7 @@ Unit 5
 [[Editing]]
 [[Editing a Copy]]
 [[Editorial Structure of Newsroom and Roles]]
-[[Copy-editing Symbols]]
+[[Copyediting marks]]
 [[Glossary of Newspaper Terms]]
 [[Glossary of Newspaper Design]]
 

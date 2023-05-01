@@ -1,5 +1,5 @@
 ---
-title: "Newsworthiness"
+title: "News Values/Elements of News"
 aka: "News Values/Elements of News"
 date: 2023-04-20
 tags: ['journalism']
@@ -12,6 +12,7 @@ tags: ['journalism']
 3. Context 
 4. Emotion 
 
+
 ## How to determine "newsworthiness"
 
 1. Impact
@@ -21,3 +22,7 @@ tags: ['journalism']
 5. Oddity/Novelty
 6. Human Interest ->  Anything that appeals to emotions
 7. Conflict
+
+IPIP OHC 
+
+COPI HIP 
