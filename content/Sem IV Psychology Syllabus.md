@@ -1,5 +1,5 @@
 ---
-title: "Psychology Sem IV modules"
+title: "Psychology Sem IV Syllabus"
 tags: ['psychology','college','syllabus']
 ---
 

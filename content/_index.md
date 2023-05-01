@@ -1,7 +1,7 @@
 
 # Welcome to Astro's Garden! 🌱
 
-#### (Psst. Looking for my exam [[notes]]?)
+#### (Psst. Looking for my exam [[semiv notes]]?)
  
 A hodge-podge of a digital garden[^digitalgarden], a codex vitae[^codex], a blog, and a wiki.  It's somewhat the sum of all my knowledge. Constantly evolving, changing, and morphing. ~~Also a place where I waste a lot of time, trying to make notes instead of studying or learning. jfdifsjd~~
 

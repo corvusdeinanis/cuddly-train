@@ -3,12 +3,12 @@ title: "Attention and Perception"
 tags: ['psychology','studynotes']
 ---
 
-### <u>Portions</u>
+## <u>Portions</u>
 1. Types of Attention: **Selective attention** and **Divided 
 attention**
 2. Theories of Attention: 
    (a) Theories of Selective  Attention: Broadbent’s model & Triesmann’s model, 
-(b) Theories of Divided Attention: Kahneman’s model
+   (b) Theories of Divided Attention: Kahneman’s model
 3. Perceptual Processes: Perception: Meaning and Definition
 4. Gestalt laws of Perceptual Organisation
 5. Depth Perception: Monocular and Binocular cues for depth perception
@@ -19,8 +19,7 @@ attention**
 
 ---
 # Attention
-
-## <u>Meaning</u>****
+## Meaning 
 
 > [! QUESTION] What is Attention?
 > Attention is a **cognitive process** of selectively concentrating on a **discrete  aspect of information**, whether considered subjective or objective, while  **ignoring other perceivable information**
@@ -31,7 +30,7 @@ attention**
 > Prioritize stimuli based on goals and needs
 
 
-## <u>Factors Affecting Attention</u>
+## Factors Affecting Attention
 |             Internal  aka subjective           |  External  |
 |:--------------------------------:|:----------:|
 |             Interest             |   Nature   |
@@ -47,6 +46,7 @@ attention**
 >[!mnemonic] 
 >MMM, PIE AH? -> Internal 
 >CRIMSoN NL -> External
+
 ### Internal Factors
 AKA Subjective factors. Depend from person to person. 
 1. **Interest** | 
@@ -71,8 +71,8 @@ AKA Subjective factors. Depend from person to person.
 
 
 
-## <u>Types of Attention</u>
-#### 1. Based on Needs
+## Types of Attention
+### 1. Based on Needs
 a) **Sustained Attention**
 	 it is the ability to pay attention to **only one task** by **consciously concentrating** on that task only for a **long time** enough and by **avoiding all other forms of distractions** or deviations. <u>Eg - reading a book, memorizing a chapter or following a classroom lecture.</u>
 	
@@ -85,7 +85,7 @@ c) **Divided Attention**:
 d) **Alternating Attention**: 
 	Though this attention can be closely related to divided attention, but is different as in case of divided attention we split our attention between two tasks, while in case of alternating attention, **the entire attention is shifted from one task to another** or is done alternately.
 
-#### 2. Based on Volition   
+### 2. Based on Volition   
    a) **Voluntary** (aka volitional)
 	requires will and determination
 	**not** spontaneous
@@ -103,9 +103,9 @@ d) **Alternating Attention**:
 Auditory - ability to pay attention to auditory stimuli, related to temporal 
 Visual - visual stimuli, related to spatial 
 
-## <u>Models of Attention</u>
-### **Selective**
-#### 1. <mark><b>Broadbent</b></mark>'s Model of Selective Attention | Early Selection Theory
+# <u>Models of Attention</u>
+## **Selective**
+### 1. Broadbent's Model of Selective Attention | Early Selection Theory
 ```mermaid 
 graph LR
 
@@ -131,7 +131,7 @@ After selective filter, **meaning** is assigned to the stimuli and then processe
 
 <u><strong>Bottleneck theory</u></strong> - individuals have a limited amount of attentional resources that they can use at one time
 
-#### 2. Treisman's Model | **Attenuation Theory**
+### 2. Treisman's Model | **Attenuation Theory**
 <b><u>Attenuation</u> </b>- the lessening or weakening in the intensity, value, or quality of a stimulus 
 
 <u>unattended messages</u> are **attenuated** or processed weakly but **not** entirely blocked from further processing
@@ -204,10 +204,6 @@ end
 m[Attentional Capacity depends on arousal]
 C --> A
 C --> B
-style A fill:yellow;  
-style B fill:pink;
-style R fill:cyan;
-style three fill:#ebccff;
 ```
 
 **Interference** is the term used to describe when a  
@@ -224,6 +220,8 @@ environment.
 An automatic influence 
 where people direct their attention.
 
+
+## Summary of Models 
 ---
 |        Model       |         AKA        |                                       Principle                                      |        Main Component       | 
 |:------------------:|:------------------:|:------------------------------------------------------------------------------------:|:---------------------------:|
@@ -232,7 +230,7 @@ where people direct their attention.
 | Kahneman's Theory  | Divided Attention  | Can do multiple things at once depending on capacity; **Central Allocation Policy**; IME | central processor           |   
 
 Broadbent, Treisman -> Selective Attention Theory
-==Kahneman -> Divided Attention Theory==
+Kahneman -> Divided Attention Theory
 
 ---
 <u>Broadbent</u> -> said that filtered out by physical properties, semantic analyis is not done, meaning is not assigned to unattended stimuli, 
@@ -256,7 +254,6 @@ Broadbent, Treisman -> Selective Attention Theory
 
 
 ---
-
 
 # Perception
 Definition - the ***organization*, *identification*, and  
@@ -319,13 +316,13 @@ Similarity
 Symmetry
 Figure and Ground
 
-##### Illusion
+### llusion
 a **misrepresentation** of a “real”  sensory stimulus
 an interpretation that contradicts objective “reality” as defined by general agreement
 universal unlike hallucinations
 real stimuli, wrong interpretation
 
-##### Monocular and Binocular Cues
+### Monocular and Binocular Cues
 
 ``` mermaid
 flowchart TD

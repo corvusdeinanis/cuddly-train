@@ -4,24 +4,24 @@ tags: ['psychology','studynotes']
 ---
 
 
-## Learning  
-##### Definition
+# Learning  
+## Definition
 relatively durable / lasting change in behaviour that is not the result of maturation, 
 acquiring of new knowledge, skills
 brought about by <u>experience</u>
 
-##### Determinants
+## Determinants
 1. Needs
 2. State
 3. Preferred Learning Styles
 
-#### Theories of Learning: 
-###### (a)  Classical Conditioning  
+## Theories of Learning: 
+### (a)  Classical Conditioning  
 - **Ivan Pavlov**, Russian Physiologist
 - Type of conditioning where a neutral (conditioned) stimulus replaces the natural (unconditioned) stimulus, i.e., the conditioned stimulus elicits the same response as the natural stimulus. unconditioned response -> conditioned response
 - Bell ringing experiment, saliva, measured
 
-Factors - 
+#### Factors - 
 a. Extinction
 b. Spontaneous Recovery
 c. Stimulus Generalization
@@ -30,7 +30,7 @@ e. Higher Order Conditioning
 
 **Watson** -> Little Albert; toy, sound, induce fear
 
-###### (b) Operant Conditioning  
+### (b) Operant Conditioning  
 - BF Skinner
 - Increases chances of particular behaviour by **reinforcement**
 - voluntary
@@ -60,39 +60,39 @@ Negative Punishment
 
 ==**classical conditioning depends on developing associations** whereas **operant conditioning depends on consequences**==
 
-###### Law of Effect
+### Law of Effect
 Edward Thorndike 
 Cats
 any behavior that is followed by pleasant consequences = increase behaviour
 will stop when consequences stop 
 
-##### (c) Insight learning 
+### (c) Insight learning 
 - A ha! moment
 - perceptual reorganization after few trials
 - sudden realization of solution
 
-##### (d) Observational/Social Learning
+### (d) Observational/Social Learning
 Bandura's Bobo Doll experiment
 We observe and learn from others' experience not just ours 
 
 
 
-## Memory  
-#####  Definition
+# Memory  
+## Definition
 Memory = encode, store and retrieve info 
 to organize and store information, ready for retrieval when needed
 
-##### Memory process
+## Memory process
 Encode -> Storage -> Retrieval
 
-##### Memory Models: 
-###### Atkinson and Shiffrin model, 
-######  Neural Network Models
+## Memory Models: 
+### Atkinson and Shiffrin model, 
+###  Neural Network Models
 
-##### Types of Memory – 
-###### Sensory, 
-###### STM /Working
-###### Long Term
+## Types of Memory – 
+### Sensory, 
+### STM /Working
+### Long Term
 ```mermaid
 graph TB
 a(Long Term Memory) --> b(Implicit)
@@ -101,33 +101,38 @@ b -->d(aka Procedural Memory. <br> Does not need conscious recollection)
 c -->e(aka Declarative Memory.<br> Needs conscious recollection. Biographic memory)-->e1(Episodic or autobiographical)
 e-->e2(Semantic or factual)
 ```
-###### Rehearsal 
+## Rehearsal 
 - Maintenance Rehearsal / Rote Learning
 - Elaborative Rehearsal -> Meaningful; remember for longer
 
-###### Memory Enhancing Strategies
+## Memory Enhancing Strategies
 - Mnemonics 
 - Chunking
 - Rehearsal
 
-##### FORGETTING:  
+# FORGETTING:  
+
 Defn - Forgetting is the loss or change in information that was previously stored in short-term or long-term memory. It can occur suddenly or it can occur gradually
 
-Reasons for Forgetting /Theories of forgetting: 
-- Trace decay theory, - memory trace = neural pathway; strengthens with use, fades with disuse | Ebbinghaus Forgetting Curve
-- Encoding failure theory - wasn't encoded properly, fault in first stage
-- Displacement theory, - loss in short term memory; when new info comes in old is lost
-- Retrieval-failure theory,  tip of the tongue effect, memory is there but diff w recall due to lack of retrieval cues. 
-  Retrieval cues - 
+## Reasons for Forgetting /Theories of forgetting: 
+### Trace decay theory,
+memory trace = neural pathway; strengthens with use, fades with disuse | Ebbinghaus Forgetting Curve
+### Encoding failure theory 
+wasn't encoded properly, fault in first stage
+### Displacement theory
+loss in short term memory; when new info comes in old is lost
+### Retrieval-failure theory,  
+tip of the tongue effect, memory is there but diff w recall due to lack of retrieval cues. 
+#### Retrieval cues - 
 	  - state-dependent
 	  - context-dependent
 	  - semantic
 
-- Interference theory.
-proactive - new memories are prevented by old memories 
-e.g. writing old year instead of current year 
-retroactive - old memories are altered by new ones
-e.g. Learning a new language and using that with old language
+### Interference theory.
+1. **proactive** - new memories are prevented by old memories 
+	e.g. writing old year instead of current year 
+2. **retroactive** - old memories are altered by new ones
+	e.g. Learning a new language and using that with old language
 
 ```mermaid
 graph TB
@@ -143,3 +148,9 @@ subgraph TB
 end
 ```
 
+--- 
+
+see also: 
+[[Learning and Memory]]
+[[Flashcards]]
+[[Zettelkasten]]

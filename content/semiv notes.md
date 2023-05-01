@@ -4,19 +4,17 @@ tags: ['meta']
 ---
 
 [Psychology](https://corvusdeinanis.github.io/cuddly-train/tags/psychology)
-> [[Psychology Sem IV Syllabus]]
+> [[Sem IV Psychology Syllabus]]
 
 [English](https://corvusdeinanis.github.io/cuddly-train/tags/english)
 > [[Sem IV English Syllabus]]
 
 
 [Journalism](https://corvusdeinanis.github.io/cuddly-train/tags/journalism)
-
+	[[Sem IV Journalism Syllabus]]
 
 [Research](https://corvusdeinanis.github.io/cuddly-train/tags/research)
-
+	[[Research Methodology Syllabus]]
 
 [Cloud Computing](https://corvusdeinanis.github.io/cuddly-train/tags/cloudcomputing)
 
-
-[Environmental Science](https://corvusdeinanis.github.io/cuddly-train/tags/evs)

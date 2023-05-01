@@ -22,16 +22,16 @@ tags: ['psychology','studynotes','incomplete']
 - Meaning and definition Steps in decision making 🔁
 - Decision making styles: Directive, Analytical, Conceptual, and Behavioural ❓❓❓
 ---
-##  1. Thinking 
+## 1. Thinking 
 ### Meaning and Definition
-AKA Cognition (from Latin *<mark>Cognitio</mark>* - To know)
-<strong>Thinking</strong> is a mental process by which we <strong>manipulate</strong> ideas, words, and information and use this to solve problems, think critically, reason and make decisions. 
-It is the <strong>organizing, interpreting, understanding, and communication of information</strong>. 
+AKA Cognition (from Latin **Cognitio** - To know)
+Thinking is a mental process by which we manipulate ideas, words, and information and use this to solve problems, think critically, reason and make decisions. 
+It is the organizing, interpreting, understanding, and communication of information. 
 
 ---
 
-### Building blocks of thinking 
-Thinking can be discussed about / studied in the form of <strong>Mental Images</strong> and <strong>Concepts.</strong> These are the <strong>building blocks of thinking</strong>.
+## Building blocks of thinking 
+Thinking can be discussed about / studied in the form of Mental Images and Concepts. These are the building blocks of thinking.
 
 ```mermaid
 flowchart TD
@@ -40,50 +40,45 @@ a --> c("Concepts");
 a --> d("Algorithms and Heuristics");
 ```
 
----
-
-#### 1. Mental Images - 
-<strong>representations</strong> of an object or event in the mind. not necessarily visual. Mental images have same properties as that of real objects. 
+### 1. Mental Images - 
+representations of an object or event in the mind. not necessarily visual. Mental images have same properties as that of real objects. 
 ><u>For example </u> : 
 takes the mind longer to scan mental images of large objects than small ones just like the eye
 
----
-#### 2. Concepts - 
-Mental categorization of data <strong>based on experience</strong>. 
-Organize <strong>complex phenomena into cognitive categories</strong> that are easier to understand and remember. 
-Mental <strong>grouping of similar</strong> objects, people, events, etc. 
+### 2. Concepts - 
+Mental categorization of data based on experience. 
+Organize complex phenomena into cognitive categories that are easier to understand and remember. 
+Mental grouping of similar objects, people, events, etc. 
  ><u>For example</u> 
 >We categorize birds together based on information we've learnt. If it has wings,
 >lays eggs, has a beak, it most likely is a bird. 
----
-##### Prototypes
-> are typical, <strong>highly representative examples</strong> of a concept that correspond to our mental image or best example of the concept. Eg - Crow is a prototype bird
 
+### Prototypes
+> are typical, highly representative examples of a concept that correspond to our mental image or best example of the concept. Eg - Crow is a prototype bird
 [[# Concept Formation]]
 
----
-
-#### 3. Algorithms and heuristics  (???)
+### 3. Algorithms and heuristics  (???)
 Methods of problem-solving. 
 
-## What is <strong>Problem Solving</strong>?
+## What is Problem Solving?
 - It is the process of arriving at a solution
 - an attempt to find an appropriate way of attaining a goal when the goal is not readily available 
 [[#Steps in Problem Solving]]
 --- 
-<strong>Algorithms</strong> - A rule, which, if applied appropriately, guarantees a solution to a problem. No errors if used properly. Don't need to know how it works. Eg - a formula
-<strong>Heuristics</strong> - Increase the chances of success but not a guaranteed success like algorithms.  Can lead to errors.
+**Algorithms** - A rule, which, if applied appropriately, guarantees a solution to a problem. No errors if used properly. Don't need to know how it works. Eg - a formula
+
+**Heuristics** - Increase the chances of success but not a guaranteed success like algorithms.  Can lead to errors.
 
 ---
 
 ## Concept Formation 
-<strong><u>process</u></strong> in which person learns to <strong>sort experiences and objects </strong> into <strong>categories</strong> based on <strong>past experience</strong>. 
+<u>process</u> in which person learns to sort experiences and objects  into categories based on past experience. 
 
 Important because shapes the way we think about the world. Is the reason we know apple is a fruit. Concepts are important because - 
-a. make it possible to <strong>generalize</strong>
-b. hence making it <strong>easier to remember and understand</strong> objects/events. 
+a. make it possible to generalize
+b. hence making it easier to remember and understand objects/events. 
 c. allows us to associate objects and experiences 
-d. helps us deduce properties of a <strong>new object based on past experience</strong>
+d. helps us deduce properties of a new object based on past experience
 
 ---
 
