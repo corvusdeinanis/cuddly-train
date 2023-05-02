@@ -4,7 +4,7 @@ date: 2023-04-20
 tags: ['journalism']
 ---
 
-A [[News Stories]]
+![[News Stories]]
 
 
 -> 

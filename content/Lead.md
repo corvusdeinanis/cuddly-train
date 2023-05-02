@@ -1,7 +1,7 @@
 ---
 title: "Lead"
 date: 2023-04-20
-tags: ['journalism']
+tags: ['journalism','rework']
 ---
 
 Opening paragraph of a news story
@@ -20,3 +20,4 @@ Accurate, factual
 **ABCs of Journalism - Accuracy, Brevity, Clarity** 
 
 [[inverted pyramid]]
+[[News Stories]]

@@ -1,6 +1,6 @@
 ---
 title: "News Values/Elements of News"
-aka: "News Values/Elements of News"
+aka: "Elements of News"
 date: 2023-04-20
 tags: ['journalism']
 ---
@@ -23,6 +23,7 @@ tags: ['journalism']
 6. Human Interest ->  Anything that appeals to emotions
 7. Conflict
 
-IPIP OHC 
-
 COPI HIP 
+
+Conflict Oddity Proximity Impact 
+Human-Interest Immediacy Prominence

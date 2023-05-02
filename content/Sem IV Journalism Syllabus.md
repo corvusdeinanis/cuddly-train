@@ -5,11 +5,11 @@ tags: ['journalism','college','syllabus']
 ---
 
 Unit 1 
-[[Newsroom]]
+[[Newsrooms and their functions]]
 [[Editorial Structure of Newsroom and Roles]]
 [[Qualities and Functions of a Reporter]]
-[[stringers]]
-[[beat]]
+[[Stringers]]
+[[Beat]]
 [[Special Reporters]]
 [[Newspaper Roles]]
 [[Anatomy of a Newspaper]]
@@ -18,10 +18,9 @@ Unit 1
 
 Unit 2 
 [[Soft News vs Hard News]]
-[[Elements of a News Story]]
+[[News Values and Elements of News]]
 [[News Writing and Styles]]
 [[News Stories]]
-[[News Values or Elements]]
 [[Lead]]
 [[Difference between opinion and news]]
 

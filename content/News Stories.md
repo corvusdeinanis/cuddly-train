@@ -30,15 +30,15 @@ Urgent / pressing
 Soft News - Unimportant, longer 
 niche, 
 
-#### Inverted Pyramid
-##### Leads
+## Inverted Pyramid
+### Leads
 	maximum amount of information
 	main idea and subject
 	be clear what the story is all about
 	grab attention
-##### Body
-##### Conclusion
-####
+### Body
+### Conclusion
+###
 
 **Avoid jargon**, complicated words. 
 Surprise them; element of surprise

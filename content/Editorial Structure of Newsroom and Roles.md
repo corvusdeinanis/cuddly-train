@@ -5,7 +5,7 @@ date: 2023-04-20
 ---
 
 # Structure of Newsrooms 
-[[Newsroom|Newsrooms]] can have various wings depending on the size of the newspaper. They can be divided into editing, reporting, and mechanical wing.
+[[Newsrooms and their functions|Newsrooms]] can have various wings depending on the size of the newspaper. They can be divided into editing, reporting, and mechanical wing.
 
 ```mermaid
 flowchart TB
@@ -15,16 +15,19 @@ X-->A(Newsroom)
 
 subgraph 1
 direction TB
-B(Central Editing Desk)-->D(Assistant Editor,<br>News Editor, <br>Chief Copy Editor,<br>Senior Copy Editor,<br>Copy Editors)
+B(Central Editing Desk)-->D(Assistant Editor,<br>News Editor, <br>Chief Copy Editor,<br>Senior Copy Editor,<br>Copy Editors <br> feature writers)
 end
 
 subgraph 2
-C(News Bureau)-->E(Bureau Chief,<br>Special Correspondents,<br>Reporters: Chief, Senior, City, Beat<br>Stringers<br>Feature Writers<br>Columnists)
+C(News Bureau)-->E(Bureau Chief,<br>Special Correspondents,<br>Reporters: Chief, Senior, City, Beat<br>Stringers <br> Photo Editor <br> Photographers)
 
 end
 
 A-->|editing wing|B
 A-->|reporting wing|C
+
+N(News Agencies)--->B
+B-->P(Desktop Publishing)
 
 ```
 # Roles (News Desk/Central Editing Desk)
@@ -49,11 +52,10 @@ up to date with activities of multi-edition newspapers
 in multi-edition newspapers, newspapers are published from different towns and cities 
 person who heads a particular edition = resident editor
 
-Large papers have many editions. For eg ToI originates from Mumbai but has lots of editions - Bangalore,New Delhi, etc
+Large papers have many editions. For eg ToI originates from Mumbai but has lots of editions - Bangalore, New Delhi, etc
 
 Resident Editors are extended arms of the chief editor who implements newspaper's policies
 
-!!! Insert picture of hierarchy and structure of newspaper organisations
 
 ## Assistant Editor
 assists chief editor and performs the duties assigned by the chief editor
@@ -83,12 +85,39 @@ In absence of News Editor, play the role
 
 
 # Roles (News Bureau)
-Bureau Chief - 
-Special Correspondents (cover national and international news)
-[[Reporters]]
-[[beat]] reporters 
-[[stringers]]
-[[Columnist]]
+## Bureau Chief 
+leads central bureau; 
+assigns duties;
+co-ordinates with news wing; 
+reports to news editor / chief sub-editor
+
+## Special Correspondents 
+(cover national and international news)
+senior-most, most experienced members
+
+## Chief Reporter 
+covers major events in the city or district 
+assigns duties to reporters and guides them
+plans special stories
+builds rapport with politicians and officials
+builds connections with information sources
+
+## Senior Reporters
+covers major happenings
+assists bureau chief
+takes over the role of bureau chief in case of their absence 
+
+## Reporters
+have a group of reporters 
+might have a specific [[Beat]]
+supervise by bureau chief 
+
+## ![[Stringers]]
+# Photography Wing
+## Photo Editor
+## Chief Photographer
+## Photographers
+
 # Other elements
  They may also have - 
 ```mermaid
@@ -101,3 +130,10 @@ a-->f(Store)
 a-->g(IT Department)
 a-->h(Circulation)
 ```
+
+---
+<sub>
+reference - 
+IGNOU's MJM-026 Print Media material
+https://egyankosh.ac.in/handle/123456789/59400
+</sub>

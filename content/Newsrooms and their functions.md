@@ -1,5 +1,5 @@
 ---
-title: "Newsroom"
+title: "Newsroom and their functions"
 date: 2023-04-20
 tags: ['journalism']
 ---
@@ -37,8 +37,8 @@ Each department has its own function but they work in tandem.
 A place for all the professionals to come together and work. Work as a team. Everything has to go hand in hand, because everything has to fit neatly into the newspaper. The length of articles, the number of articles, the advertisments, everything. Also accomodates last minute changes
 
 ## **News gathering**
-- **Reporters** go out and look for news; their specific [[beat]]
-- **Correspondents** giving news from other places  and [[stringers]] 
+- **Reporters** go out and look for news; their specific [[Beat]]
+- **Correspondents** giving news from other places  and [[Stringers]] 
 - Journalists have sources. Hence the "according to reliable sources"
 - many beats; crime, sports, entertainment, etc
 - expertise in their specific fields
@@ -73,8 +73,8 @@ A place for all the professionals to come together and work. Work as a team. Eve
   - images, logos
   - ads, typography
 
-## **Advertisment**
-deals with advertisments
+## **Advertisement**
+deals with advertisements
 types of ads: 
 	classified ads
 	local
@@ -90,6 +90,8 @@ types of ads:
 - installation and maintenance of machines
 - compiling data -> newspaper format -> paper
 - printing plate prep, printing cutting folding
+
+# Structure of Newsrooms
 
 ![[Editorial Structure of Newsroom and Roles]]
 
