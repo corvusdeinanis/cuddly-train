@@ -19,6 +19,8 @@ computers could do complicated commands - established a language for them - mach
 More programming languages 
 
 ## 3) Cognitive Era 
+(2010 -> the transition began; still not there)
+
 Allows machines to execute instructions based on learning from large datasets instead of preprogrammed instructions
 infinite computing = future of computing 
 uses cloud computing aka computing as a service 

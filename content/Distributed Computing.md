@@ -17,27 +17,35 @@ each with their own local memory (no shared memory)
 communicate via **message passing** 
 scalable  
 
-### Elements  of Distributed 
+### Elements of Distributed 
+
+(a controller manages or directs the flow of data between two entities; example something that interfaces with the CPU and printer 
+handles the incoming and outgoing signals of the CPU)
+
 
 **user interface client** 
 	provides info 
 	helps monitor and control the system
 	not on the same system as primary controller usually
 
-**primary controller** 
+**primary system controller** (??)
 _Main Controller_ 
-which acts as a broker of information between the frontends and the solvers
+which acts as a **broker** of information between the frontends and the solvers
+I/O access 
+maintains information, controls the management and dispatching of requests
 
 **secondary controller**
-	communications controller 
+	*process or communications controller* 
 	regulating the flow of server processing requests and managing the system’s translation load
-	
+
 **system datastore** 
-	shared system datastore, either in one computer or distrubuted among many 
+	shared system datastore, either in one computer or distributed among many 
 	each computer has local memory 
-	
+	different methods to store and retrieve information (file, block,object)
+
 ***database*** 
 	relational database 
+	store data in tables
 	allows multiple users to access same info simultaneously 
 	shared database helps synchronization
 
@@ -47,6 +55,7 @@ which acts as a broker of information between the frontends and the solvers
 - no single point of failure
 - redundancy, fault tolerance 
 - SCALABLE 
+- **Decentralized**
 
 ### Types 
 1. Mainframe
@@ -60,5 +69,7 @@ which acts as a broker of information between the frontends and the solvers
 
 --- 
 <sub>sources: <br>
-M. van Steen and A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023
+M. van Steen and A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023 <br>
+https://aws.amazon.com/what-is/data-store/, retrieved 2023 <br>
+https://www.spiceworks.com/tech/cloud/articles/what-is-distributed-computing/#_003 (?? recheck legitimacy)
 </sub>
