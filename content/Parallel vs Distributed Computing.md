@@ -51,11 +51,15 @@ depending on the theory that large problems can often be divided into smaller on
 
 
 [^1]: Frequency scaling or ramping was the dominant force in  processor performance increases from the mid-1980s until roughly the end of 2004. Frequency Scaling = increasing the frequency of the processor / clock, thereby reducing runtime. 
+
+1) A problem is broken down in into smaller parts each of which is processed simultaneously by multiple cores / processors
+
 ![image showing how a problem is split and processed](images/parallelcomputing2.svg)
 
-A problem is broken down in into smaller parts each of which is processed simultaneously by multiple cores / processors
+
+2) Two cores sharing the same storage via a bus
+
 ![two cores sharing same memory through bus](images/parallelcomputing1.svg)
-(two cores sharing the same shared storage)
 
 ### Elements of Parallel Computing 
 1. Computational Problem    
