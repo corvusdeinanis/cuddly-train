@@ -65,7 +65,10 @@ maintains information, controls the management and dispatching of requests
 ### Applications 
 - email by ARPANET was the largest and most successful implementation of distributed computing 
 - Peer-2-Peer (such as Torrents, file sharing)
-
+##
+see also
+[[Parallel Computing]]
+[[Parallel vs Distributed Computing]]
 
 --- 
 <sub>sources: <br>
