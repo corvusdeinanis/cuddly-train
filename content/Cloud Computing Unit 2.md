@@ -6,7 +6,7 @@ tags: ['cloud', 'cloudcomputing']
 
 [[Cloud - Roles and Boundaries]]
 
-[[What is cloud computing#Characteristics|Characteristics of Cloud]]
+[[What is Cloud Computing#Characteristics|Characteristics of Cloud]]
 
 [[Cloud Delivery Models]]
 

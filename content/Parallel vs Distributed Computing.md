@@ -5,9 +5,8 @@ tags: ['cloud', 'cloudcomputing']
 ---
 #cloud #cloudcomputing 
 
-**AT A GLANCE**
-
-| parallel | distributed |
+## Differences AT A GLANCE
+| Parallel | Distributed |
 |---|---|
 |single computer|multiple computers|
 |many operations simultaneously|system components are located at different locations |
@@ -52,11 +51,10 @@ depending on the theory that large problems can often be divided into smaller on
 
 
 [^1]: Frequency scaling or ramping was the dominant force in  processor performance increases from the mid-1980s until roughly the end of 2004. Frequency Scaling = increasing the frequency of the processor / clock, thereby reducing runtime. 
-
-![[images/parallelcomputing2.png]]
+![image showing how a problem is split and processed](images/parallelcomputing2.svg)
 
 A problem is broken down in into smaller parts each of which is processed simultaneously by multiple cores / processors
-![[images/parallelcomputing.png]]
+![two cores sharing same memory through bus](images/parallelcomputing1.svg)
 (two cores sharing the same shared storage)
 
 ### Elements of Parallel Computing 
