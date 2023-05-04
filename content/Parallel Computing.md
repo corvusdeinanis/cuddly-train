@@ -52,19 +52,19 @@ usually share storage
 ![two cores sharing same memory through bus](images/parallelcomputing1.svg)
 
 ## Elements of Parallel Computing 
-1. Computational Problem    
+1. **Computational Problem**    
 	three types: 
 	numerical, logical reasoning, transaction processing 
 	complex problems might need all 
-2. Computer Architecture 
+2. **Computer Architecture** 
 	Von Neumann architecture to multi-core and  multi-computer
 	lots of revolutionization
-3. Performance 
+3. **Performance** 
 	depends on machine capability and program behaviour 	
-4. Application Software 
+4. **Application Software** 
 	type of computer program that performs specific functions
 	end-user software
-5. OS
+5. **OS**
 	interface between a computer user and computer hardware
 	file management, memory management
 	handles basic functions
@@ -75,13 +75,12 @@ usually share storage
 	   Multiple instruction multiple data (MIMD)
 7. Mapping
 	   specifies where to execute each task
-
+![elements of parallel computing](images/parallelcomputingelements.svg)
 
 ##
 
 also see : [[Distributed Computing]]
 [[Parallel vs Distributed Computing]]
+[[Moore's Law]]
 
 [^1]: Frequency scaling or ramping was the dominant force in  processor performance increases from the mid-1980s until roughly the end of 2004. Frequency Scaling = increasing the frequency of the processor / clock, thereby reducing runtime. 
-
-also see - [[Moore's Law]]

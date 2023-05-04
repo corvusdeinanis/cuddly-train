@@ -22,4 +22,6 @@ combination of private and public
 combines on-premises infrastructure—or a private cloud—with a public cloud 
 edge computing 
 ## Multi-cloud 
-A multi-cloud architecture consists of multiple cloud services from various public or private cloud vendors. All hybrid cloud environments are multi-clouds. However, not all multi-cloud environments are hybrid clouds.
+A multi-cloud architecture consists of multiple cloud services from various public or private cloud vendors. **All hybrid cloud environments are multi-clouds**. However, not all multi-cloud environments are hybrid clouds.
+
+![[Cloud Delivery Models]]

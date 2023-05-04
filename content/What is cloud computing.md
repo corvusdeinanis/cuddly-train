@@ -15,17 +15,26 @@ tldr; do not need to buy, own, and maintain resources; scalable; pay only what y
 Look below for elaboration on why
 
 # Characteristics 
+
 on-demand 
 	can use whenever needed
 	once configured, it can be automated (?) 
+
 ubiquitous access  
 	widely accessible 
 	this is done using different protocols, devices, interfaces, security technologies 
 	tailored to particular needs 	
+
 [[Multitenancy in Cloud Computing]] 
+
 elasticity, scalability 
+
 resilience
+
 measured usage  
+
+> mnemonic: on u merm 🧜‍♀️
+
 
 # Advantages
 Cost Effective 

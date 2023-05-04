@@ -14,6 +14,8 @@ Technologies for Distributed Computing.
 Cloud Computing at a Glance, 
 Building Cloud Computing Environments, [[Building a Cloud Environment]]
 Computing Platforms and Technologies. 
+[[cloud computing platforms]]
+
 [[Cloud Computing Important Questions]]
 
 # Module 2 

@@ -7,10 +7,10 @@ tags: ['cloudcomputing','cloud']
 Organizations and people have different roles depending on how they interact w the cloud 
 
 ## Cloud Provider 
-provides computational resources
+**provides** computational resources
 manages administrative and managerial tasks and duties 
 usually own the IT resources 
-they lease the IT resources 
+**they lease the IT resources** 
 organization that provides the resources as per agreement 
 
 ## Cloud Consumer 
@@ -24,14 +24,14 @@ Individual or company that legally owns a cloud service
 
 ## Cloud Resource Administrator 
 individual or organization 
-responsible for administration 
+responsible for **administration** 
 can be from the cloud consumer, or from the cloud provider 
-can also be a third party contracted to adminstrate 
-adminsters not just cloud service but also other IT resources 
+**can also be a third party** contracted to administrate 
+administers not just cloud service but also other IT resources 
 
 ## Additional Roles 
 ### Cloud Auditor
-third-party that conducts an independent assessment 
+third-party that conducts an **independent assessment** 
 evaluates security, privacy, etc 
 unbiased 
 give consumer confidence
@@ -43,7 +43,7 @@ negotiates the terms between consumer and provider
 ### Cloud Carrier 
 provides wire-level connectivity between consumers and providers 
 usually network and telecommunication providers  
-
+![roles](images/cloudroles.svg)
 # Boundaries 
 
 ![Diagrammatical Representation of boundaries](images/boundariescc.svg)
@@ -53,7 +53,5 @@ usually network and telecommunication providers
 not a physical boundary but a boundary that represents organizational set of IT assets and resources 
 
 ## Trust
-A trust boundary is a logical perimeter that typically spans beyond physical boundaries to represent the extent to which IT resources are trusted. 
+**A trust boundary is a logical perimeter that typically spans beyond physical boundaries to represent the extent to which IT resources are trusted.**
 
-
-[[Cloud Computing Unit 2]]

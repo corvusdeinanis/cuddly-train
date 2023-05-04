@@ -12,7 +12,7 @@ tags: ['cloudcomputing','cloud']
 - [x] Write in detail the elements of parallel computing
 
 9M
-- [ ] Explain how to build a cloud computing environment
+- [x] Explain how to build a cloud computing environment
 
 # Unit 2 [[Cloud Computing Unit 2]]
 
@@ -27,15 +27,15 @@ tags: ['cloudcomputing','cloud']
 # Unit 3 [[Cloud - Basic Terms of security]] 
 
 9M
-- [ ] Explain basic terms and concepts in cloud security [[Cloud - Basic Terms of security]]
+- [x] Explain basic terms and concepts in cloud security [[Cloud - Basic Terms of security]]
 - [ ] Identify the needs of [[Public Key Infrastructure]], identity and access management 
 - [ ] Explain the process of [[Encryption]]  and [[Hashing]]
 
 5M
-- [ ] Differentiate role of trusted attacker and anonymous attacker 
+- [x] Differentiate role of trusted attacker and anonymous attacker 
 
 12M 
-- [ ] With a neat diagram **explain the common threats and vulnerabilities**  in cloud based environments 
+- [x] With a neat diagram **explain the common threats and vulnerabilities**  in cloud based environments 
 
 # Unit 4
 

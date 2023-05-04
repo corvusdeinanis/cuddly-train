@@ -25,4 +25,3 @@ Allows machines to execute instructions based on learning from large datasets in
 infinite computing = future of computing 
 uses cloud computing aka computing as a service 
 
-[[Cloud Computing Unit 1]]

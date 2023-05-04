@@ -8,6 +8,7 @@ tags: ['cloudcomputing']
 
 > "A distributed system is a collection of independent computers that appears to its users as a single coherent system."
 
+ ![distributedcomputing](images/distributedcomputing.svg)
 
 a single task is divided **among multiple computers** that communicate with **each other over a network** 
 
@@ -17,12 +18,15 @@ each with their own local memory (no shared memory)
 communicate via **message passing** 
 scalable  
 
+can have master/slave relationship
+can be peer-to-peer (p2p)
+
 ### Elements of Distributed 
 
 (a controller manages or directs the flow of data between two entities; example something that interfaces with the CPU and printer 
 handles the incoming and outgoing signals of the CPU)
 
-
+![distributed computing components](images/distributedcomputingcomponents.svg)
 **user interface client** 
 	provides info 
 	helps monitor and control the system
@@ -59,8 +63,14 @@ maintains information, controls the management and dispatching of requests
 
 ### Types 
 1. Mainframe
+   not a distributed computer (no idea why it is here then)
 2. Cluster 
+   network of similar computers; homogenous; 
+   eg raspberry pi cluster 
 3. Grid 
+   usually geographically dispersed (different location)
+   heterogenous
+
 
 ### Applications 
 - email by ARPANET was the largest and most successful implementation of distributed computing 
