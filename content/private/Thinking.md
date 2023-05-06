@@ -3,7 +3,7 @@ title: "Thinking"
 tags: ['psychology','studynotes']
 ---
 
-!TASK - merge with [[Thinking and Reasoning]]
+!TASK - merge with [[../Thinking and Reasoning]]
 
 Thinking
 -   Analyzing acquired and existing info

@@ -1,6 +1,6 @@
 ---
 title: "Attention and Perception"
-tags: ['psychology','studynotes']
+tags: ['psychology','studynotes','needswork']
 ---
 
 ## <u>Portions</u>

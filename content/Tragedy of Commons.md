@@ -8,7 +8,7 @@ tags: [politics, social, theory]
 
 
 
-For example, if many farmers let their animals graze on a common field, they may end up eating all the grass and leaving nothing for others or for later. This is based on an essay by Garrett Hardin in 1968 which utilised an example by William Forster Lloyd. [[Tragedy of Commons#Original Hypothetical Scenario|1]]
+For example, if many farmers let their animals graze on a common field, they may end up eating all the grass and leaving nothing for others or for later. This is based on an essay by Garrett Hardin in 1968 which utilized an example by William Forster Lloyd. [[Tragedy of Commons#Original Hypothetical Scenario|1]]
 
 
 

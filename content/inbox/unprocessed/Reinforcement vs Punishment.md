@@ -3,10 +3,11 @@ title: "Reinforcement vs Punishment"
 tags: ['stub','psychology']
 ---
 
-Punishment -> decrease behaviour
-Reward -> Increase behaviour
+Punishment -> decreases behaviour
+Reward -> Increases behaviour
 
 
-Reinforcement 
+Reinforcement can be 
 - Positive 
 - Negative
+

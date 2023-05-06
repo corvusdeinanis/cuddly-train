@@ -1,6 +1,6 @@
 ---
 title: "Thinking and Reasoning"
-tags: ['psychology','studynotes','incomplete']
+tags: ['psychology','studynotes','needswork','old']
 ---
 
 <u>Thinking</u> 

@@ -151,6 +151,6 @@ end
 --- 
 
 see also: 
-[[Learning and Memory]]
+[[../Learning and Memory]]
 [[Flashcards]]
 [[Zettelkasten]]

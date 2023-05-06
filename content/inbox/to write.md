@@ -58,6 +58,18 @@ Sturgeon's law
 Law of conservation of complexity
 Wiio's laws - humorous laws on how humans communicate
 
+### in brief
+
+
+
+3. Bayes' theorem: This is a mathematical formula that allows us to update our beliefs or hypotheses based on new evidence or data. It shows how the prior probability of a hypothesis (what we already know or assume) and the likelihood of the evidence (how well the evidence supports the hypothesis) affect the posterior probability of the hypothesis (what we learn after seeing the evidence).
+4. Betteridge's law of headlines: This is an informal rule that states that any headline that ends with a question mark can be answered by "no". The idea is that if the answer was "yes", the headline would state it as a fact, rather than posing it as a question.
+5. Bradford's law: This is a empirical law that describes how the frequency of citations of scientific papers varies according to the rank of the journals in which they are published. It states that a core set of journals in any given field will account for most of the citations, while the rest will be distributed among a larger set of less influential journals.
+6. Campbell's law: This is a social science principle that states that when a metric is used as a target or indicator of performance, it tends to lose its validity and distort the system it is supposed to measure. This is because people will try to manipulate or game the metric to achieve the desired outcome, rather than improving the underlying process or quality.
+7. Last universal common ancestor: This is the hypothetical organism that is the most recent common ancestor of all living organisms on Earth. It is estimated to have lived about 3.5 to 3.8 billion years ago, and to have had a simple cellular structure and genetic code.
+8. Abiogenesis: This is the natural process by which life arises from non-living matter, such as simple organic compounds. It is also known as the origin of life, and it is one of the major unsolved problems in biology.
+9. Wiio's laws: These are a set of humorous aphorisms that describe how communication often fails or leads to misunderstanding. They are named after Osmo Wiio, a Finnish professor and politician, who formulated them in 1978. Some examples are: "Communication usually fails, except by accident." "If communication can fail, it will." "The more communication there is, the more difficult it is for communication to succeed."
+  
 ---
 
 2023-04-18 
