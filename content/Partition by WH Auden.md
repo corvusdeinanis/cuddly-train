@@ -1,7 +1,7 @@
 
 ---
 title: "Partition by W.H Auden"
-tags: ['English','politics','poem','Colonialism']
+tags: ['English','politics','poem','colonialism']
 author: ['W.H. Auden']
 ---
 

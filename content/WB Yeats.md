@@ -1,6 +1,6 @@
 ---
 title: "WB Yeats"
-tags: ['English','Literature','Poet','Person']
+tags: ['English','Literature','poet','person']
 ---
 
 - Irish poet - Irish Nationalist

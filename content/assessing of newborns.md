@@ -1,6 +1,6 @@
 ---
 title: "Assessing of newborns"
-tags: ['Psychology','lifespan','biology']
+tags: ['psychology','lifespan','biology']
 date: 2023-01-23
 ---
 
