@@ -19,10 +19,8 @@ Longitudinal research takes time. Sometimes people quit before it ends. This is 
 
 takes a long time 
 
-
 ## Sequential design
 include elements of both cross-sectional and longitudinal studies 
-
 
 ## Ethnography 
 focuses on the lived experience of people, usually as detailed by the research participants (also called “informants”) and as observed by the researcher

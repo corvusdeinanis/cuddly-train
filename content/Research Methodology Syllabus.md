@@ -38,7 +38,7 @@ other - lab vs field; clinical/diagnostic, exploratory vs formalized, one time v
 
 ## Module 2: Research Process
 
-[[Research Problem]]
+[[Research Problem and Sources]]
 What 
 Why
 Characteristics

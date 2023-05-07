@@ -8,7 +8,7 @@ Identify broad field -> Dissect the subareas -> selected interested sub-area -> 
 
 ```mermaid
 graph
-A--> B-->C-->D-->E-->F-->G
+A-->B-->C-->D-->E-->F-->G
 A("Identify Broad Field")
 B("Dissect subareas")
 C("Select interested subarea")
@@ -26,17 +26,4 @@ G("Double Check")
 - Formulate the objective
   root objectives and sub-objectives
 
-
-## Sources of research problems 
-personal and practical experience
-critical appraisal of literature
-previous research
-existing theories
-consumer feedback
-performance improvement activities
-social issues
-brainstorming
-intuition 
-exposure to field
-consultations with experts 
 
