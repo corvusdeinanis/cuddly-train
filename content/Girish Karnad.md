@@ -1,7 +1,7 @@
 ---
 title: "Girish Karnad"
 date: 2023-04-26
-tags: ['Literature','English','author']
+tags: ['literature','english','author']
 ---
 
 renowned playwright, activist, director, and actor

@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing Unit 3"
 date: 2023-04-17
-tags: ['cloud', 'cloudcomputing']
+tags: ['cloudcomputing']
 ---
 
 [[Public Key Infrastructure]]

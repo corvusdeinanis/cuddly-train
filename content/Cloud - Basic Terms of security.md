@@ -1,6 +1,6 @@
 ---
 title: "Basic Terms of Security - Cloud Comp"
-tags: ['cloudcomputing','cloud']
+tags: ['cloudcomputing']
 ---
 
 # Information Security 

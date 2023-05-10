@@ -1,7 +1,7 @@
 ---
 title: "Jayanta Mahapatra"
 date: 2023-04-24
-tags: ['Literature','English','author']
+tags: ['literature','english','author']
 ---
 
 is an Indian poet 

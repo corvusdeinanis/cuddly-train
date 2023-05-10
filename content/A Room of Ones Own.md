@@ -1,6 +1,6 @@
 ---
 title: "A Room of One's Own by Virginia Woolf"
-tags: ['English','essay','feminism']
+tags: ['english','essay','feminism']
 date: '2022-12-01'
 ---
 # A Room of Ones Own 

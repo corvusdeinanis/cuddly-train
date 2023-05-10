@@ -1,6 +1,6 @@
 ---
 title: "Nagamandala"
-tags: ['English']
+tags: ['english']
 author: 'Girish Karnad'
 ---
 

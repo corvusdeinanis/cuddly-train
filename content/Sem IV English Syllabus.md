@@ -1,6 +1,6 @@
 ---
 title: "Sem IV English Syllabus"
-tags: ['English','college','syllabus']
+tags: ['english','college','syllabus']
 ---
 
 ### Module 1: The Essay

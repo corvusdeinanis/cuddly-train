@@ -1,6 +1,6 @@
 ---
 title: "Web Technology"
-tags: ['cloudcomputing','cloud']
+tags: ['cloudcomputing']
 date: 2023-03-21
 ---
 

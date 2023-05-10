@@ -1,6 +1,6 @@
 ---
 title: "Character of Dogs"
-tags: ['English','Literature']
+tags: ['english','literature']
 date: 2023-04-09
 ---
 

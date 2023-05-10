@@ -1,6 +1,6 @@
 ---
 title: "America by Allen Ginsberg"
-tags: ['English','poem','Literature']
+tags: ['english','poem','literature']
 author: ['Allen Ginsberg']
 ---
 

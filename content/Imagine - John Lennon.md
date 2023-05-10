@@ -1,6 +1,6 @@
 ---
 title: "Imagine by John Lennon"
-tags: ['English','song','faith','poem','stub']
+tags: ['english','song','faith','poem','stub']
 author: ['John Lennon']
 ---
 by [[John Lennon]]

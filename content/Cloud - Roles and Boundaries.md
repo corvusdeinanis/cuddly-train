@@ -1,6 +1,6 @@
 ---
 title: "Roles and Boundaries - Cloud Comp"
-tags: ['cloudcomputing','cloud']
+tags: ['cloudcomputing']
 ---
 # Roles in cloud computing 
 

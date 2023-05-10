@@ -1,6 +1,6 @@
 ---
 title: "Victorian Era - Literature"
-tags: ['Literature','English']
+tags: ['literature','english']
 ---
 
 

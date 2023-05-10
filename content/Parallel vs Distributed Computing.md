@@ -1,9 +1,8 @@
 ---
 title: "Parallel vs Distributed Computing"
 date: 2023-04-16
-tags: ['cloud', 'cloudcomputing']
+tags: ['cloudcomputing']
 ---
-#cloud #cloudcomputing 
 
 ## Differences AT A GLANCE
 | Parallel | Distributed |

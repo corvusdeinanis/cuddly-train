@@ -1,6 +1,6 @@
 ---
 title: "A Portrait of The Artist as a Young Man"
-tags: ['English','movie']
+tags: ['english','movie']
 ---
 
 This is a movie based on the novel. A pale, boring 90 minute distillation of 299 pages. Something a 10 minute summary does a better job of.  

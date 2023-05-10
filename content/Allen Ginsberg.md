@@ -1,6 +1,6 @@
 ---
 title: "Allen Ginsberg"
-tags: ['writer','Literature','English','queer']
+tags: ['writer','literature','english','queer']
 date: 2023-04-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hashing"
-tags: ['cloud','cloudcomputing']
+tags: ['cloudcomputing']
 ---
 [[Cloud Comp Unit 3]]
 

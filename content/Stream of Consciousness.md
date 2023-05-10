@@ -1,6 +1,6 @@
 ---
 title: "Stream of Consciousness"
-tags: ['English']
+tags: ['english']
 ---
 
 

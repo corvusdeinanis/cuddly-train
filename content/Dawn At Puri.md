@@ -1,6 +1,6 @@
 ---
 title: "Dawn At Puri by Jayanta Mahapatra"
-tags: ['English']
+tags: ['english']
 author: ['Jayanta Mahapatra']
 ---
 

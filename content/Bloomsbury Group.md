@@ -1,7 +1,7 @@
 ---
 title: "Bloomsbury Group"
 date: 2023-04-26
-tags: ['English','Literature']
+tags: ['english','literature']
 ---
 
 was a group of associated English writers, intellectuals, philosophers and artists in the first half of the 20th century

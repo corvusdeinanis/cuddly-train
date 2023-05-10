@@ -1,6 +1,6 @@
 ---
 title: "Eras of Computing"
-tags: ['cloudcomputing','cloud']
+tags: ['cloudcomputing','cloudcomputing']
 date: 2023-04-16 
 ---
 # Eras of Computing 

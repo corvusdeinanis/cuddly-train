@@ -1,6 +1,6 @@
 ---
 title: "Schindler's List"
-tags: ['movies','English']
+tags: ['movies','english']
 ---
 
 Director - Steven Spielberg

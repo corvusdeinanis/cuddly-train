@@ -1,4 +1,4 @@
 ---
 title: "Moon and Sixpence"
-tags: ['English','stub']
+tags: ['english','stub']
 ---

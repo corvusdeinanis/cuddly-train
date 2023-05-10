@@ -1,6 +1,6 @@
 ---
 title: "Mark Twain"
-tags: ['writer','Literature','English']
+tags: ['writer','literature','english']
 date: 2023-04-10
 ---
 

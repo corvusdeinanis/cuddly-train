@@ -1,6 +1,6 @@
 ---
 title: "Robert Louis Stevenson"
-tags: ['English','Literature','person','writer']
+tags: ['english','literature','person','writer']
 date: 2023-04-09
 ---
 

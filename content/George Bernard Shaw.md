@@ -1,6 +1,6 @@
 ---
 title: "George Bernard Shaw"
-tags: ['English','Literature']
+tags: ['english','literature']
 ---
 
 - Playwright

@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing Unit 2"
 date: 2023-04-17 
-tags: ['cloud', 'cloudcomputing']
+tags: ['cloudcomputing']
 ---
 
 [[Cloud - Roles and Boundaries]]

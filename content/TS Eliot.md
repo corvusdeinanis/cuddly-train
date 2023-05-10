@@ -1,7 +1,6 @@
 ---
 title: "T.S. Eliot"
-tags: ['English','author', 'person']
-
+tags: ['english','author', 'person']
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Cloud Delivery Models"
-tags: ['cloudcomputing','cloud']
+tags: ['cloudcomputing']
 ---
 
 (aka cloud service delivery model)

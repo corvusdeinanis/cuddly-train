@@ -1,6 +1,6 @@
 ---
 title: "Public Key Infrastructure"
-tags: ['web','cloudcomputing','cloud']
+tags: ['web','cloudcomputing']
 ---
 # How to trust a cloud? 
 

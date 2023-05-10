@@ -1,6 +1,6 @@
 ---
 title: "Encryption"
-tags: ['cloud','cloudcomputing']
+tags: ['cloudcomputing']
 ---
 
 # What is encryption?

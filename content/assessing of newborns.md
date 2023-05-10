@@ -17,7 +17,7 @@ R - Respiration
 
 Each indicator is rated on a 3 point scale (0,1,2)
 
-Helps identify high risk infants who need resusciation
+Helps identify high risk infants who need resuscitation
 how it responds to stress of delivery and new environment
 
 ---

@@ -14,8 +14,14 @@ This is my public todo list to kinda help with being transparent + keeping track
 - [ ] Add links 
 - [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved
 - [ ] Turn this page into a Kanban board 
+- [ ] work on #stub pages 
 
 - [ ] Make images work
 
 - [ ] FIX SPACING AND LINE BREAK ISSUE      
 
+
+- [ ] dashboard
+
+- [ ] convert this into a general updates + public todo
+      add this to homepage

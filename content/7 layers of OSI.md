@@ -1,6 +1,6 @@
 ---
 title: "7 layers of OSI"
-tags: ['cloud','stub']
+tags: ['cloudcomputing','stub']
 ---
 
 1. Physical

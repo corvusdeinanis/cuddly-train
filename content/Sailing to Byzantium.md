@@ -1,6 +1,6 @@
 ---
 title: "Sailing to Byzantium by WB Yeats"
-tags: ['English','politics','poem']
+tags: ['english','politics','poem']
 author: ['WB Yeats']
 ---
 

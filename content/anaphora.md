@@ -1,6 +1,6 @@
 ---
 title: "anaphora"
-tags: ['rhetorical','Literature','devices','techniques']
+tags: ['rhetorical','literature','devices','techniques']
 date: 2023-04-10
 ---
 

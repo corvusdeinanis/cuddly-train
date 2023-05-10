@@ -1,7 +1,7 @@
 ---
 title: "beat generation"
 date: 2023-04-26
-tags: ['Literature','English']
+tags: ['literature','english']
 ---
 
 **subculture** movement started by a group of authors whose work explored and influenced American culture and politics in the **post-war** era 

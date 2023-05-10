@@ -1,6 +1,6 @@
 ---
 title: "Theater of Absurd"
-tags: ['English']
+tags: ['english']
 date: '2023-01-09'
 ---
 

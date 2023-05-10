@@ -1,6 +1,6 @@
 ---
 title: "Virginia Woolf"
-tags: ['English','Literature','writer','modernist']
+tags: ['english','literature','writer','modernist']
 ---
 ![Virgina](images/woolf.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: "John Lennon"
-tags: ['people','music','Literature']
+tags: ['people','music','literature']
 date: 2023-04-10
 ---
 

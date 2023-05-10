@@ -1,6 +1,6 @@
 ---
 title: "Pygmalion"
-tags: ['English','Literature']
+tags: ['english','literature']
 ---
 
 # Pygmalion 

@@ -1,7 +1,7 @@
 ---
 title: "What is Cloud Computing?"
 date: 2023-04-17
-tags: ['cloud', 'cloudcomputing']
+tags: ['cloudcomputing']
 ---
 
 # What is Cloud Computing? 
