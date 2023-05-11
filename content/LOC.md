@@ -1,7 +1,8 @@
 ---
 title : Locus Of Control
-tags : ['psych', 'mentalhealth']
+tags : ['psychology', 'mentalhealth']
 ---
+
 **Locus of Control (LOC)**
 
 **Julian B. Rotter** developed the locus of control concept in 1954, and it continues to play an important role in personality studies. In 1966, Rotter created a 13-item forced-choice scale in order to measure locus of control

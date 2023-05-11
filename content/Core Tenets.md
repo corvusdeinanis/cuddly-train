@@ -1,6 +1,6 @@
 ---
 title: Core Tenets - Mental Health 
-tags: ['psych', 'mentalhealth', 'beliefs']
+tags: ['psychology', 'mentalhealth', 'beliefs']
 date: 2022-08-03
 ---
 
