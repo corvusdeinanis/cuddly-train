@@ -107,6 +107,3 @@ too many intense colours = compete for attention, appear in disarray, sore to lo
 RGB - **Additive** colour scheme. Used for screens. EMITS light, so more you add colours, gets brighter. Add all colours, you get white
 
 CMYK - **Subtractive** color palette. Print. Absorbs light. More colour you add, the darker it gets. Add all colours, you get black
-
-HSV - 
-

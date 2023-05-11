@@ -1,7 +1,7 @@
 ---
 title: "Types of Logos"
 date: 2023-05-12
-tags: ['graphicdesign']
+tags: [graphicdesign]
 ---
 
 - **Wordmark**: This type of logo consists of the name of the brand or company written in a distinctive font or style. Examples of wordmark logos are Google, Coca-Cola, and FedEx. Wordmark logos are simple, memorable, and versatile, but they require a strong name and a unique typography to stand out.
