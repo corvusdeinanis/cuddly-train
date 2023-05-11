@@ -32,3 +32,7 @@
     <circle cx="1310" cy="14" r="15" stroke="black" fill="white" />
   </g>
 </svg>
+
+```query mnemonic
+```
+
