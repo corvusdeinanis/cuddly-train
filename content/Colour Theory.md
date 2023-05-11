@@ -3,8 +3,8 @@ title: "Colour Theory"
 date: 2023-05-12
 tags: ['graphicdesign']
 ---
-# Colour Wheel
 
+# Colour Wheel
 ## Primary
 Red Yellow and Blue
 3

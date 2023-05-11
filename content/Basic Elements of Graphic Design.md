@@ -1,10 +1,12 @@
-#graphicdesign 
+---
+title: "Basic Elements of Graphic Design"
+date: 2023-05-12
+tags: ['graphicdesign']
+---
 
 # Basic Elements of Graphic Design
 
 Basic elements include **line**, **shape**, **form**, **texture**, and **balance**. 
-
-
 ## Line
 - A line is a shape that connects two or more points. 
 - Lines appear frequently in design; for example, in drawings and illustrations. They're also common in graphic elements, like textures, patterns, and backgrounds.
