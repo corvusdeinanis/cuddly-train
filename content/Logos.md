@@ -1,5 +1,5 @@
 ---
-title: "Types of Logos"
+title: "Typos of Logos"
 tags: ['graphicdesign']
 ---
 
