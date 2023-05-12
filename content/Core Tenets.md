@@ -1,5 +1,5 @@
 ---
-title: Core Tenets - Mental Health 
+title: "Core Tenets"
 tags: ['psychology', 'mentalhealth', 'beliefs']
 date: 2022-08-03
 ---
@@ -9,4 +9,3 @@ date: 2022-08-03
 3. You are not overreacting. [[Perceived threat]] is as valid as real threat. 
 4. [[Poe's Law]] - Do not attribute to malice what can be equally attributed to stupidity. 
 5. Don't yuck someone else's yum. 
-6. 
