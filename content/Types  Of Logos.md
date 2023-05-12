@@ -1,6 +1,6 @@
 ---
 title: "Types of Logos"
-date: 2023-05-12
+date: 2023-12-05
 tags: ['graphicdesign']
 ---
 
