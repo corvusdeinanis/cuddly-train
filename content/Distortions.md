@@ -38,3 +38,7 @@ They are patterns of thinking that are negative and "irrational". Unhelpful thin
 REMEMBER, these aren't grounds for dismissing your feelings. Your feelings are valid. They were, are, and will always be. This is something for YOU to be able to recognise unhelpful patterns and fight them.  
   
 Everyone has cognitive distortions. Your cognitive distortions aren't your fault. It isn't your fault that you were dealt with situations where the brain had to adopt such behaviours, such styles of thinking. Be easy on yourself, you deserve that much 
+
+---
+
+see also: [[cognitive bias]]

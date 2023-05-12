@@ -1,7 +1,7 @@
 ---
 title: "Barnum Effect"
 date: 2023-05-07
-tags: ['misc','skepticism','psychology']
+tags: ['misc','skepticism','psychology','adages']
 ---
 
 The Barnum Effect is when people believe that vague and general statements about their personality or behaviour are accurate and personal to them.  E.g. Horoscopes

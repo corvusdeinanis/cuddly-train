@@ -1,7 +1,7 @@
 ---
-title: "Abiogenesis"
+title: "Wiio's Laws"
 date: 2023-05-12
-tags: ['journalism','social','communication','adages']
+tags: ['social','communication','adages']
 ---
 
 a set of humorous **aphorisms** that describe how communication often fails or leads to misunderstanding. They are named after **Osmo Wiio**, a Finnish professor and politician, who formulated them in 1978. 

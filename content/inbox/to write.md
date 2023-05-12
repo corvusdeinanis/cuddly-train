@@ -1,10 +1,10 @@
-Bayes' theorem 
+- [x] Bayes' theorem 
 Betteridge's law of headlines
 Bradford's law
-Campbell's law
+- [ ] Campbell's law
 Clarke's three laws
 Cunningham is credited with the idea: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
-Dunbar's number
+- [x] Dunbar's number
 Dunning–Kruger effect
 Eroom's law
 Finagle's law
@@ -52,11 +52,11 @@ The problem of evil is the question of how to reconcile the existence of evil an
 
 David Hume, rationalist, skepticism
 
-Shirky's Law
+- [x] Shirky's Law
 - [x] Streisand Effect
 Sturgeon's law
 Law of conservation of complexity
-Wiio's laws - humorous laws on how humans communicate
+- [x] Wiio's laws - humorous laws on how humans communicate
 
 ### in brief
 
