@@ -53,7 +53,7 @@ The problem of evil is the question of how to reconcile the existence of evil an
 David Hume, rationalist, skepticism
 
 Shirky's Law
-Streisand Effect
+- [x] Streisand Effect
 Sturgeon's law
 Law of conservation of complexity
 Wiio's laws - humorous laws on how humans communicate
