@@ -29,15 +29,13 @@ They are patterns of thinking that are negative and "irrational". Unhelpful thin
 
 **Should Statements**: You try to motivate yourself with should and shouldn't, as if you had to be whipped and punished before you could be expected to do anything.
 
-**Labeling** and **Mislabeling**: This is an extreme form of over generalization. Instead of describing your error, you attach a negative label to yourself: "I’m a loser". When someone else's behaviour rubs you the wrong way, you attach a negative label to them.
+**Labelling** and **Mislabelling**: This is an extreme form of over generalization. Instead of describing your error, you attach a negative label to yourself: "I’m a loser". When someone else's behaviour rubs you the wrong way, you attach a negative label to them.
 
 **Personalization**: You see yourself as the cause of some negative external event which in fact you were not primarily responsible for.
 
 ---
-
-REMEMBER, these aren't grounds for dismissing your feelings. Your feelings are valid. They were, are, and will always be. This is something for YOU to be able to recognise unhelpful patterns and fight them.  
   
-Everyone has cognitive distortions. Your cognitive distortions aren't your fault. It isn't your fault that you were dealt with situations where the brain had to adopt such behaviours, such styles of thinking. Be easy on yourself, you deserve that much 
+  Everyone has cognitive distortions. Your cognitive distortions aren't your fault. It isn't your fault that you were dealt with situations where the brain had to adopt such behaviours, such styles of thinking. Be easy on yourself, you deserve that much 
 
 ---
 

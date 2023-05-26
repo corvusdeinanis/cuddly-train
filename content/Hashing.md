@@ -2,7 +2,6 @@
 title: "Hashing"
 tags: ['cloudcomputing']
 ---
-[[Cloud Comp Unit 3]]
 
 **Key value pair**
 

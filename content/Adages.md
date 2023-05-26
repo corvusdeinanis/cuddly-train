@@ -4,10 +4,11 @@ date: 2023-05-13
 tags: ['adages','meta','tagpage']
 ---
 
-[[Adages]]
+'bucket' for laws, adages, aphorisms, principles, and effects 
+
 [[sturgeons law]]
 [[Pareto principle]]
-[[Broken windows theory]]
+[[broken windows theory]]
 [[Dunning Krueger]]
 [[Shirky Principle]]
 [[streisand effect]]

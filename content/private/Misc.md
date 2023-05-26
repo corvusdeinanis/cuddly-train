@@ -21,7 +21,7 @@ Remake  _"_index.html"_
 
 
 # Read Later
-- Check out  [Omnivore App](https://omnivore.app/home)
+- [x] Check out  [Omnivore App](https://omnivore.app/home)
 
 
 

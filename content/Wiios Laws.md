@@ -4,7 +4,9 @@ date: 2023-05-12
 tags: ['social','communication','adages']
 ---
 
-a set of humorous **aphorisms** that describe how communication often fails or leads to misunderstanding. They are named after **Osmo Wiio**, a Finnish professor and politician, who formulated them in 1978. 
+a set of humorous **aphorisms** that describe how communication often fails or leads to misunderstanding
+
+named after **Osmo Wiio**, a Finnish professor and politician, who formulated them in 1978. 
 
 Most important one : "Communication usually fails, except by accident."
 

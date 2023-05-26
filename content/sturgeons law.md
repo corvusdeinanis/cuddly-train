@@ -8,4 +8,4 @@ tags: ['adages']
 coined by Theodore Sturgeon, an American science fiction author  
 
 
-
+see also: [[Pareto principle]]

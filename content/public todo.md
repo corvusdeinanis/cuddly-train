@@ -13,10 +13,10 @@ This is my public todo list to kinda help with being transparent + keeping track
 - [ ] Clean up notes 
 - [ ] Add links 
 - [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved
-- [ ] Turn this page into a Kanban board 
+- [-] Turn this page into a Kanban board
 - [ ] work on #stub pages 
 
-- [ ] Make images work
+- [x] Make images work ✅ 2023-05-26
 
 - [ ] FIX SPACING AND LINE BREAK ISSUE      
 
@@ -25,3 +25,9 @@ This is my public todo list to kinda help with being transparent + keeping track
 
 - [ ] convert this into a general updates + public todo
       add this to homepage
+
+```dataview
+TASK 
+WHERE !completed
+
+```
