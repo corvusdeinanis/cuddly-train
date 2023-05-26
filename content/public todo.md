@@ -29,5 +29,6 @@ This is my public todo list to kinda help with being transparent + keeping track
 ```dataview
 TASK 
 WHERE !completed
+GROUP BY note
 
 ```

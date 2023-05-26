@@ -1,13 +1,14 @@
 - [x] Bayes' theorem 
 Betteridge's law of headlines
 Bradford's law
-- [ ] Campbell's law
+- [x] Campbell's law ✅ 2023-05-26
 Clarke's three laws
 Cunningham is credited with the idea: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
 - [x] Dunbar's number
-Dunning–Kruger effect
-Eroom's law
-Finagle's law
+- [x] Dunning–Kruger effect
+- [x] Eroom's law
+- [ ] Finagle's law
+
 ```
 In a speech in 2002, Crichton coined the term Gell-Mann amnesia effect, after physicist Murray Gell-Mann. He used this term to describe the phenomenon of experts believing news articles written on topics outside of their fields of expertise, yet acknowledging that articles written in the same publication within their fields of expertise are error-ridden and full of misunderstanding:[143]
 
@@ -20,10 +21,12 @@ In a speech in 2002, Crichton coined the term Gell-Mann amnesia effect, after ph
     That is the Gell-Mann Amnesia effect. I'd point out it does not operate in other arenas of life. In ordinary life, if somebody consistently exaggerates or lies to you, you soon discount everything they say. In court, there is the legal doctrine of falsus in uno, falsus in omnibus, which means untruthful in one part, untruthful in all. But when it comes to the media, we believe against evidence that it is probably worth our time to read other parts of the paper. When, in fact, it almost certainly isn't. The only possible explanation for our behavior is amnesia.
 ```
 
-Gibson's law
-Hick's law
-Hitchens's razor
-https://en.wikipedia.org/wiki/George_Armitage_Miller
+- [ ] Gell-Mann Amnesia effect ✅ 2023-05-26
+
+- [ ] Gibson's law
+- [ ] Hick's law
+- [ ] Hitchens's razor
+- [ ] https://en.wikipedia.org/wiki/George_Armitage_Miller
 
 ```before_sunrise
 Have you ever heard that  
@@ -39,16 +42,17 @@ the low end. I guess they sort of
 nullify each other, or something.
 
 ```
-Muphry's law
-Newton's flaming laser sword
-Poe's Adage 
-Gibson's Law
-Pygmalion effect 
-Sagan standard
-Russell's teapot
+- [ ] Muphry's law
+- [ ] Newton's flaming laser sword
+- [ ] Poe's Adage 
+- [ ] Gibson's Law
+- [ ] Pygmalion effect / Rosenthal effect
+- [ ] Sagan standard
+- [ ] Russell's teapot
 ```
 The problem of evil is the question of how to reconcile the existence of evil and suffering with an omnipotent, omnibenevolent, and omniscient God. There are currently differing definitions of these concepts. The best known presentation of the problem is attributed to the Greek philosopher Epicurus. It was popularized by David Hume. 
 ```
+- [ ] Problem of Evil 
 
 David Hume, rationalist, skepticism
 
@@ -73,4 +77,5 @@ Law of conservation of complexity
 ---
 
 2023-04-18 
-Argument map 
+- [ ] Argument map 
+- [ ] 
