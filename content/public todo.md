@@ -10,21 +10,20 @@ This is my public todo list to kinda help with being transparent + keeping track
 
 - [ ] Add citations to existing notes 
 	- [ ] start with larger notes, start with more "grandiose" claims 
+
 - [ ] Clean up notes 
-- [ ] Add links 
-- [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved
+
+- [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved 
+	- [ ] 
 - [-] Turn this page into a Kanban board
 - [ ] work on #stub pages 
 
 - [x] Make images work ✅ 2023-05-26
 
 - [ ] FIX SPACING AND LINE BREAK ISSUE      
-
-
 - [ ] dashboard
-
-- [ ] convert this into a general updates + public todo
-      add this to homepage
+- [x] convert this into a general updates + public todo ✅ 2023-05-27
+- [ ]  add this to homepage
 
 ```dataview
 TASK 
