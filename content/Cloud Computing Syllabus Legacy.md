@@ -4,7 +4,7 @@ date: 2023-05-04
 tags: ['cloudcomputing','syllabus','legacy','2023']
 ---
 
-(this is a legacy file; included for posterity, 'legacy')
+(this is a legacy file; included for posterity)
 
 # Module 1  
 [[What is Cloud Computing]]

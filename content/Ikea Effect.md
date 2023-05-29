@@ -4,7 +4,7 @@ tags: ['bias','psychology']
 date: 2022-07-24
 ---
 
-TLDR; a [[cognitive bias]] in which consumers place a **disproportionately high value on products they partially created**. Labor leads to love when labor leads to succesful or satisfactory results. 
+TLDR; a [[cognitive bias]] in which consumers place a **disproportionately high value on products they partially created**. Labor leads to love when labor leads to successful or satisfactory results. 
 
 "*labor alone can be sufficient to induce greater liking for the fruits of one's labor: even constructing a standardized bureau, an arduous, solitary task, can lead people to overvalue their (often poorly constructed) creations.*" -  Michael I. Norton of Harvard Business School, Daniel Mochon of Yale, and Dan Ariely of Duke
 
@@ -28,4 +28,4 @@ Gibbs, B. J., & Drolet, A. (2003). Consumption effort: The mental cost of genera
 
 
 ## see also:
-this reminds me of the whole Betty Crocker 'Add an Egg' campaign thing. It was purported that changing from an instant mix to having to add an egg make 'housewives feel less guilty'. This was proven to be false or at least, not entirely true. 
+this reminds me of the whole Betty Crocker 'Add an Egg' campaign thing. It was purported that changing from an instant mix to having to add an egg make 'housewives feel less guilty'. This was proven to be false or at least, not entirely true. [snopes](https://www.snopes.com/fact-check/something-eggstra)
