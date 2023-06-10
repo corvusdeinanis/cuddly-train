@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "News Stories"
 tags: ['journalism']
 ---

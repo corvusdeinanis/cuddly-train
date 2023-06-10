@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "inverted pyramid"
 date: 2023-04-20
 tags: ['journalism']

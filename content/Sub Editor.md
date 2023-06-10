@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Sub Editor"
 tags: ['journalism']
 date: '2022-12-13'

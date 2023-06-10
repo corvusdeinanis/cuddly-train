@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Profile Writing"
 tags: ['journalism']
 date: '2023-01-12'

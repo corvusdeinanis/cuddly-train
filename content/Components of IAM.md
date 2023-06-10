@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Components of IAM"
 tags: ['cloudcomputing','computer','web']
 ---

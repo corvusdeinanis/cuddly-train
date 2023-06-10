@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Multitenancy in Cloud Computing"
 tags: ['cloudcomputing']
 ---

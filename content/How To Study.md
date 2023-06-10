@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "How to Study"
 tags: ['psychology','philosophy','life']
 ---

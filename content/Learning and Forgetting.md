@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Learning and Forgetting"
 tags: ['psychology','studynotes']
 ---
@@ -153,4 +154,4 @@ end
 see also: 
 [[../Learning and Memory]]
 [[Flashcards]]
-[[Zettelkasten]]
+[[zettelkasten]]

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Pareto principle"
 date: 2023-05-13
 tags: ['adages','statistics','computer']

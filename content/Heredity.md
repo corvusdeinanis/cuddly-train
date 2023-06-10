@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Heredity"
 date: 2023-04-21
 tags: ['biology','lifespan']

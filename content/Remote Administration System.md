@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Remote Administration System"
 tags: ['cloudcomputing']
 date: 2023-03-14

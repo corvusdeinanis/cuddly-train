@@ -1,3 +1,5 @@
+---
+---
 <svg viewBox="0 0 3760 100">
   <title>Timeline 2022</title>
   <g class='bars'>

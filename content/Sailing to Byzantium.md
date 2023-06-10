@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Sailing to Byzantium by WB Yeats"
 tags: ['english','politics','poem']
 author: ['WB Yeats']

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Editing a copy - Journalism"
 tags: ['journalism']
 

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Preludes"
 tags: ['english','poem']
 ---

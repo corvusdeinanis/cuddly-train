@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "read later"
 date: 2023-05-13
 tags: ['misc','meta']

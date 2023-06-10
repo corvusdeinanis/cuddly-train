@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Normative vs Idiographic"
 date: 2023-04-20
 tags: ['psychology','lifespan','study']

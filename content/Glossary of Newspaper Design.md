@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Glossary of Newspaper Design"
 tags: ['journalism']
 ---

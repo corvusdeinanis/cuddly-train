@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Jayanta Mahapatra"
 date: 2023-04-24
 tags: ['literature','english','author']

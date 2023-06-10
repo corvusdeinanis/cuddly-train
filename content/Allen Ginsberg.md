@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Allen Ginsberg"
 tags: ['writer','literature','english','queer']
 date: 2023-04-10

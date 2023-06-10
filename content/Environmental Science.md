@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Intro to Environmental Sci"
 tags: ['evs']
 

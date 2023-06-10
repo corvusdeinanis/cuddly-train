@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Zeigarnik Effect"
 tags: ['psychology','stub']
 ---

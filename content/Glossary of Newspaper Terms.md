@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Glossary of Newspaper Terms"
 tags: ['journalism']
 ---

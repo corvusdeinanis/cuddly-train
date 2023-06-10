@@ -2,6 +2,7 @@
 title: "Wiio's Laws"
 date: 2023-05-12
 tags: ['social','communication','adages']
+dg-publish: true
 ---
 
 a set of humorous **aphorisms** that describe how communication often fails or leads to misunderstanding

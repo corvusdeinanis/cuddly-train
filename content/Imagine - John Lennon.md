@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Imagine by John Lennon"
 tags: ['english','song','faith','poem','stub']
 author: ['John Lennon']

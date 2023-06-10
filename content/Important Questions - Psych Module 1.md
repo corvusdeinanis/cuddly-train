@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Important Questions - Psychology Mod 1"
 tags: ['psychology']
 ---

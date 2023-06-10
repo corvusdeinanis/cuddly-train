@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Newsroom and their functions"
 date: 2023-04-20
 tags: ['journalism']

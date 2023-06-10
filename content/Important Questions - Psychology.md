@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Important Questions - Psychology"
 tags: ['psychology','lifespan','study']
 ---
@@ -16,7 +17,7 @@ tags: ['psychology','lifespan','study']
 **9M**
 1. Define neonate and describe sleep states 
 2. What are [[Parenting Styles]]? What are their effects on social development of children?
-3. Discuss [[inbox/unprocessed/Harlows Contact Comfort]] study and implications on [[Attachment]] styles.
+3. Discuss [[private/inbox/unprocessed/Harlows Contact Comfort]] study and implications on [[Attachment]] styles.
 4. Explain in detail about the gross motor and fine motor skills that occur in infancy.
 5. List the physical changes that occur during adolescence (across the gender).
 6. Examine [[Language Development]] and its components 

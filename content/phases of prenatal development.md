@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Phases of Prenatal Development"
 date: 2023-04-21
 tags: ['lifespan','biology']

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Marcia's Identity Statuses"
 tags: ['psychology','lifespan']
 ---

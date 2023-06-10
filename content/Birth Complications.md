@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Birth Complications"
 tags: ['psychology','lifespan','biology']
 date: 2023-01-23

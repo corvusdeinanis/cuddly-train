@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Roles and Boundaries - Cloud Comp"
 tags: ['cloudcomputing']
 ---

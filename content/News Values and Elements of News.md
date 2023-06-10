@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "News Values/Elements of News"
 aka: "Elements of News"
 date: 2023-04-20

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Scaffolding"
 tags: ['psychology','stub']
 ---

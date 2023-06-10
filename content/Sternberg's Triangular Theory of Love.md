@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Sternberg's Triangular Theory of Love"
 date: 2023-04-21
 tags: ['lifespan','psychology','biology']

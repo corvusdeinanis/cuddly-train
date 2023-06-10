@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Exam Tips - Journalism"
 tags: ['journalism','college']
 ---

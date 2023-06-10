@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [x] Bayes' theorem 
 Betteridge's law of headlines
 Bradford's law

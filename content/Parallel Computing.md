@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Parallel Computing 
 **many instructions** are carried out **simultaneously** 
 depending on the theory that large problems can often be divided into smaller ones, and then solved concurrently ("in parallel")

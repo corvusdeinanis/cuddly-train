@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "The Moon and Sixpence"
 date: 2023-04-25
 tags: ['english','literature']

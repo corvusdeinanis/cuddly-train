@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "George Bernard Shaw"
 tags: ['english','literature']
 ---

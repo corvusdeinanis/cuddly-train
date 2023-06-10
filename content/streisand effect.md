@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "streisand effect"
 date: 2023-05-12
 tags: ['social','laws','adages']

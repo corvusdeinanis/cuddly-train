@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Sample, Universe, Population"
 tags: ['research','researchmethodology','statistics']
 ---

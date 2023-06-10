@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Literary Movements"
 date: 2023-04-18
 tags: ['literature']

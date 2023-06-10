@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Life Span Development introduction"
 tags: ['psychology','lifespan','study']
 date: ['2022-11-30']

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Broken windows theory"
 date: 2023-05-13
 tags: ['adages','social','crime','psychology']

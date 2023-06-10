@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ---
 title: "Partition by W.H Auden"

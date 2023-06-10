@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Bites vs Interview"
 tags: ['journalism']
 

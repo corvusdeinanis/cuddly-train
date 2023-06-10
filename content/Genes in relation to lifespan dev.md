@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Genes in relation to lifespan development"
 tags: ['biology', 'psychology', 'stub']
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Eras of Computing"
 tags: ['cloudcomputing','cloudcomputing']
 date: 2023-04-16 

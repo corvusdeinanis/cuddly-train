@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Variable"
 date: 2023-05-07
 tags: ['researchmethodology']

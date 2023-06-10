@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Middle Adulthood"
 date: 2023-04-21
 tags: ['lifespan','psychology','biology']

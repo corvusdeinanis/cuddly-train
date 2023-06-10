@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "cloud computing platforms"
 date: 2023-05-04
 tags: ['cloudcomputing']

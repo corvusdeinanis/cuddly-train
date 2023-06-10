@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Developmental Research"
 date: 2023-04-20
 tags: ['psychology','lifespan','study']

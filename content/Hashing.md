@@ -1,6 +1,7 @@
 ---
-title: "Hashing"
-tags: ['cloudcomputing']
+title: Hashing
+tags: cloudcomputing
+dg-publish: true
 ---
 
 **Key value pair**

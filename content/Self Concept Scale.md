@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Self Concept Scale"
 tags: ['psychology','psychpracs']
 date: 2023-04-05

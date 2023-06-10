@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Web Technology"
 tags: ['cloudcomputing']
 date: 2023-03-21

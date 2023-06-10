@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Newspaper Column"
 tags: ['journalism']
 date: ['2023-01-12']

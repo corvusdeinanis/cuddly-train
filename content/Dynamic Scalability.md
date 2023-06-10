@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Dynamic Stability"
 tags: ['cloudcomputing']
 date: 2023-03-21

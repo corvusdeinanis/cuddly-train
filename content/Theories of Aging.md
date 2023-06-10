@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Theories of Aging"
 date: 2023-03-29
 tags: ['psychology','lifespan','biology']

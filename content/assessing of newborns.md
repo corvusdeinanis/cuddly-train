@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Assessing of newborns"
 tags: ['psychology','lifespan','biology']
 date: 2023-01-23

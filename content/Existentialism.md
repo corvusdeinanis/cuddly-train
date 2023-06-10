@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Existentialism"
 tags: ['philosophy','stub']
 date: '2023-01-23'

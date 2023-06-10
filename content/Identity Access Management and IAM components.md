@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Identity Access Management and Components of IAM"
 tags: ['cloudcomputing','computer','web']
 ---

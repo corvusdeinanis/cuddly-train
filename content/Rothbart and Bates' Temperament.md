@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Rothbart and Bates' Temperament"
 tags: ['psychology']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Todo"
 date: 2023-04-18
+dg-publish: true
 ---
 
-[[_index|(<--home)]]
+[[meta/_index|(<--home)]]
 
 This is my public todo list to kinda help with being transparent + keeping track of what I need to do + keeping myself accountable 
 

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "A Portrait of The Artist as a Young Man"
 tags: ['english','movie']
 ---

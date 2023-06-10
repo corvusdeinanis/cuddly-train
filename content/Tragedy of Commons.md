@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Tragedy of Commons"
 date: 2023-04-14
 tags: [politics, social, theory]

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Psychology Sem IV Syllabus"
 tags: ['psychology','college','syllabus']
 ---

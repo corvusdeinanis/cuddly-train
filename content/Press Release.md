@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Press Release"
 tags: ['journalism']
 ---

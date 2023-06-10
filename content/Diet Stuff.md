@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Diet Stuff"
 tags: ['health','lifestyle']
 ---

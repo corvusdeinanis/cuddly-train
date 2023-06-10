@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Survivorship Bias"
 tags: ['bias','logic','fallacy']
 ---

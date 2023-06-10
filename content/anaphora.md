@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "anaphora"
 tags: ['rhetorical','literature','devices','techniques']
 date: 2023-04-10

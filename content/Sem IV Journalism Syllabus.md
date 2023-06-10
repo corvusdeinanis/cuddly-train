@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Journalism Sem IV Syllabus"
 date: 2023-05-01
 tags: ['journalism','college','syllabus']

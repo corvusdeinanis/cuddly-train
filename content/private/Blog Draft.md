@@ -1,3 +1,5 @@
+---
+---
 *And just like that, the floodgates were opened, ushering in a time     like no other. Nothing is the same, nothing will remain the same.*
 
 # Existential Dread, Artificial Intelligence, and an Uncertain Future

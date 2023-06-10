@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Hypothesis"
 tags: ['research','researchmethodology']
 ---

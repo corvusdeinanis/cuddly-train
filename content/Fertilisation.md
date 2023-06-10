@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: ["Fertilisation"]
 tags: ['psychology','lifespan','biology','stub']
 date: 2023-01-23

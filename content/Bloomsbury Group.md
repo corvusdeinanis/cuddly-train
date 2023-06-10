@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Bloomsbury Group"
 date: 2023-04-26
 tags: ['english','literature']

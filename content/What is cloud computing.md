@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "What is Cloud Computing?"
 date: 2023-04-17
 tags: ['cloudcomputing']

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Couvade Syndrome"
 aka: ['Sympathetic Pregnancy']
 tags: ['psychology','disorders','lifespan']

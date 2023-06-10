@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "America by Allen Ginsberg"
 tags: ['english','poem','literature']
 author: ['Allen Ginsberg']

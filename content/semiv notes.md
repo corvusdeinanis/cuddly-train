@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Links to Notes"
 tags: ['meta']
 ---

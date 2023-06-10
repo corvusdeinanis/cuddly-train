@@ -1,7 +1,8 @@
 ---
-title: "Colour Theory"
+title: Colour Theory
 date: 2023-05-12
-tags: ['graphicdesign']
+tags: graphicdesign
+dg-publish: true
 ---
 
 # Colour Wheel

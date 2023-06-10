@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Thinking and Reasoning"
 tags: ['psychology','studynotes','needswork','old']
 ---

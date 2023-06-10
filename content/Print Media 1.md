@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Print Media 1"
 tags: ['journalism']
 date: ['2022-12-01']

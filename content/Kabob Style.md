@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Kabob Style"
 date: 2023-04-20
 tags: ['journalism']

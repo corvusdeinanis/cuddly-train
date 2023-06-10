@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Public Key Infrastructure"
 tags: ['web','cloudcomputing']
 ---

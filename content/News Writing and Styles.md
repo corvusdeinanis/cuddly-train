@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "News Writing and Styles"
 date: 2023-04-20
 tags: ['journalism']

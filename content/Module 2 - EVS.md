@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "EVS Module 2"
 tags: ['evs']
 ---

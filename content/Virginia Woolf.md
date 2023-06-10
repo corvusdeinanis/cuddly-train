@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Virginia Woolf"
 tags: ['english','literature','writer','modernist']
 ---

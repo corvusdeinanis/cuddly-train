@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Learning and Memory"
 tags: ['psychology','studynotes']
 ---

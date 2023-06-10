@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Core Tenets"
 tags: ['psychology', 'mentalhealth', 'beliefs']
 date: 2022-08-03

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ---
 title: "Beck's Depression Inventory"

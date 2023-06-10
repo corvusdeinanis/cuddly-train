@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Theories of Human Development"
 date: '2022-12-05'
 tags: ['psychology','lifespan','study']

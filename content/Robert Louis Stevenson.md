@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Robert Louis Stevenson"
 tags: ['english','literature','person','writer']
 date: 2023-04-09

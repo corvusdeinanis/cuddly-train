@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Stream of Consciousness"
 tags: ['english']
 ---

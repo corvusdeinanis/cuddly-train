@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Basic Elements of Graphic Design"
 date: 2023-05-12
 tags: ['graphicdesign']

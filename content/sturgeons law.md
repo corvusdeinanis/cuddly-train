@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Sturgeon's Law"
 date: 2023-05-13
 tags: ['adages']

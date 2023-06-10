@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "ptsd"
 date: 2023-05-29
 tags: ['psychology','psychiatry']

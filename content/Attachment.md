@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Attachment"
 tags: ['psychology']
 ---
@@ -13,7 +14,7 @@ During child's development
 
 [[Freud]] - said only oral is important
 
-[[inbox/unprocessed/Harlows Contact Comfort]] - experiment 
+[[private/inbox/unprocessed/Harlows Contact Comfort]] - experiment 
 
 [[Erik Erikson's Psychosocial Stages]] - Trust vs Mistrust (first stage)
 

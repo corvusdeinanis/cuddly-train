@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Cloud Deployment Models"
 tags: ['cloudcomputing']
 ---

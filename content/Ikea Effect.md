@@ -2,6 +2,7 @@
 title: 'Ikea Effect'
 tags: ['bias','psychology']
 date: 2022-07-24
+dg-publish: true
 ---
 
 TLDR; a [[cognitive bias]] in which consumers place a **disproportionately high value on products they partially created**. Labor leads to love when labor leads to successful or satisfactory results. 

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Pygmalion"
 tags: ['english','literature']
 ---
@@ -10,7 +11,7 @@ in **1912**
 
 
 
-![[inbox/unprocessed/Victorian Era]]
+![[private/inbox/unprocessed/Victorian Era]]
 
 ### Title is based on Greek mythology
 **Pygamlion** - a sculptor; makes an ivory statue representing ideal womanhood; falls in love w his own creation,

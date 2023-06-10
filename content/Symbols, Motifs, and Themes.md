@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Symbols, Motifs, and Themes"
 tags: ['english','literature','devices']
 date: 2023-04-10

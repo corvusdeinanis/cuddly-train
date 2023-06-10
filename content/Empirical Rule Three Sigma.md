@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 # 68–95–99.7 rule
 

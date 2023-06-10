@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "How To Write a Research Proposal"
 tags: ['researchmethodology','research']
 date: 2023-03-21 

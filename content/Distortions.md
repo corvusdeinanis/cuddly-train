@@ -2,6 +2,7 @@
 title: Cognitive Distortions
 tags: ['psychology','tools']
 date: 2022-07-29
+dg-publish: true
 ---
 
 ## What are cognitive distortions?

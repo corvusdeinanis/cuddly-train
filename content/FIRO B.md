@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "FIRO B"
 tags: ['psychology','psychpracs']
 date: 2023-04-04

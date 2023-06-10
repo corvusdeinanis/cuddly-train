@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Cloud Delivery Models"
 tags: ['cloudcomputing']
 ---

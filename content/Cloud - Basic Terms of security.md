@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Basic Terms of Security - Cloud Comp"
 tags: ['cloudcomputing']
 ---

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Attention and Perception"
 tags: ['psychology','studynotes','needswork']
 ---

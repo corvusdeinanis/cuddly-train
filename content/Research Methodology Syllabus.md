@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Research Methodology Syllabus"
 date: 2023-04-18
 tags: ['research','researchmethodology']

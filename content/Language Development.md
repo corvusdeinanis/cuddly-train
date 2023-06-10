@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Language Development"
 tags: ['psychology','lifespan']
 ---

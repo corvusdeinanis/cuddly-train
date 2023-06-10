@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Measurement and Types of Measurement and Important Questions"
 date: 2023-04-18
 tags: ['researchmethodology','statistics']

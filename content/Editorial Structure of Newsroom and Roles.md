@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Editorial Structure of Newspaper"
 tags: ["journalism"]
 date: 2023-04-20

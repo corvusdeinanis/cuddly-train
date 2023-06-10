@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Emerging Adulthood"
 tags: ['psychology','development','lifespan']
 ---

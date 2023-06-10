@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Schindler's List"
 tags: ['movies','english']
 ---

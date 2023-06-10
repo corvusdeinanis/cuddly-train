@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Theater of Absurd"
 tags: ['english']
 date: '2023-01-09'

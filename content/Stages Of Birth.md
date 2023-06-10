@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Stages of birth"
 tags: ['lifespan','biology']
 date: 2023-01-17

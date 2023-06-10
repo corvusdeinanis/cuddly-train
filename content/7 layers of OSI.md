@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "7 layers of OSI"
 tags: ['cloudcomputing','stub']
 ---

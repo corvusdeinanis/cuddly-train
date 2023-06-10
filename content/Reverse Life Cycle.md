@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Reverse Life Cycle"
 date: 2023-04-28
 tags: ['misc','humor','quotes']

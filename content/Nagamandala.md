@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Nagamandala"
 tags: ['english']
 author: 'Girish Karnad'

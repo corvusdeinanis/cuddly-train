@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: "Qualities and Functions of a Reporter"
 tags: ['journalism']
 ---
