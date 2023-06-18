@@ -1,8 +1,7 @@
 ---
-dg-publish: true
 title: "Empty Nest Syndrome"
-date: 202303291059
 tags: ['psychology']
+dg-publish: true
 ---
 
 [[Midlife Crisis|<- midlife crisis]]

@@ -27,3 +27,4 @@ e) TOR is not bulletproof; there is no complete guarantee of privacy
 f) Dark web does have many messed up things, but there's a higher chance that someone looking for hitmen is being scammed than them finding an actual one
 g) It does however host a lot of questionable content, and even more ethically, morally wrong content. It has content made by and made for absolutely depraved individuals. 
 h) It is also used by people who are escaping censorship, to increase privacy, to send sensitive information, and by whistleblowers. 
+
