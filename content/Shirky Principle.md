@@ -1,5 +1,5 @@
 ---
-title: Shirky's Principle
+title: "Shirky's Principle"
 date: 2023-05-12
 tags: adages
 dg-publish: true
