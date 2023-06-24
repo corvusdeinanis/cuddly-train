@@ -1,7 +1,7 @@
 ---
-title: Adages
+title: "Adages"
 date: 2023-05-13
-tags: adages,meta,tagpage
+tags: ['adages','meta','tagpage']
 dg-publish: true
 ---
 
