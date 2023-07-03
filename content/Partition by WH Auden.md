@@ -1,8 +1,5 @@
 ---
 dg-publish: true
----
-
----
 title: "Partition by W.H Auden"
 tags: ['english','politics','poem','colonialism']
 author: ['W.H. Auden']

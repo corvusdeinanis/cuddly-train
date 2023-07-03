@@ -38,3 +38,27 @@
 ```query mnemonic
 ```
 
+
+
+---
+
+[[Anarchism Quotes (535 quotes)]]
+[[Motivation and Mindset  The Odin Project]]
+[[We lost the thread • Cory Dransfeldt]]
+[[How the Consumer Computer is Consuming Computing]]
+[[Kill The God of Work & All His Clergy]]
+[[Against Community Building, Towards Friendship]]
+[[Overton Window - Google Search]]
+[[Narcissism of small differences - Wikipedia]]
+[[I Can Tolerate Anything Except The Outgroup]]
+[[The Ideology Is Not The Movement]]
+[[🔖 bookmarks that I often share with friends - @visakanvs blog]]
+[[A Popular Quotation Allegedly from Diderot in Its Original Context (and Verse Form).... - Democratic Underground]]
+[[Google We Have No Moat, And Neither Does OpenAI]]
+[[A Zettelkasten is Not for Making Connections]]
+[[Improved Translation of “Communications with Zettelkastens” • Zettelkasten Method]]
+[[Childhood sexual abuse and the development of schizophrenia]]
+[[Long-term effects of childhood trauma subtypes on adult brain function]]
+[[Charvaka - Wikipedia]]
+[[Ājīvika - Wikipedia]]
+[[46_1048.pdf]]

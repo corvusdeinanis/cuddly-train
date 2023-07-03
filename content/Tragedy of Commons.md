@@ -2,7 +2,7 @@
 dg-publish: true
 title: "Tragedy of Commons"
 date: 2023-04-14
-tags: [politics, social, theory]
+tags: ['politics', 'social']
 ---
 
 **situation** where **people use a shared resource** (such as land, water, air, etc.) **without considering the impact on others or the future**. leading to **overuse** and **depletion** of the resource, which harms everyone in the long run. 

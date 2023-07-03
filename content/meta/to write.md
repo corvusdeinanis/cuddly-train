@@ -7,9 +7,9 @@ Bradford's law
 - [x] Campbell's law ✅ 2023-05-26
 Clarke's three laws
 Cunningham is credited with the idea: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
-- [x] Dunbar's number
+- [ ] Dunbar's number
 - [x] Dunning–Kruger effect
-- [x] Eroom's law
+- [ ] Eroom's law
 - [ ] Finagle's law
 
 ```

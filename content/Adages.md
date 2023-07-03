@@ -1,7 +1,7 @@
 ---
 title: "Adages"
 date: 2023-05-13
-tags: ['adages','meta','tagpage']
+tags: ['adages','meta','tagpage','bucket']
 dg-publish: true
 ---
 
@@ -16,3 +16,4 @@ dg-publish: true
 [[Wiios Laws]]
 [[Campbells Law]]
 [[Barnum Effect]]
+

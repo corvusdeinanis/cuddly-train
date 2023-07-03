@@ -1,8 +1,5 @@
 ---
 dg-publish: true
----
-
----
 title: "Beck's Depression Inventory"
 date: 2023-04-04
 tags: ['college','psychology','psychpracs']
@@ -12,7 +9,6 @@ tags: ['college','psychology','psychpracs']
 made by [[Aaron T Beck]]
 
 published in 1961
-
 
 ## Introduction
 21-item, self-report rating inventory 
@@ -43,7 +39,6 @@ Scoring Key
 Writing material 
 ## Interpretation
 21+ = depressed
-
 | | |
 |---|---|
 |0-9 | not depressed |
@@ -51,20 +46,12 @@ Writing material
 |17-29 | moderately depressed |
 | 30-63 | severely depressed |
 
-
-
 ## Instructions 
 "This questionnaire has a questions which have multiple statements. Read each statement correctly and select the one that describes you best and circle the number next to it. Be sure to read all the statements in each group before selecting an option"
 
 ## Precautions
 - make sure instructions are clear 
 - make sure subject reads all options 
-- 
-## Individual Discussion
-
-## Group Discussion
-
-## Conclusion
 
 ## Application Value
 - used to measure depression in general population 

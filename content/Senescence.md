@@ -5,11 +5,11 @@ tags: ['biology']
 date: 2023-03-29
 ---
 
-# Biological aging
+# Senescence / Biological aging
 
 **gradual deterioration of functioning**
 
-can refer to aging of either - 
+can refer to aging of either
 - cell 
 - whole organism
 
@@ -30,6 +30,6 @@ can refer to aging of either -
 	- disorders
 ## see also
 [[negative senescence]]
-[[biiological immortality]]
+[[biological immortality]]
 [[biohacking]],[[quantifiedself]]
 

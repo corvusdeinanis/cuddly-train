@@ -146,7 +146,7 @@ Senior Reporter (based on experience)
 City Reporter (city based reportings; local)
 Correspondents (national and international news; even mentioned in byline)
 	Beats 
-[[Columnist]]s
+[[Columnist]]
 Feature Writers (mostly soft news, lots of pictures; eg. travelogue, light and doesn't make you sad; lengthy, [[Evergreen Content]])
 
 **Editorial Content** 
