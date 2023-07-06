@@ -1,6 +1,6 @@
 ---
 title: "Parable of the Polygons"
-url: 'https://ncase.me/polygons/'
+url: https://ncase.me/polygons/
 date: 2023-06-13
 tags: ['social','psychology','bias','politics']
 ---
@@ -8,7 +8,7 @@ tags: ['social','psychology','bias','politics']
 # Parable of the Polygons
 
 ## Metadata
-- Author: [ncase.me]()
+- Author: [ncase.me]
 - Title: Parable of the Polygons
 - Reference: https://ncase.me/polygons/
 
