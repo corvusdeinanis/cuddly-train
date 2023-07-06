@@ -7,8 +7,6 @@ tags: ['politics', 'social']
 
 **situation** where **people use a shared resource** (such as land, water, air, etc.) **without considering the impact on others or the future**. leading to **overuse** and **depletion** of the resource, which harms everyone in the long run. 
 
-
-
 For example, if many farmers let their animals graze on a common field, they may end up eating all the grass and leaving nothing for others or for later. This is based on an essay by Garrett Hardin in 1968 which utilized an example by William Forster Lloyd. [[Tragedy of Commons#Original Hypothetical Scenario|1]]
 
 
@@ -37,5 +35,4 @@ Focused on population growth, resource usage and depletion, and role of welfare 
 
 He says that welfare states promote tragedy of commons. For example, if overbreeding happened in nature, it would automatically reduce due to negative feedback. The resources would reduce and therefore, the overbreeding species in question would not have enough resources and die out. Welfare states provide for children and support overbreeding as a fundamental human right, according to him 
 
-#social #politics #theory 
 

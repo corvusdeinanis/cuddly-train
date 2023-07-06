@@ -2,7 +2,7 @@
 dg-publish: true
 title: "Argument to Moderation"
 date: 2023-04-18
-tags: ['philosophy','fallacy','social']
+tags: ['philosophy','fallacy','social','bias','communication']
 ---
 
 **logical fallacy** that assumes that the truth is always a compromise between two opposite positions. It is also known as false compromise, argument from middle ground, or the golden mean fallacy. 

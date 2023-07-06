@@ -5,8 +5,6 @@ date: 2023-04-10
 tags: ['misc']
 ---
 
-
-
 [[Allen Ginsberg]] also made an intense study of haiku and the paintings of Paul Cézanne, from which he adapted a concept important to his work, which he called the **Eyeball Kick**. 
 
 He noticed in viewing Cézanne's paintings that when the eye moved from one color to a contrasting color, the eye would spasm, or "kick." 

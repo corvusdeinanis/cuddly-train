@@ -10,5 +10,3 @@ tags: ['cloudcomputing']
 [[What is Cloud Computing]]
 
 
-![[Cloud Computing Important Questions#Unit 1 Cloud Computing Unit 1]]
-

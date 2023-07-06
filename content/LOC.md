@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-title : Locus Of Control
+title : "Locus Of Control"
 tags : ['psychology', 'mentalhealth']
 ---
 

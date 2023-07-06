@@ -51,14 +51,14 @@ Allele - Alternate gene
 each cell has 46 chromosomes except for sex cells
 
 ---
-Genetic Disorders 
+
+## Genetic Disorders 
 
 happen due to mutation which is a rapid change 
 
 
 1. Down Syndrome
 > Trisomy 21 
-
 2. XXY / Klinefelter
 3. XO / Turner
 4. Fragile X 
@@ -71,7 +71,7 @@ Sex linked
 
 ---
 
-Testing for genetic disorders - 
+### Testing for genetic disorders 
 -   **Carrier testing:** This blood test shows whether you or your partner carry a mutation linked to genetic disorders. This is recommended for everyone considering pregnancy, even if there is no family history.
 -   **Prenatal screening:** This testing usually involves blood testing from a pregnant person that tells them how likely it is that a fetus could have a common chromosome condition.
 -   **Prenatal diagnostic testing:** You can find out whether the developing fetus faces a higher risk for certain genetic disorders. Prenatal testing uses a sample of fluid from your uterus - **amniocentesis**

@@ -13,9 +13,9 @@ He is a member of the Wikimedia Foundation's advisory board
 
 _**Here Comes Everybody: The Power of Organizing Without Organizations**_ (2008) - the effect of the Internet on modern group dynamics and organization. According to Shirky, the book is about "what happens when people are given the tools to do things together, without needing traditional organizational structures"
 
-[[read later]] - the book
+[[private/inbox/read later]] - the book
 
-[[private/external/Love Internet Style]] 
+[[meta/external/Love Internet Style]] 
 
 theory of [[mass amateurization]]
 

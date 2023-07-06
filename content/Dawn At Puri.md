@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 title: "Dawn At Puri by Jayanta Mahapatra"
-tags: ['english']
+tags: ['english','poem']
 author: ['Jayanta Mahapatra']
 ---
 

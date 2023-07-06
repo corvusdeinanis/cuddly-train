@@ -1,7 +1,7 @@
 ---
 title: "Barnum Effect"
 date: 2023-05-07
-tags: ['misc','skepticism','psychology','adages']
+tags: ['misc','skepticism','psychology','adages','bias']
 dg-publish: true
 ---
 

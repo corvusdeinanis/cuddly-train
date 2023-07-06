@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+title: "Empirical Rule Three Sigma"
+date: 2023-07-07
+tags: ['statistics']
 ---
-
 # 68–95–99.7 rule
 
 
