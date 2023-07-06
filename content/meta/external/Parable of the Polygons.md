@@ -1,6 +1,5 @@
 ---
 title: "Parable of the Polygons"
-url: https://ncase.me/polygons/
 date: 2023-06-13
 tags: ['social','psychology','bias','politics']
 ---
