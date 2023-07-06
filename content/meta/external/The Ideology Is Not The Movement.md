@@ -1,7 +1,7 @@
 ---
 title: "The Ideology Is Not The Movement"
 date: 2023-07-07
-url: 'https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/'
+source: 'https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/'
 ---
 
 # The Ideology Is Not The Movement
