@@ -1,7 +1,7 @@
 ---
 title: "Gender"
 date: 2023-07-06
-tags: ['social','gender']
+tags: ['social','gender','feminism']
 ---
 
 # Gender

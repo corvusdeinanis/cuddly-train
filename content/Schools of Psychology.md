@@ -5,3 +5,7 @@ tags: ['psychology']
 ---
 
 Behaviourism
+Determinism
+
+[[Existential]]
+[[Humanistic]]
