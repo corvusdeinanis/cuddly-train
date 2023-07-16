@@ -2,7 +2,7 @@
 title: "Index"
 ---
 
-![astrodex](img/astrodex.png)
+![astrodex](images/astrodex-enhanced.jpg)
 
   
 # Welcome to Astro's Garden! 🌱
@@ -37,7 +37,6 @@ Leave a message if you feel like you disagree, I could do better, or something e
 - To reflect on and remember what I've learnt
 
 - Archiving! I love archiving.
-
 
 
 ### 🌱 Philosophy

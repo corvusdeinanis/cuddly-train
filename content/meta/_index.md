@@ -6,7 +6,7 @@ dg-pinned: true
 tags: ['gardenEntry']
 ---
 
-![astrodex](img/astrodex.png)
+![astrodex](images/astrodex.jpg)
 
   
 # Welcome to Astro's Garden! 🌱

@@ -8,6 +8,7 @@ date_published: "2017-08-21 03:29:00"
 ---
 
 This is the archived version for posterity. Please visit [the original site](https://www.npr.org/2017/08/20/544861933/how-one-man-convinced-200-ku-klux-klan-members-to-give-up-their-robes)
+
 # How One Man Convinced 200 Ku Klux Klan Members To Give Up Their Robes : NPR
 
 For 30 years, Daryl Davis has spent time befriending members of the Ku Klux Klan. He says 200 Klansmen have given up their robes after talking with him.

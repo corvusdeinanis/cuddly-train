@@ -7,7 +7,7 @@ author: Benedict Carey
 
 # Expert on Mental Illness Reveals Her Own Struggle - The New York Times
 
----
+
 Lives Restored
 
 -   June 23, 2011
@@ -50,8 +50,6 @@ Image![&#8220;So many people have begged me to come forward, and I just thought 
 
 Credit...Damon Winter/The New York Times
 
-![&#8220;So many people have begged me to come forward, and I just thought &#8212; well, I have to do this. I owe it to them. I cannot die a coward,&#8221; said Marsha M. Linehan, a psychologist at the University of Washington.](https://static01.nyt.com/images/2011/06/23/us/23jpLIVES1/23jpLIVES1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
-
 Her childhood, in Tulsa, Okla., provided few clues. An excellent student from early on, a natural on the piano, she was the third of six children of an oilman and his wife, an outgoing woman who juggled child care with the Junior League and Tulsa social events.
 
 People who knew the Linehans at that time remember that their precocious third child was often in trouble at home, and Dr. Linehan recalls feeling deeply inadequate compared with her attractive and accomplished siblings. But whatever currents of distress ran under the surface, no one took much notice until she was bedridden with headaches in her senior year of high school.
@@ -66,13 +64,10 @@ A discharge summary, dated May 31, 1963, noted that “during 26 months of hospi
 
 A verse the troubled girl wrote at the time reads:
 
-They put me in a four-walled room
-
-But left me really out
-
-My soul was tossed somewhere askew
-
-My limbs were tossed here about
+>They put me in a four-walled room
+>But left me really out
+>My soul was tossed somewhere askew
+>My limbs were tossed here about
 
 Bang her head where she would, the tragedy remained: no one knew what was happening to her, and as a result medical care only made it worse. Any real treatment would have to be based not on some theory, she later concluded, but on facts: which precise emotion led to which thought led to the latest gruesome act. It would have to break that chain — and teach a new behavior.
 
@@ -95,8 +90,6 @@ Image
 ![The door to the room where as a teenager Dr. Linehan was put in seclusion. The room has since been turned into a small office.](https://static01.nyt.com/images/2011/06/23/us/23jpLIVES2/23jpLIVES2-jumbo.jpg?quality=75&auto=webp&disable=upscale)
 
 Credit...Damon Winter/The New York Times
-
-![The door to the room where as a teenager Dr. Linehan was put in seclusion. The room has since been turned into a small office.](https://static01.nyt.com/images/2011/06/23/us/23jpLIVES2/23jpLIVES2-jumbo.jpg?quality=75&auto=webp&disable=upscale)
 
 What had changed?
 
@@ -131,3 +124,15 @@ In studies in the 1980s and ’90s, researchers at the University of Washington 
 Most remarkably, perhaps, Dr. Linehan has reached a place where she can stand up and tell her story, come what will. “I’m a very happy person now,” she said in an interview at her house near campus, where she lives with her adopted daughter, Geraldine, and Geraldine’s husband, Nate. “I still have ups and downs, of course, but I think no more than anyone else.”
 
 After her coming-out speech last week, she visited the seclusion room, which has since been converted to a small office. “Well, look at that, they changed the windows,” she said, holding her palms up. “There’s so much more light.”
+
+---
+
+## Highlights
+*There, doctors gave her a diagnosis of schizophrenia; dosed her with [Thorazine](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0000553/ "National Institutes of Health Web page on Thorazine"), [Librium](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0000568/ "National Institutes of Health Web Page on Librium (Chlordiazepoxide)") and other powerful drugs, as well as hours of Freudian analysis; and strapped her down for electroshock treatments, 14 shocks the first time through and 16 the second, according to her medical records. Nothing changed, and soon enough the patient was back in seclusion on the locked ward.*
+
+*It was 1967, several years after she left the institute as a desperate 20-year-old whom doctors gave little chance of surviving outside the hospital. Survive she did, barely: there was at least one suicide attempt in Tulsa, when she first arrived home; and another episode after she moved to a Y.M.C.A. in Chicago to start over.*
+
+*No therapist could promise a quick transformation or even sudden “insight,” much less a shimmering religious vision. But now Dr. Linehan was closing in on two seemingly opposed principles that could form the basis of a treatment: acceptance of life as it is, not as it is supposed to be; and the need to change, despite that reality and because of it.*
+
+*“I’m a very happy person now,” she said in an interview at her house near campus, where she lives with her adopted daughter, Geraldine, and Geraldine’s husband, Nate. “I still have ups and downs, of course, but I think no more than anyone else.”*
+
