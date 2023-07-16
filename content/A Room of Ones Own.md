@@ -142,3 +142,6 @@ Consequently she was never able to achieve in the way Austen  achieved
    right to speak their minds. It is she—shady and amorous as she
    was—who makes it not quite fantastic for me to say to you tonight: Earn five hundred a year by your wit
 
+---
+see also: [[Mary Wollstonecraft]]
+

@@ -14,5 +14,5 @@ Privilege can give some people more access to opportunities, resources, power, a
 challenges and struggles that other groups face .**
 
 see also:
-[[private/inbox/tab-inbox/equity and equality|equity and equality]]
+[[equity and equality|equity and equality]]
 
