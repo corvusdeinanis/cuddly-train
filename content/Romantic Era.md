@@ -17,7 +17,7 @@ Contained
 - intuition and emotion to the rationalism of the Enlightenment
 - **"spontaneous overflow of powerful feelings"** - [[Wordsworth]]
 
-Enlightment -> (Age of [[Johnson]]/Sensibility) -> Romantic -> Realism
+Enlightment -> (Age of [[private/inbox/unprocessed/Samuel Johnson]]/Sensibility) -> Romantic -> Realism
 
 
 Important writers from this period - 
