@@ -7,9 +7,9 @@ tags: ['fictioninfilm','film','movies']
 The Oxford History of World Cinema - Geoffrey Nowell Smith
 
 # introduction
-began as a novelty in gew big cities - New York, Paris, London, Berlin
+began as a novelty in few big cities - New York, Paris, London, Berlin
 
-Great Picture Palaces
+Great Picture Palaces (?e)
 
 films 
 short attractions -> couple of minutes long -> feature length
@@ -53,3 +53,36 @@ music came. First was the piano. On big occassions, orchestras and choirs would 
 After WWI, decisive steps were taken to synchronised sound film
 
 1926 -> *Don Juan* by Warner Bros. was released 
+
+---
+
+## Industry 
+
+**1890s - 1910s -> Pre-Hollywood**
+
+1913 - Cinema was becoming a more established industry 
+
+After WWI, American hegeony of Cinema;  
+Paris was the epicentre of the cinema industry. This shifted to Los Angeles 
+
+
+### Invention 
+No single source; no single time period 
+can go back to *Camera Obscura* in Italy, 16th Century
+Different people in different countries. For example - Lumiere Brothers, (?e)
+
+
+Kinetescope -> Edison -> 1893
+GrandCafe -> Lumiere Brothers -> Dec 1895
+Max Skladanowsky -> few months before Lumiere Brothers' demonstration
+
+
+### Lumieres' Cinematographe
+-> mainly showed documentary material 
+and made France an established leader in cinema
+
+
+### Rise of Hollywood 
+around 1910, number of companies set up business in a small suburb of Hollywood to the west of LA
+(?/) (?tf) - Why Hollywood rose; post WWI,  
+

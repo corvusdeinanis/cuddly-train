@@ -32,4 +32,11 @@ GROUP BY note
 
 ```
 
-[[]]
+[[../absurdism|absurdism]]
+[[../Existentialism|Existentialism]]
+[[../Literary Movements|Literary Movements]]
+[[World War I]]
+[[World War II]]
+[[Mainstream dilutes movements]]
+[[public consciousness]]
+
