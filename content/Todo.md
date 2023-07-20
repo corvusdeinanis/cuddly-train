@@ -128,3 +128,7 @@ Dennis Ritchie was a computer scientist and programmer who co-created the C prog
 - Charles Babbage: He was a mathematician and an inventor who designed the Difference Engine and the Analytical Engine, which were mechanical computers that were never completed. He is considered to be one of the fathers of computing.  
 - Johannes Gutenberg: He was a printer and an inventor who introduced movable type printing to Europe, which revolutionized communication and culture. He is best known for printing the Gutenberg Bible, one of the first mass-produced books.  
 - Dennis Ritchie: He was a computer scientist and a programmer who created C, one of the most influential programming languages in history. He also co-developed Unix, a powerful and versatile operating system that has inspired many other systems.
+
+### [[private/inbox/unprocessed/Utitlitarianism]], why majority is not always good, democracy, etc 
+
+
