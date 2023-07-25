@@ -1,5 +1,5 @@
 ---
-title: "210723 media management"
+title: "modern theories of management"
 date: 2023-07-21
 tags: ['draft','mediamanagement']
 ---
