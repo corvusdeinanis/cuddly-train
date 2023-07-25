@@ -85,5 +85,5 @@ Law of conservation of complexity
 
 2023-07-07
 
- - The Overton window is an approach to identifying the ideas that define the spectrum of acceptability of governmental policies. It says politicians can act only within the acceptable range. Shifting the Overton window involves proponents of policies outside the window persuading the public to expand the window.
+ - The **Overton window** is an approach to identifying the ideas that define the spectrum of acceptability of governmental policies. It says politicians can act only within the acceptable range. Shifting the Overton window involves proponents of policies outside the window persuading the public to expand the window.
 

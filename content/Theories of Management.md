@@ -4,6 +4,8 @@ date: 2023-07-17
 tags: ['mediamanagement','todo']
 ---
 
+# Classical Theories 
+
 ## Scientific Management
 
 (?) people -
@@ -61,5 +63,11 @@ subordination of individual interest to the general interest
 inititiative
 
 
+## Bureaucratic Management
 
+# Quantitative Theories 
+## Management Science 
+## Operations Management
+## Management Information System
 
+![[modern theories of management]]
