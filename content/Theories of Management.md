@@ -79,7 +79,7 @@ discipline
 unity of command 
 unity of direction 
 subordination of individual interest to the general interest
-inititiative
+initiative
 
 
 ## Bureaucratic Management
