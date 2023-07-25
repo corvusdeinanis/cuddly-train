@@ -4,6 +4,25 @@ date: 2023-07-17
 tags: ['mediamanagement','todo']
 ---
 
+```mermaid
+flowchart
+a(Theories of Management)-->b(Classical Theories)
+a-->c(Quantitative Theories)
+a-->d(Modern Theories)
+
+b-->b1(Scientific Management)
+b-->b2(Administrative)
+b-->b3(Bureaucratic)
+
+c-->c1(Management Science)
+c-->c2(Operations Management)
+c-->c3(Management Infortmation System)
+
+d-->d1(Contingency)
+d-->d2(Systems)
+```
+
+
 # Classical Theories 
 
 ## Scientific Management
@@ -69,5 +88,7 @@ inititiative
 ## Management Science 
 ## Operations Management
 ## Management Information System
+
+#
 
 ![[modern theories of management]]
