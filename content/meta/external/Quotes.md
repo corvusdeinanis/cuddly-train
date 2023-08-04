@@ -26,7 +26,7 @@ Arthur Schopenhauer. Religion
 ― Arthur Schopenhauer, Studies in Pessimism: The Essays 
 
 ---
-## [<mark>Queer Nation Manifesto</mark>](https://www.historyisaweapon.com/defcon1/queernation.html)
+## [Queer Nation Manifesto](https://www.historyisaweapon.com/defcon1/queernation.html)
  
  1. *⭐"Being queer means leading a different sort of life. It's not about the mainstream, profit-margins, patriotism, patriarchy or being assimilated. It's not about executive directors, privilege and elitism. **It's about being on the margins, defining ourselves; it's about gender-f--- and secrets, what's beneath the belt and deep inside the heart; it's about the night.** Being queer is "grass roots" because we know that everyone of us, every body, every c---, every heart and a-- and d--- is a world of pleasure waiting to be explored. Everyone of us is a world of infinite possibility."*    
 
@@ -49,3 +49,9 @@ Arthur Schopenhauer. Religion
 ---
 
  "Let go or be dragged"
+
+---
+
+*When I was a boy and I would see scary things in the news, my mother would say to me, “Look for the helpers. You will always find people who are helping.”* - [[Fred Rogers]] [[../blog/McFeely|McFeely]]
+
+---

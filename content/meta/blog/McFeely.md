@@ -42,9 +42,9 @@ But that's not it. It wasn't just the fact that I shared his view, or the genera
 
 Look at the lyrics and tell me you didn't feel a thing -
 
-It's you I like, It's not the things you wear, It's not the way you do your hair-- But it's you I like. The way you are right now, The way down deep inside you-- Not the things that hide you, Not your toys-- They're just beside you.
+> It's you I like, It's not the things you wear, It's not the way you do your hair-- But it's you I like. The way you are right now, The way down deep inside you-- Not the things that hide you, Not your toys-- They're just beside you.
 
-But it's you I like-- Every part of you, Your skin, your eyes, your feelings Whether old or new. I hope that you'll remember Even when you're feeling blue That it's you I like, It's you yourself, It's you, it's you I like.
+> But it's you I like-- Every part of you, Your skin, your eyes, your feelings Whether old or new. I hope that you'll remember Even when you're feeling blue That it's you I like, It's you yourself, It's you, it's you I like.
 
 (It's okay if the lyrics didn't do anything to you, Mister Rogers loves you regardless)
 
