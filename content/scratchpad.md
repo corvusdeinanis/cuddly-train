@@ -11,7 +11,7 @@ community
 group and types
 
 ```mermaid
-
+flowchart
 A-->B
 ```
 
@@ -72,7 +72,7 @@ Elizabeth Loftus was an American psychologist who is a leading expert on human m
 
 Carol Dweck was an American psychologist who is known for her theory of mindset, which refers to the beliefs that people have about their own abilities and potential. She distinguished between two types of mindsets: fixed mindset and growth mindset. People with a fixed mindset believe that their intelligence and talents are fixed and cannot be changed, while people with a growth mindset believe that their intelligence and talents can be developed through effort and learning. She showed that mindset affects various aspects of human behavior, such as motivation, achievement, self-regulation, and resilience.
 
-Daniel Kahneman was an Israeli-American psychologist and Nobel laureate who is a pioneer of behavioral economics and judgment and decision making. He collaborated with Amos Tversky to develop the prospect theory, which describes how people make choices under uncertainty and risk. He also proposed the dual-process theory of cognition, which distinguishes between two modes of thinking: System 1 (fast, intuitive, and emotional) and System 2 (slow, deliberate, and rational). He demonstrated that human judgment and decision making are often biased by various heuristics and fallacies that result from the use of System 1.
+
 
 Philip Zimbardo was an American psychologist who is famous for his Stanford prison experiment, which simulated a prison environment using college students as guards and prisoners. The experiment revealed how social roles, norms, and expectations can influence human behavior and morality. He also studied other topics such as shyness, time perspective, heroism, and evil. He developed the concept of the Lucifer effect, which explains how good people can turn evil under certain situational factors.
 
@@ -127,8 +127,9 @@ Dennis Ritchie was a computer scientist and programmer who co-created the C prog
 - Linus Torvalds: He is a software engineer and the creator of Linux, a free and open source operating system kernel that powers millions of devices around the world. He also developed Git, a distributed version control system that is widely used by programmers.  
 - Charles Babbage: He was a mathematician and an inventor who designed the Difference Engine and the Analytical Engine, which were mechanical computers that were never completed. He is considered to be one of the fathers of computing.  
 - Johannes Gutenberg: He was a printer and an inventor who introduced movable type printing to Europe, which revolutionized communication and culture. He is best known for printing the Gutenberg Bible, one of the first mass-produced books.  
-- Dennis Ritchie: He was a computer scientist and a programmer who created C, one of the most influential programming languages in history. He also co-developed Unix, a powerful and versatile operating system that has inspired many other systems.
+- Dennis Ritchie: He was a computer scientist and a programmer who created C, one of the most influential programming languages in history. He also co-developed Unix, a powerful and versatile operating system that has inspired many other systsems.
 
 ### [[private/inbox/unprocessed/Utitlitarianism]], why majority is not always good, democracy, etc 
 
-
+---
+*Critiques of the peak–end rule typically derive from its conflation of a complex mental evaluation into a simplistic framework. A 2008 study found some support for the peak–end rule, but also found that it was "not an outstandingly good predictor" of remembered experiential value, and that the happiness of the most memorable part of an experience predicted remembered happiness better than did the happiness of the peak or of the end.[[17]](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule#cite_note-KempBurtFurneaux2006-17) Additionally, the extreme effect of peaks fades more rapidly over time, causing peaks to be recalled less positively and troughs recalled less negatively over time. [Episodic memory](https://en.wikipedia.org/wiki/Episodic_memory "Episodic memory") endures for only a few weeks; at some point, mental accounting shifts over to [semantic memory](https://en.wikipedia.org/wiki/Semantic_memory "Semantic memory"), leading to potential over-valuation of the "end" and diminished weighting of the peak.[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_] Additionally, memories that are available for evaluation may change due to the fading affect associated with memory or differing goals in recall.[[17]](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule#cite_note-KempBurtFurneaux2006-17) Goal orientation or initial expectations can also affect the weighting of a peak or an end, causing an end to be over-weighted as the culmination of a goal.[[2]](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule#cite_note-by_moments-2) Finally, Ariely and Carmon have theorized that evaluations of past events are affected by feelings at the time of evaluation.[[21]](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule#cite_note-ArielyCarmon2000-21)*
