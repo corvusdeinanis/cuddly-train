@@ -1,6 +1,7 @@
 ---
 title: "The Ideology Is Not The Movement"
 date: 2023-07-07
+tags: ['people','social','political']
 source: https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/
 ---
 
@@ -33,6 +34,6 @@ The dangers of **tribalism** are obvious; for example, fascism is based around d
 
 - It seems to me that people have an urge toward cultural self-preservation which is as strong or stronger as the urge to individual self-preservation. Part of this is rational cost-benefit calculation – if someone loses their only tribe and ends up alone in the vast and atomized sea of modern society, it might take years before they can find another tribe and really be at home there. But a lot of it seems to be beyond that, an emotional certainty that losing one’s culture and having it replaced with another is not okay, any more than being killed at the same time someone else has a baby is okay.  
 
-- If you take only one thing from this essay, it’s that communities are best understood not logically but historically.  
+**- If you take only one thing from this essay, it’s that communities are best understood not logically but historically.**  
 
 

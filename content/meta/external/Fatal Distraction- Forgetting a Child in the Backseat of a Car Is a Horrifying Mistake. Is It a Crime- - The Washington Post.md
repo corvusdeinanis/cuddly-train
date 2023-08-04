@@ -11,15 +11,20 @@ tags: ['psychology','social','omnivore','external']
 
 ## Highlights
 
-> “The easy thing in a case like this is to dump it on a jury, but that is not the right thing to do,” Mobley says. A prosecutor’s responsibility, he says, is to achieve justice, not to settle some sort of score. [^](https://omnivore.app/me/https-www-washingtonpost-com-lifestyle-magazine-fatal-distractio-187f2a4c4b0#9d1fd18b-4c37-48f2-99be-b08ac24ba8d3) 
+> “The easy thing in a case like this is to dump it on a jury, but that is not the right thing to do,” Mobley says. A prosecutor’s responsibility, he says, is to achieve justice, not to settle some sort of score. 
 
 > Diamond is the memory expert with a lousy memory, the one who recently realized, while driving to the mall, that his infant granddaughter was asleep in the back of the car. He remembered only because his wife, sitting beside him, mentioned the baby. He understands what could have happened had he been alone with the child. Almost worse, he understands exactly why.
-> 
-> The human brain, he says, is a magnificent but jury-rigged device in which newer and more sophisticated structures sit atop a junk heap of prototype brains still used by lower species. At the top of the device are the smartest and most nimble parts: the prefrontal cortex, which thinks and analyzes, and the hippocampus, which makes and holds on to our immediate memories. At the bottom is the basal ganglia, nearly identical to the brains of lizards, controlling voluntary but barely conscious actions. [^](https://omnivore.app/me/https-www-washingtonpost-com-lifestyle-magazine-fatal-distractio-187f2a4c4b0#cc4e0a2c-265b-4c49-b537-9900b61b9173) 
+
+> The human brain, he says, is a magnificent but jury-rigged device in which newer and more sophisticated structures sit atop a junk heap of prototype brains still used by lower species. At the top of the device are the smartest and most nimble parts: the prefrontal cortex, which thinks and analyzes, and the hippocampus, which makes and holds on to our immediate memories. At the bottom is the basal ganglia, nearly identical to the brains of lizards, controlling voluntary but barely conscious actions. 
 
 
 ---
 ## Article 
+
+
+This is an archived version of the article for personal use and for posterity. Please 
+[Read the Original here](https://www.washingtonpost.com/lifestyle/magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html)
+
 A tragic lapse of memory
 
 Todd Costello of Medina, Ohio, lost his son, Tyler, in 2002 after forgetting the 9-month-old in the back of his car in his office parking lot. He's had to find a way to live with the guilt. "On that morning," he says, "I had to make brief trips from building to building, and it took me past my car. But from that position, you couldn't see into the car. It was just a ball of windshield glare. I know that is a fact. But in my dreams, that scenario changes a little. I can see my son in the car. I wave, and I say, 'I'll be right back, Tyler.'" In an interview with The Post, Costello and his wife, Melody, talk about coping with the grief.

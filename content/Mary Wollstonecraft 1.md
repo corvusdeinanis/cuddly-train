@@ -38,4 +38,4 @@ With good education, they would form
 Also wrote Vindication of Rights of Men, a pamphlet that was written as a response to Edmund Burke who was pro-monarchy.  
 
 ---
-read also: [[private/inbox/unprocessed/subjection of women|subjection of women]]
+read also: [[Subjection Of Women|Subjection Of Women]]

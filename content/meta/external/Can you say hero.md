@@ -6,6 +6,9 @@ source: https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198
 author: Tom Junod
 orgdate: 1998-11-01
 ---
+This is an archived version of the article for personal use and for posterity. Please 
+[Read the Original here](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/)
+
 
 # Can You Say...Hero? - Mr. Rogers Profile Interview
 

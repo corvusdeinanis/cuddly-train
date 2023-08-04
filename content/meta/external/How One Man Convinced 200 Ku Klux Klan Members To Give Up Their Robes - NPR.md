@@ -7,7 +7,8 @@ date_saved: "2023-03-16 20:56:59"
 date_published: "2017-08-21 03:29:00"
 ---
 
-This is the archived version for posterity. Please visit [the original site](https://www.npr.org/2017/08/20/544861933/how-one-man-convinced-200-ku-klux-klan-members-to-give-up-their-robes)
+This is an archived version of the article for personal use and for posterity. Please 
+[Read the Original here](https://www.npr.org/2017/08/20/544861933/how-one-man-convinced-200-ku-klux-klan-members-to-give-up-their-robes)
 
 # How One Man Convinced 200 Ku Klux Klan Members To Give Up Their Robes : NPR
 

@@ -5,6 +5,9 @@ source: https://www.nytimes.com/2011/06/23/health/23lives.html
 author: Benedict Carey
 ---
 
+This is an archived version of the article for personal use and for posterity. Please 
+[Read the Original here](https://www.nytimes.com/2011/06/23/health/23lives.html)
+
 # Expert on Mental Illness Reveals Her Own Struggle - The New York Times
 
 
