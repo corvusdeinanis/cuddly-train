@@ -5,6 +5,9 @@ tags: ['english','gender','feminism','film','fictioninfilm']
 ---
 An essay  by [[Laura Mulvey]] which employs psychoanalysis
 to analyze the ways of the unconscious of patriarchal society
+how that translates to the big screen
+her intention is to "destroy pleasure and beauty in the traditional sense" by asking questions
+uses [[Psychoanalytic School of Thought]]
 
 1975 
 
@@ -14,8 +17,23 @@ Mulvey argues that mainstream cinema is structured by the male gaze, which objec
 
 ### Key Points
 Phallocentrism
+Pleasure is derived from: 
+1. [[Scopophilia]] 
+	dimming of lights, faux-voyeuristic, how 
+2. [[ego libido]]
+3. [[castration complex]]
+
+**latent sexism** and how it affects cinema [^1]
 
 
+women are objects or portrayed that way; they are mere passive participants,
+they are props, they slow down the narrative with erotic contemplation (metaphorical but also literal in cases - see slo-mo),
+devoid of any actual characteristics
+just a vessel, a vehicle for male 
+Laura attributes this to women's lack of phallus 
+
+pinups, stripteases, they are **anti-narrative**; 
+reduced to powerless, agency-less, objects that are **possessed**
 
 ---
 
@@ -47,3 +65,6 @@ cinema poses questions of ways  (!e)
 ---
 
 cinema **normalizes**
+
+---
+[^1]: see [[Microaggression]]

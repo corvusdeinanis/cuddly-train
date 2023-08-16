@@ -17,7 +17,7 @@ Fields:: Film, Feminism
 ## Works 
 Works:: [[Visual Pleasure and Narrative Cinema]], 
 
-KnownFor:: male gaze 
+KnownFor:: male gaze, **intersection of human psychology and cultural representation**, relation between eroticism, narrative, and power
 
 KeyIdeas::
 
