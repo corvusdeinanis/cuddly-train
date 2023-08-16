@@ -8,7 +8,7 @@ Hi! This is a dynamic page that will show the key topics I'm reading about or fo
 
 
 ## Psychology
-I'm specifically interested in [[Bias|biases]], thinking patterns, mental illness, and therapy
+I'm specifically interested in [[Bias|biases]], thinking patterns, mental illness, and therapy. 
 
 (add links) (?/)
 
@@ -27,7 +27,7 @@ Social programming, feminism,
 Personal is political. So yeah.
 
 ## Tech
-AI, how technology is affecting our lives, and general tech stuff. I LOVE the Internet but I also hate what it's becoming. I particularly love small web / indie web. Also, I'm going to be chronicling parts of the web that are forgotten! Ruins of the internet, the web of yesterday. And how it still stands better than what we have now. Will also explore some of the subliminal spaces, the underbelly of the internet, the niche communities and more. Will archive a lot of things because I love archiving and I think it's super important. 
+AI, how technology is affecting our lives, and general tech stuff. **I LOVE the Internet but I also hate what it's becoming.** I particularly love small web / indie web. Also, I'm going to be chronicling parts of the web that are forgotten! Ruins of the internet, the web of yesterday. And how it still stands better than what we have now. Will also explore some of the subliminal spaces, the underbelly of the internet, the niche communities and more. Will archive a lot of things because I love archiving and I think it's super important. 
 
 ## Skepticism
 This is probably the most important one on the list because I cannot see the others without this. Scientific thinking, reasoning, empiricism, and rationality are super important to me. I abhor misinformation and disinformation. 
