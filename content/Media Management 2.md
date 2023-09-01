@@ -60,3 +60,5 @@ D-->J(Announcer)
 ```
 
 Q) Why is there a need for media management in today's world? 
+[[Need for Media Management]]
+
