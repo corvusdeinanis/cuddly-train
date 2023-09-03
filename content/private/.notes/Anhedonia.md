@@ -1,5 +1,0 @@
----
-title : Anhedonia
-tags : ['psych']
---- 
-

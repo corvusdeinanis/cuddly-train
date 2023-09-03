@@ -1,5 +1,0 @@
----
-<sub>
-Sources:<br>
-
-</sub>

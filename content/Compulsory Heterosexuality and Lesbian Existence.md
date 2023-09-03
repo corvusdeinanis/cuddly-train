@@ -1,5 +1,5 @@
 ---
-title: "Compulsory Heterosexuality and Lesbian Existence"
+title: "Compulsory Heterosexuality and Lesbian Existencee"
 date: 2023-07-17
 tags: ['feminism','literature','gender','queer']
 ---
@@ -9,7 +9,7 @@ first wrote it in 1980s (1986?)
 
 [[radical feminism]]
 
-was written in part to address the **erasure of lesbian existence** from scholarly feminist literature which she felt was not just anti-lesbian but also anti-feminist. It "distorts the experience of heterosexual women as well"
+was written in part to address the **erasure of lesbian existence** from scholarly feminist literature which she felt was not just anti-lesbian but also anti-feminist. It "distorts the experience of hetereosexual women as well"
 
 looks at heterosexuality as a **political institution**
 - disempowers women
@@ -73,7 +73,7 @@ peeps conflate cis with sexual attraction
 
 - The MOVEMENT IS **NOT EXTREME**.  If you're cornered and beaten day in and day out for years, it is only self defense to fight back. Society only looks when the opressed strike back but turns a blind eye towards the whole "violence" thing when it is the oppressed at the recieving end. 
 
-- Revisonist =/= responding to criticism. It is erasing and making new history.
+- Revionist =/= responding to criticism. It is erasing and making new history.
 - Revised, not revisionist (?)
 - Revisionist has negative connotations
 

@@ -27,12 +27,12 @@ Daughter -> Mary Shelley
 which said the education system taught women to be frivolous and incapable. [[Second Sex]]
 "make them glittery ornaments in the life of men"
 
-If women were given the same treatment, they would be "better mothers" and "better workers" (why?[^1] [^2] )
+If women were given the same treatment, they would be "better mothers" and "better workers" (why?)[^1] [^2]
 With good education, they would form 
 
 [^1]: because (a) had to appeal to the old white men in society who had the power to make a change (b) maybe she believed it too
 
-[^2]: ~~She wasn't very "radical", almost liberal. Was it because of the time? Was it an appeal to mass sentiments? Did she really believe that? Did she curtail her voice to be acceptable? Either way, this is in part why her texts still survive.~~
+[^2]: She wasn't very "radical", almost liberal. Was it because of the time? Was it an appeal to mass sentiments? Did she really believe that? Did she curtail her voice to be acceptable? Either way, this is in part why her texts still survive. 
 
 
 Also wrote Vindication of Rights of Men, a pamphlet that was written as a response to Edmund Burke who was pro-monarchy.  

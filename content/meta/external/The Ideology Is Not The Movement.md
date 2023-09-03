@@ -22,7 +22,7 @@ The dangers of **tribalism** are obvious; for example, fascism is based around d
 
 - ethnogenesis  
 
-- **My model of ethnogenesis involves four stages: pre-existing differences, a rallying flag, development, and dissolution.**  
+- My model of ethnogenesis involves four stages: pre-existing differences, a rallying flag, development, and dissolution.  
 
 - Pre-existing differences are the raw materials out of which tribes are made. A good tribe combines people who have similar interests and styles of interaction even before the ethnogenesis event. Any description of these differences will necessarily involve stereotypes, but a lot of them should be hard to argue.  
 
